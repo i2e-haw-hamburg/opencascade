@@ -1,0 +1,11 @@
++ TopOpeBRepBuild:source:TopOpeBRepBuild_SplitEdge.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_SplitEdge.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_SplitFace.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_SplitFace.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_SplitSolid.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_SplitSolid.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_SplitShapes.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_SplitShapes.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_Fill.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_Fill.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_define.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_define.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_kpresu.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_kpresu.hxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_BlockIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_BlockIterator.lxx
++ TopOpeBRepBuild:source:TopOpeBRepBuild_FuseFace.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepBuild/TopOpeBRepBuild_FuseFace.lxx
+- TopOpeBRepBuild:admfile:TopOpeBRepBuild_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepBuild/TopOpeBRepBuild_src.Out
+- TopOpeBRepBuild:admfile:TopOpeBRepBuild_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepBuild/TopOpeBRepBuild_xcpp_src.Out

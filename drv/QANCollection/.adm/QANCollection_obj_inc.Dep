@@ -1,0 +1,7 @@
++ QANCollection:pubinclude:QANCollection_Common.hxx QANCollection:source:QANCollection_Common.hxx
++ QANCollection:dbadmfile:QANCollection_obj_inc.In QANCollection:admfile:QANCollection_src.Out
++ * QANCollection:admfile:QANCollection_xcpp_src.Out
++ QANCollection:dbadmfile:QANCollection_obj_inc.Out QANCollection:admfile:QANCollection_src.Out
++ * QANCollection:admfile:QANCollection_xcpp_src.Out
++ QANCollection:dbadmfile:QANCollection_obj_inc.Dep QANCollection:admfile:QANCollection_src.Out
++ * QANCollection:admfile:QANCollection_xcpp_src.Out

@@ -1,0 +1,8 @@
++V BinTools:msentity:BinTools .
++V BinTools:msentity:BinTools_ShapeSet .
++V BinTools:msentity:BinTools_Curve2dSet .
++V BinTools:msentity:BinTools_CurveSet .
++V BinTools:msentity:BinTools_SurfaceSet .
++V BinTools:msentity:BinTools_LocationSet .
++V BinTools:msentity:BinTools_LocationSetPtr .
+- BinTools:admfile:BinTools_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinTools/BinTools_xcpp_fill.Out

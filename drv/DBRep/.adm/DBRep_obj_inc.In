@@ -1,0 +1,6 @@
++ DBRep:source:DBRep_Edge.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBRep/DBRep_Edge.lxx
++ DBRep:source:DBRep_Face.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBRep/DBRep_Face.lxx
++ DBRep:source:DBRep_HideData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBRep/DBRep_HideData.lxx
++ DBRep:source:DBRep_IsoBuilder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBRep/DBRep_IsoBuilder.lxx
+- DBRep:admfile:DBRep_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DBRep/DBRep_src.Out
+- DBRep:admfile:DBRep_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DBRep/DBRep_xcpp_src.Out

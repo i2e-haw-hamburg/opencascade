@@ -1,0 +1,4 @@
++ HatchGen:source:HatchGen_PointOnElement.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HatchGen/HatchGen_PointOnElement.lxx
++ HatchGen:source:HatchGen_Domain.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HatchGen/HatchGen_Domain.lxx
+- HatchGen:admfile:HatchGen_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HatchGen/HatchGen_src.Out
+- HatchGen:admfile:HatchGen_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HatchGen/HatchGen_xcpp_src.Out

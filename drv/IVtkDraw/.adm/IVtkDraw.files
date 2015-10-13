@@ -1,0 +1,9 @@
+dbadmfile IVtkDraw_xcpp_header.In
+dbadmfile IVtkDraw_xcpp_header.Out
+dbadmfile IVtkDraw_xcpp_header.Dep
+pubinclude IVtkDraw.hxx
+pubinclude IVtkDraw_HighlightAndSelectionPipeline.hxx
+pubinclude IVtkDraw_Interactor.hxx
+dbadmfile IVtkDraw_obj_inc.In
+dbadmfile IVtkDraw_obj_inc.Out
+dbadmfile IVtkDraw_obj_inc.Dep

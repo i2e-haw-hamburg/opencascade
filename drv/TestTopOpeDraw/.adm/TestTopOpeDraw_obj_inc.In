@@ -1,0 +1,4 @@
++ TestTopOpeDraw:source:TestTopOpeDraw_Displayer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TestTopOpeDraw/TestTopOpeDraw_Displayer.hxx
++ TestTopOpeDraw:source:TestTopOpeDraw_TTOT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TestTopOpeDraw/TestTopOpeDraw_TTOT.hxx
+- TestTopOpeDraw:admfile:TestTopOpeDraw_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TestTopOpeDraw/TestTopOpeDraw_src.Out
+- TestTopOpeDraw:admfile:TestTopOpeDraw_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TestTopOpeDraw/TestTopOpeDraw_xcpp_src.Out

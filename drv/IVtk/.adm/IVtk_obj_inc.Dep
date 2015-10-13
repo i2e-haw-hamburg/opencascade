@@ -1,0 +1,13 @@
++ IVtk:pubinclude:IVtk_Interface.hxx IVtk:source:IVtk_Interface.hxx
++ IVtk:pubinclude:IVtk_IShape.hxx IVtk:source:IVtk_IShape.hxx
++ IVtk:pubinclude:IVtk_IShapeData.hxx IVtk:source:IVtk_IShapeData.hxx
++ IVtk:pubinclude:IVtk_IShapeMesher.hxx IVtk:source:IVtk_IShapeMesher.hxx
++ IVtk:pubinclude:IVtk_IShapePickerAlgo.hxx IVtk:source:IVtk_IShapePickerAlgo.hxx
++ IVtk:pubinclude:IVtk_IView.hxx IVtk:source:IVtk_IView.hxx
++ IVtk:pubinclude:IVtk_Types.hxx IVtk:source:IVtk_Types.hxx
++ IVtk:dbadmfile:IVtk_obj_inc.In IVtk:admfile:IVtk_src.Out
++ * IVtk:admfile:IVtk_xcpp_src.Out
++ IVtk:dbadmfile:IVtk_obj_inc.Out IVtk:admfile:IVtk_src.Out
++ * IVtk:admfile:IVtk_xcpp_src.Out
++ IVtk:dbadmfile:IVtk_obj_inc.Dep IVtk:admfile:IVtk_src.Out
++ * IVtk:admfile:IVtk_xcpp_src.Out

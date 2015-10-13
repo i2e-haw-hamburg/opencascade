@@ -1,0 +1,7 @@
++M AppStdL:pubinclude:Handle_AppStdL_Application.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_AppStdL_Application.hxx
++M AppStdL:pubinclude:AppStdL_Application.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/AppStdL_Application.hxx
++M AppStdL:privinclude:AppStdL_Application.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppStdL/AppStdL_Application.jxx
++M AppStdL:privinclude:AppStdL_Application.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppStdL/AppStdL_Application.ixx
++M AppStdL:dbadmfile:AppStdL_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppStdL/.adm/AppStdL_xcpp_header.In
++M AppStdL:dbadmfile:AppStdL_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppStdL/.adm/AppStdL_xcpp_header.Out
++M AppStdL:dbadmfile:AppStdL_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppStdL/.adm/AppStdL_xcpp_header.Dep

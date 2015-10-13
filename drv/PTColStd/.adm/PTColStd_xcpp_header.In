@@ -1,0 +1,12 @@
++V PTColStd:msentity:PTColStd .
++V PTColStd:msentity:PTColStd_MapPersistentHasher .
++V PTColStd:msentity:PTColStd_DoubleMapOfTransientPersistent .
++V PTColStd:msentity:PTColStd_TransientPersistentMap .
++V PTColStd:msentity:PTColStd_PersistentTransientMap .
++V PTColStd:msentity:PTColStd_DoubleMapNodeOfDoubleMapOfTransientPersistent .
++V PTColStd:msentity:PTColStd_DoubleMapIteratorOfDoubleMapOfTransientPersistent .
++V PTColStd:msentity:PTColStd_DataMapNodeOfTransientPersistentMap .
++V PTColStd:msentity:PTColStd_DataMapIteratorOfTransientPersistentMap .
++V PTColStd:msentity:PTColStd_DataMapNodeOfPersistentTransientMap .
++V PTColStd:msentity:PTColStd_DataMapIteratorOfPersistentTransientMap .
+- PTColStd:admfile:PTColStd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PTColStd/PTColStd_xcpp_fill.Out

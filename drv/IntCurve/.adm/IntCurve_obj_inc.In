@@ -1,0 +1,17 @@
++ IntCurve:source:IntCurve_IntConicConic_1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntConicConic_1.hxx
++ IntCurve:source:IntCurve_IntConicConic_Tool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntConicConic_Tool.hxx
++ IntCurve:source:IntCurve_IntConicConic.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntConicConic.lxx
++ IntCurve:source:IntCurve_DistBetweenPCurvesGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_DistBetweenPCurvesGen.gxx
++ IntCurve:source:IntCurve_Polygon2dGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_Polygon2dGen.gxx
++ IntCurve:source:IntCurve_Polygon2dGen.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_Polygon2dGen.lxx
++ IntCurve:source:IntCurve_IntPolyPolyGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntPolyPolyGen.gxx
++ IntCurve:source:IntCurve_ExactIntersectionPoint.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_ExactIntersectionPoint.gxx
++ IntCurve:source:IntCurve_UserIntConicCurveGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_UserIntConicCurveGen.gxx
++ IntCurve:source:IntCurve_ProjPCurGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_ProjPCurGen.gxx
++ IntCurve:source:IntCurve_IntConicCurveGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntConicCurveGen.gxx
++ IntCurve:source:IntCurve_IntConicCurveGen.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntConicCurveGen.lxx
++ IntCurve:source:IntCurve_IntCurveCurveGen.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntCurveCurveGen.gxx
++ IntCurve:source:IntCurve_IntCurveCurveGen.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_IntCurveCurveGen.lxx
++ IntCurve:source:IntCurve_PConic.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurve/IntCurve_PConic.lxx
+- IntCurve:admfile:IntCurve_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntCurve/IntCurve_src.Out
+- IntCurve:admfile:IntCurve_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntCurve/IntCurve_xcpp_src.Out

@@ -1,0 +1,11 @@
++ Units:source:Units_Operators.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Operators.hxx
++ Units:source:Units_Dimensions.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Dimensions.lxx
++ Units:source:Units_Unit.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Unit.lxx
++ Units:source:Units_Token.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Token.lxx
++ Units:source:Units_Quantity.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Quantity.lxx
++ Units:source:Units_UnitsDictionary.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_UnitsDictionary.lxx
++ Units:source:Units_Sentence.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Sentence.lxx
++ Units:source:Units_Lexicon.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_Lexicon.lxx
++ Units:source:Units_UnitsLexicon.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Units/Units_UnitsLexicon.lxx
+- Units:admfile:Units_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Units/Units_src.Out
+- Units:admfile:Units_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Units/Units_xcpp_src.Out

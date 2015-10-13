@@ -1,0 +1,6 @@
++M QADNaming:pubinclude:QADNaming.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/QADNaming.hxx
++M QADNaming:privinclude:QADNaming.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADNaming/QADNaming.jxx
++M QADNaming:privinclude:QADNaming.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADNaming/QADNaming.ixx
++M QADNaming:dbadmfile:QADNaming_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADNaming/.adm/QADNaming_xcpp_header.In
++M QADNaming:dbadmfile:QADNaming_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADNaming/.adm/QADNaming_xcpp_header.Out
++M QADNaming:dbadmfile:QADNaming_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADNaming/.adm/QADNaming_xcpp_header.Dep

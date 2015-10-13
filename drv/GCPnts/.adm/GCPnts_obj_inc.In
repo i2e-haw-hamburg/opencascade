@@ -1,0 +1,14 @@
++ GCPnts:source:GCPnts_AbscissaPoint.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_AbscissaPoint.gxx
++ GCPnts:source:GCPnts_UniformDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_UniformDeflection.gxx
++ GCPnts:source:GCPnts_UniformAbscissa.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_UniformAbscissa.gxx
++ GCPnts:source:GCPnts_QuasiUniformAbscissa.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_QuasiUniformAbscissa.gxx
++ GCPnts:source:GCPnts_QuasiUniformDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_QuasiUniformDeflection.gxx
++ GCPnts:source:GCPnts_TangentialDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_TangentialDeflection.gxx
++ GCPnts:source:GCPnts_AbscissaPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_AbscissaPoint.lxx
++ GCPnts:source:GCPnts_UniformAbscissa.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_UniformAbscissa.lxx
++ GCPnts:source:GCPnts_UniformDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_UniformDeflection.lxx
++ GCPnts:source:GCPnts_QuasiUniformDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_QuasiUniformDeflection.lxx
++ GCPnts:source:GCPnts_QuasiUniformAbscissa.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_QuasiUniformAbscissa.lxx
++ GCPnts:source:GCPnts_TangentialDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GCPnts/GCPnts_TangentialDeflection.lxx
+- GCPnts:admfile:GCPnts_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GCPnts/GCPnts_src.Out
+- GCPnts:admfile:GCPnts_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GCPnts/GCPnts_xcpp_src.Out

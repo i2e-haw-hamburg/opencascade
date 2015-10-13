@@ -1,0 +1,4 @@
+pubinclude XBRepMesh.hxx
+dbadmfile XBRepMesh_obj_inc.In
+dbadmfile XBRepMesh_obj_inc.Out
+dbadmfile XBRepMesh_obj_inc.Dep

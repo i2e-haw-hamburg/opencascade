@@ -1,0 +1,8 @@
++M Font:pubinclude:Font_BRepFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_BRepFont.hxx
++M Font:pubinclude:Font_FTFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_FTFont.hxx
++M Font:pubinclude:Font_FTLibrary.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_FTLibrary.hxx
++M Font:pubinclude:Font_NListOfSystemFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_NListOfSystemFont.hxx
++M Font:pubinclude:Font_NameOfFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_NameOfFont.hxx
++M Font:dbadmfile:Font_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_obj_inc.In
++M Font:dbadmfile:Font_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_obj_inc.Out
++M Font:dbadmfile:Font_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_obj_inc.Dep

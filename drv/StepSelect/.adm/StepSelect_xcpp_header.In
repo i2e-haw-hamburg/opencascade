@@ -1,0 +1,8 @@
++V StepSelect:msentity:StepSelect .
++V StepSelect:msentity:StepSelect_StepType .
++V StepSelect:msentity:StepSelect_ModelModifier .
++V StepSelect:msentity:StepSelect_FileModifier .
++V StepSelect:msentity:StepSelect_FloatFormat .
++V StepSelect:msentity:StepSelect_WorkLibrary .
++V StepSelect:msentity:StepSelect_Activator .
+- StepSelect:admfile:StepSelect_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StepSelect/StepSelect_xcpp_fill.Out

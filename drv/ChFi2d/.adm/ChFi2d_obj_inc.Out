@@ -1,0 +1,8 @@
++M ChFi2d:pubinclude:ChFi2d_FilletAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFi2d_FilletAlgo.hxx
++M ChFi2d:pubinclude:ChFi2d_AnaFilletAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFi2d_AnaFilletAlgo.hxx
++M ChFi2d:pubinclude:ChFi2d_ChamferAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFi2d_ChamferAPI.hxx
++M ChFi2d:pubinclude:ChFi2d_FilletAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFi2d_FilletAPI.hxx
++M ChFi2d:pubinclude:ChFi2d_Builder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFi2d_Builder.lxx
++M ChFi2d:dbadmfile:ChFi2d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFi2d/.adm/ChFi2d_obj_inc.In
++M ChFi2d:dbadmfile:ChFi2d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFi2d/.adm/ChFi2d_obj_inc.Out
++M ChFi2d:dbadmfile:ChFi2d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFi2d/.adm/ChFi2d_obj_inc.Dep

@@ -1,0 +1,14 @@
++M CSLib:pubinclude:CSLib.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CSLib.hxx
++M CSLib:privinclude:CSLib.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib.jxx
++M CSLib:privinclude:CSLib.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib.ixx
++M CSLib:pubinclude:CSLib_Class2d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CSLib_Class2d.hxx
++M CSLib:privinclude:CSLib_Class2d.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib_Class2d.jxx
++M CSLib:privinclude:CSLib_Class2d.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib_Class2d.ixx
++M CSLib:pubinclude:CSLib_NormalPolyDef.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CSLib_NormalPolyDef.hxx
++M CSLib:privinclude:CSLib_NormalPolyDef.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib_NormalPolyDef.jxx
++M CSLib:privinclude:CSLib_NormalPolyDef.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/CSLib_NormalPolyDef.ixx
++M CSLib:pubinclude:CSLib_DerivativeStatus.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CSLib_DerivativeStatus.hxx
++M CSLib:pubinclude:CSLib_NormalStatus.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CSLib_NormalStatus.hxx
++M CSLib:dbadmfile:CSLib_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/.adm/CSLib_xcpp_header.In
++M CSLib:dbadmfile:CSLib_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/.adm/CSLib_xcpp_header.Out
++M CSLib:dbadmfile:CSLib_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CSLib/.adm/CSLib_xcpp_header.Dep

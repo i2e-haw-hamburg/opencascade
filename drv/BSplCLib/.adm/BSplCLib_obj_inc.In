@@ -1,0 +1,5 @@
++ BSplCLib:source:BSplCLib_CurveComputation.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BSplCLib/BSplCLib_CurveComputation.gxx
++ BSplCLib:source:BSplCLib_EvaluatorFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BSplCLib/BSplCLib_EvaluatorFunction.hxx
++ BSplCLib:source:BSplCLib.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BSplCLib/BSplCLib.lxx
+- BSplCLib:admfile:BSplCLib_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BSplCLib/BSplCLib_src.Out
+- BSplCLib:admfile:BSplCLib_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BSplCLib/BSplCLib_xcpp_src.Out

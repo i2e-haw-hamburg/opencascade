@@ -1,0 +1,11 @@
++M PPrsStd:pubinclude:Handle_PPrsStd_AISPresentation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PPrsStd_AISPresentation.hxx
++M PPrsStd:pubinclude:PPrsStd_AISPresentation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PPrsStd_AISPresentation.hxx
++M PPrsStd:privinclude:PPrsStd_AISPresentation.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/PPrsStd_AISPresentation.jxx
++M PPrsStd:privinclude:PPrsStd_AISPresentation.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/PPrsStd_AISPresentation.ixx
++M PPrsStd:pubinclude:Handle_PPrsStd_AISPresentation_1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PPrsStd_AISPresentation_1.hxx
++M PPrsStd:pubinclude:PPrsStd_AISPresentation_1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PPrsStd_AISPresentation_1.hxx
++M PPrsStd:privinclude:PPrsStd_AISPresentation_1.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/PPrsStd_AISPresentation_1.jxx
++M PPrsStd:privinclude:PPrsStd_AISPresentation_1.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/PPrsStd_AISPresentation_1.ixx
++M PPrsStd:dbadmfile:PPrsStd_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/.adm/PPrsStd_xcpp_header.In
++M PPrsStd:dbadmfile:PPrsStd_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/.adm/PPrsStd_xcpp_header.Out
++M PPrsStd:dbadmfile:PPrsStd_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PPrsStd/.adm/PPrsStd_xcpp_header.Dep

@@ -1,0 +1,13 @@
++ PCollection:pubinclude:PCollection_HArray1.gxx PCollection:source:PCollection_HArray1.gxx
++ PCollection:pubinclude:PCollection_HArray1.lxx PCollection:source:PCollection_HArray1.lxx
++ PCollection:pubinclude:PCollection_HArray2.gxx PCollection:source:PCollection_HArray2.gxx
++ PCollection:pubinclude:PCollection_HArray2.lxx PCollection:source:PCollection_HArray2.lxx
++ PCollection:pubinclude:PCollection_HSequence.gxx PCollection:source:PCollection_HSequence.gxx
++ PCollection:pubinclude:PCollection_SeqNode.gxx PCollection:source:PCollection_SeqNode.gxx
++ PCollection:pubinclude:PCollection_SeqExplorer.gxx PCollection:source:PCollection_SeqExplorer.gxx
++ PCollection:dbadmfile:PCollection_obj_inc.In PCollection:admfile:PCollection_src.Out
++ * PCollection:admfile:PCollection_xcpp_src.Out
++ PCollection:dbadmfile:PCollection_obj_inc.Out PCollection:admfile:PCollection_src.Out
++ * PCollection:admfile:PCollection_xcpp_src.Out
++ PCollection:dbadmfile:PCollection_obj_inc.Dep PCollection:admfile:PCollection_src.Out
++ * PCollection:admfile:PCollection_xcpp_src.Out

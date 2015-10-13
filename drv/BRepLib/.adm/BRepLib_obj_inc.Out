@@ -1,0 +1,4 @@
++M BRepLib:pubinclude:BRepLib_CheckCurveOnSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepLib_CheckCurveOnSurface.lxx
++M BRepLib:dbadmfile:BRepLib_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepLib/.adm/BRepLib_obj_inc.In
++M BRepLib:dbadmfile:BRepLib_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepLib/.adm/BRepLib_obj_inc.Out
++M BRepLib:dbadmfile:BRepLib_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepLib/.adm/BRepLib_obj_inc.Dep

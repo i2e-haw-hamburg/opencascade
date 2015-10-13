@@ -1,0 +1,3 @@
++ GeomConvert:source:GeomConvert_CompBezierSurfacesToBSplineSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomConvert/GeomConvert_CompBezierSurfacesToBSplineSurface.lxx
+- GeomConvert:admfile:GeomConvert_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomConvert/GeomConvert_src.Out
+- GeomConvert:admfile:GeomConvert_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomConvert/GeomConvert_xcpp_src.Out

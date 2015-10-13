@@ -1,0 +1,10 @@
++ GeomFill:source:GeomFill_BezierCurves.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_BezierCurves.lxx
++ GeomFill:source:GeomFill_BSplineCurves.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_BSplineCurves.lxx
++ GeomFill:source:GeomFill_Profiler.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_Profiler.lxx
++ GeomFill:source:GeomFill_Line.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_Line.lxx
++ GeomFill:source:GeomFill_SweepSectionGenerator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_SweepSectionGenerator.lxx
++ GeomFill:source:GeomFill_Generator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_Generator.lxx
++ GeomFill:source:GeomFill_Pipe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_Pipe.lxx
++ GeomFill:source:GeomFill_Tensor.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomFill/GeomFill_Tensor.lxx
+- GeomFill:admfile:GeomFill_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomFill/GeomFill_src.Out
+- GeomFill:admfile:GeomFill_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomFill/GeomFill_xcpp_src.Out

@@ -1,0 +1,14 @@
++M Aspect:pubinclude:Aspect_CLayer2d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_CLayer2d.hxx
++M Aspect:pubinclude:Aspect_Handle.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_Handle.hxx
++M Aspect:pubinclude:Aspect_XWD.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_XWD.hxx
++M Aspect:pubinclude:Aspect_Units.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_Units.hxx
++M Aspect:pubinclude:Aspect_RenderingContext.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_RenderingContext.hxx
++M Aspect:pubinclude:Aspect_GraphicCallbackProc.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_GraphicCallbackProc.hxx
++M Aspect:pubinclude:Aspect_Display.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_Display.hxx
++M Aspect:pubinclude:Aspect_Drawable.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_Drawable.hxx
++M Aspect:pubinclude:Aspect_PolygonOffsetMode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_PolygonOffsetMode.hxx
++M Aspect:pubinclude:Aspect_Convert.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_Convert.hxx
++M Aspect:pubinclude:Aspect_DisplayConnection.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Aspect_DisplayConnection.hxx
++M Aspect:dbadmfile:Aspect_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Aspect/.adm/Aspect_obj_inc.In
++M Aspect:dbadmfile:Aspect_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Aspect/.adm/Aspect_obj_inc.Out
++M Aspect:dbadmfile:Aspect_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Aspect/.adm/Aspect_obj_inc.Dep

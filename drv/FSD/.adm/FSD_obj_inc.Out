@@ -1,0 +1,6 @@
++M FSD:pubinclude:FSD_FStream.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_FStream.hxx
++M FSD:pubinclude:FSD_BStream.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_BStream.hxx
++M FSD:pubinclude:FSD_FileHeader.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_FileHeader.hxx
++M FSD:dbadmfile:FSD_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_obj_inc.In
++M FSD:dbadmfile:FSD_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_obj_inc.Out
++M FSD:dbadmfile:FSD_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_obj_inc.Dep

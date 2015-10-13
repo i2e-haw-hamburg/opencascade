@@ -1,0 +1,5 @@
++ Resource:source:Resource_ConvertUnicode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Resource/Resource_ConvertUnicode.hxx
++ Resource:source:Resource_Shiftjis.h /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Resource/Resource_Shiftjis.h
++ Resource:source:Resource_gb2312.h /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Resource/Resource_gb2312.h
+- Resource:admfile:Resource_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Resource/Resource_src.Out
+- Resource:admfile:Resource_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Resource/Resource_xcpp_src.Out

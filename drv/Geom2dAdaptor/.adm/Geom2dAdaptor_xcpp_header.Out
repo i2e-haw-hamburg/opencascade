@@ -1,0 +1,16 @@
++M Geom2dAdaptor:pubinclude:Geom2dAdaptor.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dAdaptor.hxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor.jxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor.ixx
++M Geom2dAdaptor:pubinclude:Geom2dAdaptor_Curve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dAdaptor_Curve.hxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor_Curve.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor_Curve.jxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor_Curve.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor_Curve.ixx
++M Geom2dAdaptor:pubinclude:Handle_Geom2dAdaptor_GHCurve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Geom2dAdaptor_GHCurve.hxx
++M Geom2dAdaptor:pubinclude:Geom2dAdaptor_GHCurve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dAdaptor_GHCurve.hxx
++M Geom2dAdaptor:derivated:Geom2dAdaptor_GHCurve_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor_GHCurve_0.cxx
++M Geom2dAdaptor:pubinclude:Handle_Geom2dAdaptor_HCurve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Geom2dAdaptor_HCurve.hxx
++M Geom2dAdaptor:pubinclude:Geom2dAdaptor_HCurve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dAdaptor_HCurve.hxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor_HCurve.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor_HCurve.jxx
++M Geom2dAdaptor:privinclude:Geom2dAdaptor_HCurve.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/Geom2dAdaptor_HCurve.ixx
++M Geom2dAdaptor:dbadmfile:Geom2dAdaptor_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/.adm/Geom2dAdaptor_xcpp_header.In
++M Geom2dAdaptor:dbadmfile:Geom2dAdaptor_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/.adm/Geom2dAdaptor_xcpp_header.Out
++M Geom2dAdaptor:dbadmfile:Geom2dAdaptor_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dAdaptor/.adm/Geom2dAdaptor_xcpp_header.Dep

@@ -1,0 +1,8 @@
++ IVtkVTK:pubinclude:IVtkVTK_ShapeData.hxx IVtkVTK:source:IVtkVTK_ShapeData.hxx
++ IVtkVTK:pubinclude:IVtkVTK_View.hxx IVtkVTK:source:IVtkVTK_View.hxx
++ IVtkVTK:dbadmfile:IVtkVTK_obj_inc.In IVtkVTK:admfile:IVtkVTK_src.Out
++ * IVtkVTK:admfile:IVtkVTK_xcpp_src.Out
++ IVtkVTK:dbadmfile:IVtkVTK_obj_inc.Out IVtkVTK:admfile:IVtkVTK_src.Out
++ * IVtkVTK:admfile:IVtkVTK_xcpp_src.Out
++ IVtkVTK:dbadmfile:IVtkVTK_obj_inc.Dep IVtkVTK:admfile:IVtkVTK_src.Out
++ * IVtkVTK:admfile:IVtkVTK_xcpp_src.Out

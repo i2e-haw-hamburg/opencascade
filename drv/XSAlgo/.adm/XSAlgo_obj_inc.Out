@@ -1,0 +1,4 @@
++M XSAlgo:pubinclude:XSAlgo_AlgoContainer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSAlgo_AlgoContainer.lxx
++M XSAlgo:dbadmfile:XSAlgo_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSAlgo/.adm/XSAlgo_obj_inc.In
++M XSAlgo:dbadmfile:XSAlgo_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSAlgo/.adm/XSAlgo_obj_inc.Out
++M XSAlgo:dbadmfile:XSAlgo_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSAlgo/.adm/XSAlgo_obj_inc.Dep

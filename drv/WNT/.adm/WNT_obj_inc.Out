@@ -1,0 +1,7 @@
++M WNT:pubinclude:WNT_Dword.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/WNT_Dword.hxx
++M WNT:pubinclude:WNT_Uint.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/WNT_Uint.hxx
++M WNT:pubinclude:WNT_Window.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/WNT_Window.lxx
++M WNT:pubinclude:WNT_WClass.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/WNT_WClass.lxx
++M WNT:dbadmfile:WNT_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/WNT/.adm/WNT_obj_inc.In
++M WNT:dbadmfile:WNT_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/WNT/.adm/WNT_obj_inc.Out
++M WNT:dbadmfile:WNT_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/WNT/.adm/WNT_obj_inc.Dep

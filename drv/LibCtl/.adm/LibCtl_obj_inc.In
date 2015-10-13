@@ -1,0 +1,5 @@
++ LibCtl:source:LibCtl_GlobalNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LibCtl/LibCtl_GlobalNode.gxx
++ LibCtl:source:LibCtl_Library.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LibCtl/LibCtl_Library.gxx
++ LibCtl:source:LibCtl_Node.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LibCtl/LibCtl_Node.gxx
+- LibCtl:admfile:LibCtl_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LibCtl/LibCtl_src.Out
+- LibCtl:admfile:LibCtl_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LibCtl/LibCtl_xcpp_src.Out

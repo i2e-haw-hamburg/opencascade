@@ -1,0 +1,6 @@
++ V3d:source:V3d_Plane.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/V3d/V3d_Plane.hxx
++ V3d:source:V3d_ListOfTransient.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/V3d/V3d_ListOfTransient.hxx
++ V3d:source:V3d_StereoDumpOptions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/V3d/V3d_StereoDumpOptions.hxx
++ V3d:source:V3d_LayerMgr.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/V3d/V3d_LayerMgr.lxx
+- V3d:admfile:V3d_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/V3d/V3d_src.Out
+- V3d:admfile:V3d_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/V3d/V3d_xcpp_src.Out

@@ -1,0 +1,8 @@
++ Intf:source:Intf_Polygon2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_Polygon2d.lxx
++ Intf:source:Intf_SectionPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_SectionPoint.lxx
++ Intf:source:Intf_SectionLine.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_SectionLine.lxx
++ Intf:source:Intf_TangentZone.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_TangentZone.lxx
++ Intf:source:Intf_Interference.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_Interference.lxx
++ Intf:source:Intf_InterferencePolygonPolyhedron.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intf/Intf_InterferencePolygonPolyhedron.gxx
+- Intf:admfile:Intf_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Intf/Intf_src.Out
+- Intf:admfile:Intf_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Intf/Intf_xcpp_src.Out

@@ -1,0 +1,4 @@
++ BinMDF:source:BinMDF_ADriver.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BinMDF/BinMDF_ADriver.lxx
++ BinMDF:source:BinMDF_ADriverTable.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BinMDF/BinMDF_ADriverTable.lxx
+- BinMDF:admfile:BinMDF_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinMDF/BinMDF_src.Out
+- BinMDF:admfile:BinMDF_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinMDF/BinMDF_xcpp_src.Out

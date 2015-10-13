@@ -1,0 +1,12 @@
+dbadmfile Image_xcpp_header.In
+dbadmfile Image_xcpp_header.Out
+dbadmfile Image_xcpp_header.Dep
+pubinclude Image_PixMap.hxx
+pubinclude Image_PixMap_Handle.hxx
+pubinclude Image_PixMapData.hxx
+pubinclude Image_Color.hxx
+pubinclude Image_AlienPixMap.hxx
+pubinclude Image_Diff.hxx
+dbadmfile Image_obj_inc.In
+dbadmfile Image_obj_inc.Out
+dbadmfile Image_obj_inc.Dep

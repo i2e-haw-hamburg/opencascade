@@ -1,0 +1,7 @@
++V Image:msentity:Image .
++V Image:msentity:Image_PixMap .
++V Image:msentity:Image_AlienPixMap .
++V Image:msentity:Image_PixMap_Handle .
++V Image:msentity:Image_AlienPixMap_Handle .
++V Image:msentity:Image_Diff .
+- Image:admfile:Image_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Image/Image_xcpp_fill.Out

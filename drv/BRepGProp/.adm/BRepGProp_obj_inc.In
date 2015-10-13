@@ -1,0 +1,8 @@
++ BRepGProp:source:BRepGProp_Gauss.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_Gauss.hxx
++ BRepGProp:source:BRepGProp_Face.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_Face.lxx
++ BRepGProp:source:BRepGProp_Domain.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_Domain.lxx
++ BRepGProp:source:BRepGProp_VinertGK.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_VinertGK.lxx
++ BRepGProp:source:BRepGProp_UFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_UFunction.lxx
++ BRepGProp:source:BRepGProp_TFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepGProp/BRepGProp_TFunction.lxx
+- BRepGProp:admfile:BRepGProp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepGProp/BRepGProp_src.Out
+- BRepGProp:admfile:BRepGProp_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepGProp/BRepGProp_xcpp_src.Out

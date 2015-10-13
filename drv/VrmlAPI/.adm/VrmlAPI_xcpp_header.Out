@@ -1,0 +1,10 @@
++M VrmlAPI:pubinclude:VrmlAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/VrmlAPI.hxx
++M VrmlAPI:privinclude:VrmlAPI.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/VrmlAPI.jxx
++M VrmlAPI:privinclude:VrmlAPI.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/VrmlAPI.ixx
++M VrmlAPI:pubinclude:VrmlAPI_Writer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/VrmlAPI_Writer.hxx
++M VrmlAPI:privinclude:VrmlAPI_Writer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/VrmlAPI_Writer.jxx
++M VrmlAPI:privinclude:VrmlAPI_Writer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/VrmlAPI_Writer.ixx
++M VrmlAPI:pubinclude:VrmlAPI_RepresentationOfShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/VrmlAPI_RepresentationOfShape.hxx
++M VrmlAPI:dbadmfile:VrmlAPI_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/.adm/VrmlAPI_xcpp_header.In
++M VrmlAPI:dbadmfile:VrmlAPI_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/.adm/VrmlAPI_xcpp_header.Out
++M VrmlAPI:dbadmfile:VrmlAPI_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/VrmlAPI/.adm/VrmlAPI_xcpp_header.Dep

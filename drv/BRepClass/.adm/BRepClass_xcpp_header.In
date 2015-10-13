@@ -1,0 +1,9 @@
++V BRepClass:msentity:BRepClass .
++V BRepClass:msentity:BRepClass_Edge .
++V BRepClass:msentity:BRepClass_Intersector .
++V BRepClass:msentity:BRepClass_FacePassiveClassifier .
++V BRepClass:msentity:BRepClass_FaceExplorer .
++V BRepClass:msentity:BRepClass_FClassifier .
++V BRepClass:msentity:BRepClass_FaceClassifier .
++V BRepClass:msentity:BRepClass_FClass2dOfFClassifier .
+- BRepClass:admfile:BRepClass_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepClass/BRepClass_xcpp_fill.Out

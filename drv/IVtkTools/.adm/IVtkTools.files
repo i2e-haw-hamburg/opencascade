@@ -1,0 +1,12 @@
+dbadmfile IVtkTools_xcpp_header.In
+dbadmfile IVtkTools_xcpp_header.Out
+dbadmfile IVtkTools_xcpp_header.Dep
+pubinclude IVtkTools.hxx
+pubinclude IVtkTools_DisplayModeFilter.hxx
+pubinclude IVtkTools_ShapeDataSource.hxx
+pubinclude IVtkTools_ShapeObject.hxx
+pubinclude IVtkTools_ShapePicker.hxx
+pubinclude IVtkTools_SubPolyDataFilter.hxx
+dbadmfile IVtkTools_obj_inc.In
+dbadmfile IVtkTools_obj_inc.Out
+dbadmfile IVtkTools_obj_inc.Dep

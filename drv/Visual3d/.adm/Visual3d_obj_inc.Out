@@ -1,0 +1,5 @@
++M Visual3d:pubinclude:Visual3d_NListOfLayerItem.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Visual3d_NListOfLayerItem.hxx
++M Visual3d:pubinclude:Visual3d_MapOfZLayerSettings.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Visual3d_MapOfZLayerSettings.hxx
++M Visual3d:dbadmfile:Visual3d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Visual3d/.adm/Visual3d_obj_inc.In
++M Visual3d:dbadmfile:Visual3d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Visual3d/.adm/Visual3d_obj_inc.Out
++M Visual3d:dbadmfile:Visual3d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Visual3d/.adm/Visual3d_obj_inc.Dep

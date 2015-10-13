@@ -1,0 +1,5 @@
++M BSplSLib:pubinclude:BSplSLib_EvaluatorFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BSplSLib_EvaluatorFunction.hxx
++M BSplSLib:pubinclude:BSplSLib.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BSplSLib.lxx
++M BSplSLib:dbadmfile:BSplSLib_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_obj_inc.In
++M BSplSLib:dbadmfile:BSplSLib_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_obj_inc.Out
++M BSplSLib:dbadmfile:BSplSLib_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_obj_inc.Dep

@@ -1,0 +1,6 @@
++ SortTools:source:SortTools_HeapSort.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SortTools/SortTools_HeapSort.gxx
++ SortTools:source:SortTools_QuickSort.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SortTools/SortTools_QuickSort.gxx
++ SortTools:source:SortTools_ShellSort.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SortTools/SortTools_ShellSort.gxx
++ SortTools:source:SortTools_StraightInsertionSort.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SortTools/SortTools_StraightInsertionSort.gxx
+- SortTools:admfile:SortTools_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SortTools/SortTools_src.Out
+- SortTools:admfile:SortTools_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SortTools/SortTools_xcpp_src.Out

@@ -1,0 +1,6 @@
++ QADNaming:pubinclude:QADNaming.hxx QADNaming:msentity:QADNaming
++ QADNaming:privinclude:QADNaming.jxx QADNaming:msentity:QADNaming
++ QADNaming:privinclude:QADNaming.ixx QADNaming:msentity:QADNaming
++ QADNaming:dbadmfile:QADNaming_xcpp_header.In QADNaming:admfile:QADNaming_xcpp_fill.Out
++ QADNaming:dbadmfile:QADNaming_xcpp_header.Out QADNaming:admfile:QADNaming_xcpp_fill.Out
++ QADNaming:dbadmfile:QADNaming_xcpp_header.Dep QADNaming:admfile:QADNaming_xcpp_fill.Out

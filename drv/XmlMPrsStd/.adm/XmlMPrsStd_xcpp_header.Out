@@ -1,0 +1,14 @@
++M XmlMPrsStd:pubinclude:XmlMPrsStd.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMPrsStd.hxx
++M XmlMPrsStd:privinclude:XmlMPrsStd.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd.jxx
++M XmlMPrsStd:privinclude:XmlMPrsStd.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd.ixx
++M XmlMPrsStd:pubinclude:Handle_XmlMPrsStd_PositionDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlMPrsStd_PositionDriver.hxx
++M XmlMPrsStd:pubinclude:XmlMPrsStd_PositionDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMPrsStd_PositionDriver.hxx
++M XmlMPrsStd:privinclude:XmlMPrsStd_PositionDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd_PositionDriver.jxx
++M XmlMPrsStd:privinclude:XmlMPrsStd_PositionDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd_PositionDriver.ixx
++M XmlMPrsStd:pubinclude:Handle_XmlMPrsStd_AISPresentationDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlMPrsStd_AISPresentationDriver.hxx
++M XmlMPrsStd:pubinclude:XmlMPrsStd_AISPresentationDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMPrsStd_AISPresentationDriver.hxx
++M XmlMPrsStd:privinclude:XmlMPrsStd_AISPresentationDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd_AISPresentationDriver.jxx
++M XmlMPrsStd:privinclude:XmlMPrsStd_AISPresentationDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/XmlMPrsStd_AISPresentationDriver.ixx
++M XmlMPrsStd:dbadmfile:XmlMPrsStd_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/.adm/XmlMPrsStd_xcpp_header.In
++M XmlMPrsStd:dbadmfile:XmlMPrsStd_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/.adm/XmlMPrsStd_xcpp_header.Out
++M XmlMPrsStd:dbadmfile:XmlMPrsStd_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMPrsStd/.adm/XmlMPrsStd_xcpp_header.Dep

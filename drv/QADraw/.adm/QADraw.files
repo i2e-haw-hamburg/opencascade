@@ -1,0 +1,9 @@
+pubinclude QADraw.hxx
+privinclude QADraw.jxx
+privinclude QADraw.ixx
+dbadmfile QADraw_xcpp_header.In
+dbadmfile QADraw_xcpp_header.Out
+dbadmfile QADraw_xcpp_header.Dep
+dbadmfile QADraw_obj_inc.In
+dbadmfile QADraw_obj_inc.Out
+dbadmfile QADraw_obj_inc.Dep

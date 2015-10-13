@@ -1,0 +1,6 @@
++ QADraw:pubinclude:QADraw.hxx QADraw:msentity:QADraw
++ QADraw:privinclude:QADraw.jxx QADraw:msentity:QADraw
++ QADraw:privinclude:QADraw.ixx QADraw:msentity:QADraw
++ QADraw:dbadmfile:QADraw_xcpp_header.In QADraw:admfile:QADraw_xcpp_fill.Out
++ QADraw:dbadmfile:QADraw_xcpp_header.Out QADraw:admfile:QADraw_xcpp_fill.Out
++ QADraw:dbadmfile:QADraw_xcpp_header.Dep QADraw:admfile:QADraw_xcpp_fill.Out

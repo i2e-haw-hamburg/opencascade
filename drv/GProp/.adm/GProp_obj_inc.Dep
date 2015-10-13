@@ -1,0 +1,6 @@
++ GProp:dbadmfile:GProp_obj_inc.In GProp:admfile:GProp_src.Out
++ * GProp:admfile:GProp_xcpp_src.Out
++ GProp:dbadmfile:GProp_obj_inc.Out GProp:admfile:GProp_src.Out
++ * GProp:admfile:GProp_xcpp_src.Out
++ GProp:dbadmfile:GProp_obj_inc.Dep GProp:admfile:GProp_src.Out
++ * GProp:admfile:GProp_xcpp_src.Out

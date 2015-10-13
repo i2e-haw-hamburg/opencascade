@@ -1,0 +1,13 @@
++V TransferBRep:msentity:TransferBRep .
++V TransferBRep:msentity:TransferBRep_Reader .
++V TransferBRep:msentity:TransferBRep_ShapeInfo .
++V TransferBRep:msentity:TransferBRep_BinderOfShape .
++V TransferBRep:msentity:TransferBRep_ShapeBinder .
++V TransferBRep:msentity:TransferBRep_ShapeListBinder .
++V TransferBRep:msentity:TransferBRep_ShapeMapper .
++V TransferBRep:msentity:TransferBRep_OrientedShapeMapper .
++V TransferBRep:msentity:TransferBRep_TransferResultInfo .
++V TransferBRep:msentity:TransferBRep_SequenceOfTransferResultInfo .
++V TransferBRep:msentity:TransferBRep_HSequenceOfTransferResultInfo .
++V TransferBRep:msentity:TransferBRep_SequenceNodeOfSequenceOfTransferResultInfo .
+- TransferBRep:admfile:TransferBRep_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TransferBRep/TransferBRep_xcpp_fill.Out

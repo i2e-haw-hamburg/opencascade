@@ -1,0 +1,12 @@
++V IntWalk:msentity:IntWalk .
++V IntWalk:msentity:IntWalk_IWLine .
++V IntWalk:msentity:IntWalk_IWalking .
++V IntWalk:msentity:IntWalk_TheIWLine .
++V IntWalk:msentity:IntWalk_SequenceOfIWLine .
++V IntWalk:msentity:IntWalk_PWalking .
++V IntWalk:msentity:IntWalk_TheInt2S .
++V IntWalk:msentity:IntWalk_TheFunctionOfTheInt2S .
++V IntWalk:msentity:IntWalk_StatusDeflection .
++V IntWalk:msentity:IntWalk_VectorOfWalkingData .
++V IntWalk:msentity:IntWalk_VectorOfInteger .
+- IntWalk:admfile:IntWalk_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntWalk/IntWalk_xcpp_fill.Out

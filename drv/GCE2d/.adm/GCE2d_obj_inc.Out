@@ -1,0 +1,4 @@
++M GCE2d:pubinclude:GCE2d_Root.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCE2d_Root.lxx
++M GCE2d:dbadmfile:GCE2d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCE2d/.adm/GCE2d_obj_inc.In
++M GCE2d:dbadmfile:GCE2d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCE2d/.adm/GCE2d_obj_inc.Out
++M GCE2d:dbadmfile:GCE2d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCE2d/.adm/GCE2d_obj_inc.Dep

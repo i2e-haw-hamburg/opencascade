@@ -1,0 +1,6 @@
++ HLRTest:source:HLRTest_ShapeData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTest/HLRTest_ShapeData.lxx
++ HLRTest:source:HLRTest_DrawablePolyEdgeTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTest/HLRTest_DrawablePolyEdgeTool.lxx
++ HLRTest:source:HLRTest_Projector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTest/HLRTest_Projector.lxx
++ HLRTest:source:HLRTest_OutLiner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTest/HLRTest_OutLiner.lxx
+- HLRTest:admfile:HLRTest_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTest/HLRTest_src.Out
+- HLRTest:admfile:HLRTest_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTest/HLRTest_xcpp_src.Out

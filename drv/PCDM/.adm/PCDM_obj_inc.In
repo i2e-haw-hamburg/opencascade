@@ -1,0 +1,4 @@
++ PCDM:source:PCDM_DOMHeaderParser.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCDM/PCDM_DOMHeaderParser.hxx
++ PCDM:source:PCDM_Reader.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCDM/PCDM_Reader.lxx
+- PCDM:admfile:PCDM_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PCDM/PCDM_src.Out
+- PCDM:admfile:PCDM_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PCDM/PCDM_xcpp_src.Out

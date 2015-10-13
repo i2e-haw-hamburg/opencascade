@@ -1,0 +1,6 @@
++M ElCLib:pubinclude:ElCLib.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ElCLib.hxx
++M ElCLib:privinclude:ElCLib.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElCLib/ElCLib.jxx
++M ElCLib:privinclude:ElCLib.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElCLib/ElCLib.ixx
++M ElCLib:dbadmfile:ElCLib_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElCLib/.adm/ElCLib_xcpp_header.In
++M ElCLib:dbadmfile:ElCLib_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElCLib/.adm/ElCLib_xcpp_header.Out
++M ElCLib:dbadmfile:ElCLib_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElCLib/.adm/ElCLib_xcpp_header.Dep

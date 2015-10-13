@@ -1,0 +1,6 @@
++M UnitsMethods:pubinclude:UnitsMethods.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/UnitsMethods.hxx
++M UnitsMethods:privinclude:UnitsMethods.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsMethods/UnitsMethods.jxx
++M UnitsMethods:privinclude:UnitsMethods.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsMethods/UnitsMethods.ixx
++M UnitsMethods:dbadmfile:UnitsMethods_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsMethods/.adm/UnitsMethods_xcpp_header.In
++M UnitsMethods:dbadmfile:UnitsMethods_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsMethods/.adm/UnitsMethods_xcpp_header.Out
++M UnitsMethods:dbadmfile:UnitsMethods_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsMethods/.adm/UnitsMethods_xcpp_header.Dep

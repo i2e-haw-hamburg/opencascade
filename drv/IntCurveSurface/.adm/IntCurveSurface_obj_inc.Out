@@ -1,0 +1,17 @@
++M IntCurveSurface:pubinclude:IntCurveSurface_IntersectionPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_IntersectionPoint.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_HCurveTool.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_HCurveTool.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_HCurveTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_HCurveTool.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_Polygon.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_Polygon.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_Polygon.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_Polygon.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_Polyhedron.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_Polyhedron.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_Polyhedron.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_Polyhedron.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_PolygonTool.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_PolygonTool.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_PolygonTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_PolygonTool.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_PolyhedronTool.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_PolyhedronTool.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_PolyhedronTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_PolyhedronTool.lxx
++M IntCurveSurface:pubinclude:IntCurveSurface_QuadricCurveFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_QuadricCurveFunc.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_QuadricCurveExactInter.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_QuadricCurveExactInter.gxx
++M IntCurveSurface:pubinclude:IntCurveSurface_Inter.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurveSurface_Inter.gxx
++M IntCurveSurface:dbadmfile:IntCurveSurface_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurveSurface/.adm/IntCurveSurface_obj_inc.In
++M IntCurveSurface:dbadmfile:IntCurveSurface_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurveSurface/.adm/IntCurveSurface_obj_inc.Out
++M IntCurveSurface:dbadmfile:IntCurveSurface_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurveSurface/.adm/IntCurveSurface_obj_inc.Dep

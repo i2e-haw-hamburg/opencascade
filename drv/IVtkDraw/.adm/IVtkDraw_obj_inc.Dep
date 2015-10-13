@@ -1,0 +1,9 @@
++ IVtkDraw:pubinclude:IVtkDraw.hxx IVtkDraw:source:IVtkDraw.hxx
++ IVtkDraw:pubinclude:IVtkDraw_HighlightAndSelectionPipeline.hxx IVtkDraw:source:IVtkDraw_HighlightAndSelectionPipeline.hxx
++ IVtkDraw:pubinclude:IVtkDraw_Interactor.hxx IVtkDraw:source:IVtkDraw_Interactor.hxx
++ IVtkDraw:dbadmfile:IVtkDraw_obj_inc.In IVtkDraw:admfile:IVtkDraw_src.Out
++ * IVtkDraw:admfile:IVtkDraw_xcpp_src.Out
++ IVtkDraw:dbadmfile:IVtkDraw_obj_inc.Out IVtkDraw:admfile:IVtkDraw_src.Out
++ * IVtkDraw:admfile:IVtkDraw_xcpp_src.Out
++ IVtkDraw:dbadmfile:IVtkDraw_obj_inc.Dep IVtkDraw:admfile:IVtkDraw_src.Out
++ * IVtkDraw:admfile:IVtkDraw_xcpp_src.Out

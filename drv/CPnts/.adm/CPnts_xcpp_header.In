@@ -1,0 +1,7 @@
++V CPnts:msentity:CPnts .
++V CPnts:msentity:CPnts_MyGaussFunction .
++V CPnts:msentity:CPnts_MyRootFunction .
++V CPnts:msentity:CPnts_AbscissaPoint .
++V CPnts:msentity:CPnts_UniformDeflection .
++V CPnts:msentity:CPnts_RealFunction .
+- CPnts:admfile:CPnts_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/CPnts/CPnts_xcpp_fill.Out

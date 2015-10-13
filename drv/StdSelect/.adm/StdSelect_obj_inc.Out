@@ -1,0 +1,9 @@
++M StdSelect:pubinclude:StdSelect_ViewerSelector3d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_ViewerSelector3d.hxx
++M StdSelect:pubinclude:StdSelect_ViewerSelector3d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_ViewerSelector3d.lxx
++M StdSelect:pubinclude:StdSelect_BRepOwner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_BRepOwner.lxx
++M StdSelect:pubinclude:StdSelect_ShapeTypeFilter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_ShapeTypeFilter.lxx
++M StdSelect:pubinclude:StdSelect_Prs.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_Prs.lxx
++M StdSelect:pubinclude:StdSelect_Shape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdSelect_Shape.lxx
++M StdSelect:dbadmfile:StdSelect_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdSelect/.adm/StdSelect_obj_inc.In
++M StdSelect:dbadmfile:StdSelect_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdSelect/.adm/StdSelect_obj_inc.Out
++M StdSelect:dbadmfile:StdSelect_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdSelect/.adm/StdSelect_obj_inc.Dep

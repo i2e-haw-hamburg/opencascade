@@ -1,0 +1,13 @@
++M XSDRAW:pubinclude:XSDRAW.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSDRAW.hxx
++M XSDRAW:privinclude:XSDRAW.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW.jxx
++M XSDRAW:privinclude:XSDRAW.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW.ixx
++M XSDRAW:pubinclude:XSDRAW_Functions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSDRAW_Functions.hxx
++M XSDRAW:privinclude:XSDRAW_Functions.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW_Functions.jxx
++M XSDRAW:privinclude:XSDRAW_Functions.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW_Functions.ixx
++M XSDRAW:pubinclude:Handle_XSDRAW_Vars.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XSDRAW_Vars.hxx
++M XSDRAW:pubinclude:XSDRAW_Vars.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSDRAW_Vars.hxx
++M XSDRAW:privinclude:XSDRAW_Vars.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW_Vars.jxx
++M XSDRAW:privinclude:XSDRAW_Vars.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/XSDRAW_Vars.ixx
++M XSDRAW:dbadmfile:XSDRAW_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/.adm/XSDRAW_xcpp_header.In
++M XSDRAW:dbadmfile:XSDRAW_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/.adm/XSDRAW_xcpp_header.Out
++M XSDRAW:dbadmfile:XSDRAW_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAW/.adm/XSDRAW_xcpp_header.Dep

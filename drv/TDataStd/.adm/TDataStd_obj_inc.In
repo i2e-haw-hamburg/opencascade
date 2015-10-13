@@ -1,0 +1,16 @@
++ TDataStd:source:TDataStd_IntegerArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_IntegerArray.lxx
++ TDataStd:source:TDataStd_RealArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_RealArray.lxx
++ TDataStd:source:TDataStd_ExtStringArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_ExtStringArray.lxx
++ TDataStd:source:TDataStd_TreeNode.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_TreeNode.lxx
++ TDataStd:source:TDataStd_ChildNodeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_ChildNodeIterator.lxx
++ TDataStd:source:TDataStd_IntPackedMap.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_IntPackedMap.lxx
++ TDataStd:source:TDataStd_ByteArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_ByteArray.lxx
++ TDataStd:source:TDataStd_NamedData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_NamedData.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringInteger.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringInteger.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringReal.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringReal.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringString.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringString.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringByte.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringByte.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringHArray1OfInteger.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringHArray1OfInteger.lxx
++ TDataStd:source:TDataStd_HDataMapOfStringHArray1OfReal.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TDataStd/TDataStd_HDataMapOfStringHArray1OfReal.lxx
+- TDataStd:admfile:TDataStd_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TDataStd/TDataStd_src.Out
+- TDataStd:admfile:TDataStd_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TDataStd/TDataStd_xcpp_src.Out

@@ -1,0 +1,7 @@
++M Transfer:pubinclude:Transfer_Mapper.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Transfer_Mapper.gxx
++M Transfer:pubinclude:Transfer_TransferProcess.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Transfer_TransferProcess.gxx
++M Transfer:pubinclude:Transfer_Iterator.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Transfer_Iterator.gxx
++M Transfer:pubinclude:Transfer_Actor.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Transfer_Actor.gxx
++M Transfer:dbadmfile:Transfer_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Transfer/.adm/Transfer_obj_inc.In
++M Transfer:dbadmfile:Transfer_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Transfer/.adm/Transfer_obj_inc.Out
++M Transfer:dbadmfile:Transfer_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Transfer/.adm/Transfer_obj_inc.Dep

@@ -1,0 +1,9 @@
+pubinclude InterfaceGraphic.hxx
+pubinclude InterfaceGraphic_Aspect.hxx
+pubinclude InterfaceGraphic_Graphic3d.hxx
+pubinclude InterfaceGraphic_Visual3d.hxx
+pubinclude InterfaceGraphic_telem.hxx
+pubinclude InterfaceGraphic_tgl_all.hxx
+dbadmfile InterfaceGraphic_obj_inc.In
+dbadmfile InterfaceGraphic_obj_inc.Out
+dbadmfile InterfaceGraphic_obj_inc.Dep

@@ -1,0 +1,13 @@
+dbadmfile IVtk_xcpp_header.In
+dbadmfile IVtk_xcpp_header.Out
+dbadmfile IVtk_xcpp_header.Dep
+pubinclude IVtk_Interface.hxx
+pubinclude IVtk_IShape.hxx
+pubinclude IVtk_IShapeData.hxx
+pubinclude IVtk_IShapeMesher.hxx
+pubinclude IVtk_IShapePickerAlgo.hxx
+pubinclude IVtk_IView.hxx
+pubinclude IVtk_Types.hxx
+dbadmfile IVtk_obj_inc.In
+dbadmfile IVtk_obj_inc.Out
+dbadmfile IVtk_obj_inc.Dep

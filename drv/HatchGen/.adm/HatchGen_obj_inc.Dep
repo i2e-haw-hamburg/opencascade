@@ -1,0 +1,8 @@
++ HatchGen:pubinclude:HatchGen_PointOnElement.lxx HatchGen:source:HatchGen_PointOnElement.lxx
++ HatchGen:pubinclude:HatchGen_Domain.lxx HatchGen:source:HatchGen_Domain.lxx
++ HatchGen:dbadmfile:HatchGen_obj_inc.In HatchGen:admfile:HatchGen_src.Out
++ * HatchGen:admfile:HatchGen_xcpp_src.Out
++ HatchGen:dbadmfile:HatchGen_obj_inc.Out HatchGen:admfile:HatchGen_src.Out
++ * HatchGen:admfile:HatchGen_xcpp_src.Out
++ HatchGen:dbadmfile:HatchGen_obj_inc.Dep HatchGen:admfile:HatchGen_src.Out
++ * HatchGen:admfile:HatchGen_xcpp_src.Out

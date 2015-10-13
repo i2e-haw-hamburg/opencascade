@@ -1,0 +1,4 @@
++ IntCurvesFace:source:IntCurvesFace_Intersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurvesFace/IntCurvesFace_Intersector.lxx
++ IntCurvesFace:source:IntCurvesFace_ShapeIntersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntCurvesFace/IntCurvesFace_ShapeIntersector.lxx
+- IntCurvesFace:admfile:IntCurvesFace_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntCurvesFace/IntCurvesFace_src.Out
+- IntCurvesFace:admfile:IntCurvesFace_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntCurvesFace/IntCurvesFace_xcpp_src.Out

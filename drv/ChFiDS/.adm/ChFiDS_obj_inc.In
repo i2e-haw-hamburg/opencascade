@@ -1,0 +1,8 @@
++ ChFiDS:source:ChFiDS_CommonPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_CommonPoint.lxx
++ ChFiDS:source:ChFiDS_FaceInterference.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_FaceInterference.lxx
++ ChFiDS:source:ChFiDS_SurfData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_SurfData.lxx
++ ChFiDS:source:ChFiDS_Stripe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_Stripe.lxx
++ ChFiDS:source:ChFiDS_StripeMap.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_StripeMap.lxx
++ ChFiDS:source:ChFiDS_Spine.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFiDS/ChFiDS_Spine.lxx
+- ChFiDS:admfile:ChFiDS_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFiDS/ChFiDS_src.Out
+- ChFiDS:admfile:ChFiDS_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFiDS/ChFiDS_xcpp_src.Out

@@ -1,0 +1,6 @@
++M TopCnx:pubinclude:TopCnx_EdgeFaceTransition.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopCnx_EdgeFaceTransition.hxx
++M TopCnx:privinclude:TopCnx_EdgeFaceTransition.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopCnx/TopCnx_EdgeFaceTransition.jxx
++M TopCnx:privinclude:TopCnx_EdgeFaceTransition.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopCnx/TopCnx_EdgeFaceTransition.ixx
++M TopCnx:dbadmfile:TopCnx_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopCnx/.adm/TopCnx_xcpp_header.In
++M TopCnx:dbadmfile:TopCnx_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopCnx/.adm/TopCnx_xcpp_header.Out
++M TopCnx:dbadmfile:TopCnx_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopCnx/.adm/TopCnx_xcpp_header.Dep

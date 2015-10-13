@@ -1,0 +1,14 @@
++M TNaming:pubinclude:TNaming_NCollections.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_NCollections.hxx
++M TNaming:pubinclude:TNaming_NamedShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_NamedShape.lxx
++M TNaming:pubinclude:TNaming_UsedShapes.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_UsedShapes.lxx
++M TNaming:pubinclude:TNaming_Iterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_Iterator.lxx
++M TNaming:pubinclude:TNaming_NewShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_NewShapeIterator.lxx
++M TNaming:pubinclude:TNaming_OldShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_OldShapeIterator.lxx
++M TNaming:pubinclude:TNaming_SameShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_SameShapeIterator.lxx
++M TNaming:pubinclude:TNaming_Name.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_Name.lxx
++M TNaming:pubinclude:TNaming_RefShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_RefShape.lxx
++M TNaming:pubinclude:TNaming_ShapesSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_ShapesSet.lxx
++M TNaming:pubinclude:TNaming_IteratorOnShapesSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TNaming_IteratorOnShapesSet.lxx
++M TNaming:dbadmfile:TNaming_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TNaming/.adm/TNaming_obj_inc.In
++M TNaming:dbadmfile:TNaming_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TNaming/.adm/TNaming_obj_inc.Out
++M TNaming:dbadmfile:TNaming_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TNaming/.adm/TNaming_obj_inc.Dep

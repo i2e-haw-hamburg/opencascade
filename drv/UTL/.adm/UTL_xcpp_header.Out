@@ -1,0 +1,6 @@
++M UTL:pubinclude:UTL.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/UTL.hxx
++M UTL:privinclude:UTL.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UTL/UTL.jxx
++M UTL:privinclude:UTL.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UTL/UTL.ixx
++M UTL:dbadmfile:UTL_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UTL/.adm/UTL_xcpp_header.In
++M UTL:dbadmfile:UTL_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UTL/.adm/UTL_xcpp_header.Out
++M UTL:dbadmfile:UTL_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UTL/.adm/UTL_xcpp_header.Dep

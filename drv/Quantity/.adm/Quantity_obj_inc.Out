@@ -1,0 +1,7 @@
++M Quantity:pubinclude:Quantity_Color_1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Quantity_Color_1.hxx
++M Quantity:pubinclude:Quantity_Period.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Quantity_Period.lxx
++M Quantity:pubinclude:Quantity_Date.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Quantity_Date.lxx
++M Quantity:pubinclude:Quantity_Convert.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Quantity_Convert.lxx
++M Quantity:dbadmfile:Quantity_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Quantity/.adm/Quantity_obj_inc.In
++M Quantity:dbadmfile:Quantity_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Quantity/.adm/Quantity_obj_inc.Out
++M Quantity:dbadmfile:Quantity_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Quantity/.adm/Quantity_obj_inc.Dep

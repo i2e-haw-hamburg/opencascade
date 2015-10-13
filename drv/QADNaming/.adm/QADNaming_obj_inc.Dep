@@ -1,0 +1,6 @@
++ QADNaming:dbadmfile:QADNaming_obj_inc.In QADNaming:admfile:QADNaming_src.Out
++ * QADNaming:admfile:QADNaming_xcpp_src.Out
++ QADNaming:dbadmfile:QADNaming_obj_inc.Out QADNaming:admfile:QADNaming_src.Out
++ * QADNaming:admfile:QADNaming_xcpp_src.Out
++ QADNaming:dbadmfile:QADNaming_obj_inc.Dep QADNaming:admfile:QADNaming_src.Out
++ * QADNaming:admfile:QADNaming_xcpp_src.Out

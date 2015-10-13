@@ -1,0 +1,7 @@
++ PLib:source:PLib_JacobiPolynomial_0.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PLib/PLib_JacobiPolynomial_0.hxx
++ PLib:source:PLib.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PLib/PLib.lxx
++ PLib:source:PLib_JacobiPolynomial.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PLib/PLib_JacobiPolynomial.lxx
++ PLib:source:PLib_HermitJacobi.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PLib/PLib_HermitJacobi.lxx
++ PLib:source:PLib_DoubleJacobiPolynomial.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PLib/PLib_DoubleJacobiPolynomial.lxx
+- PLib:admfile:PLib_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PLib/PLib_src.Out
+- PLib:admfile:PLib_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PLib/PLib_xcpp_src.Out

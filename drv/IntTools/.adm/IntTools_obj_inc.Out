@@ -1,0 +1,16 @@
++M IntTools:pubinclude:IntTools_EdgeEdge.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_EdgeEdge.lxx
++M IntTools:pubinclude:IntTools_MarkedRangeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_MarkedRangeSet.lxx
++M IntTools:pubinclude:IntTools_BaseRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_BaseRangeSample.lxx
++M IntTools:pubinclude:IntTools_CurveRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_CurveRangeSample.lxx
++M IntTools:pubinclude:IntTools_SurfaceRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_SurfaceRangeSample.lxx
++M IntTools:pubinclude:IntTools_CurveRangeLocalizeData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_CurveRangeLocalizeData.lxx
++M IntTools:pubinclude:IntTools_SurfaceRangeLocalizeData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_SurfaceRangeLocalizeData.lxx
++M IntTools:pubinclude:IntTools_BeanFaceIntersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_BeanFaceIntersector.lxx
++M IntTools:pubinclude:IntTools_Curve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_Curve.lxx
++M IntTools:pubinclude:IntTools_CArray1.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_CArray1.gxx
++M IntTools:pubinclude:IntTools_CArray1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_CArray1.lxx
++M IntTools:pubinclude:IntTools_CurveRangeSampleMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_CurveRangeSampleMapHasher.lxx
++M IntTools:pubinclude:IntTools_SurfaceRangeSampleMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntTools_SurfaceRangeSampleMapHasher.lxx
++M IntTools:dbadmfile:IntTools_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntTools/.adm/IntTools_obj_inc.In
++M IntTools:dbadmfile:IntTools_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntTools/.adm/IntTools_obj_inc.Out
++M IntTools:dbadmfile:IntTools_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntTools/.adm/IntTools_obj_inc.Dep

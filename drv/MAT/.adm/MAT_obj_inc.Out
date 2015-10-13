@@ -1,0 +1,7 @@
++M MAT:pubinclude:MAT_TList.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MAT_TList.gxx
++M MAT:pubinclude:MAT_TList.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MAT_TList.lxx
++M MAT:pubinclude:MAT_TListNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MAT_TListNode.gxx
++M MAT:pubinclude:MAT_TListNode.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MAT_TListNode.lxx
++M MAT:dbadmfile:MAT_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MAT/.adm/MAT_obj_inc.In
++M MAT:dbadmfile:MAT_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MAT/.adm/MAT_obj_inc.Out
++M MAT:dbadmfile:MAT_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MAT/.adm/MAT_obj_inc.Dep

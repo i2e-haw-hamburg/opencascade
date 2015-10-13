@@ -1,0 +1,12 @@
++ BOPAlgo:pubinclude:BOPAlgo_ListOfCheckResult.hxx BOPAlgo:source:BOPAlgo_ListOfCheckResult.hxx
++ BOPAlgo:pubinclude:BOPAlgo_WireEdgeSet.lxx BOPAlgo:source:BOPAlgo_WireEdgeSet.lxx
++ BOPAlgo:pubinclude:BOPAlgo_WireSplitter.lxx BOPAlgo:source:BOPAlgo_WireSplitter.lxx
++ BOPAlgo:pubinclude:BOPAlgo_SectionAttribute.lxx BOPAlgo:source:BOPAlgo_SectionAttribute.lxx
++ BOPAlgo:pubinclude:BOPAlgo_ArgumentAnalyzer.lxx BOPAlgo:source:BOPAlgo_ArgumentAnalyzer.lxx
++ BOPAlgo:pubinclude:BOPAlgo_MakerVolume.lxx BOPAlgo:source:BOPAlgo_MakerVolume.lxx
++ BOPAlgo:dbadmfile:BOPAlgo_obj_inc.In BOPAlgo:admfile:BOPAlgo_src.Out
++ * BOPAlgo:admfile:BOPAlgo_xcpp_src.Out
++ BOPAlgo:dbadmfile:BOPAlgo_obj_inc.Out BOPAlgo:admfile:BOPAlgo_src.Out
++ * BOPAlgo:admfile:BOPAlgo_xcpp_src.Out
++ BOPAlgo:dbadmfile:BOPAlgo_obj_inc.Dep BOPAlgo:admfile:BOPAlgo_src.Out
++ * BOPAlgo:admfile:BOPAlgo_xcpp_src.Out

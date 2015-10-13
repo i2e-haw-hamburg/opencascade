@@ -1,0 +1,3 @@
++ Standard:pubinclude:Standard_Persistent.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Standard_Persistent.hxx
++ Standard:pubinclude:Standard_Transient.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Standard_Transient.hxx
+- Standard:dbadmfile:Standard_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Standard/.adm/Standard_xcpp_header.Out

@@ -1,0 +1,17 @@
++ BOPTools:pubinclude:BOPTools_ConnexityBlock.hxx BOPTools:source:BOPTools_ConnexityBlock.hxx
++ BOPTools:pubinclude:BOPTools_ListOfConnexityBlock.hxx BOPTools:source:BOPTools_ListOfConnexityBlock.hxx
++ BOPTools:pubinclude:BOPTools_ListOfShapeSet.hxx BOPTools:source:BOPTools_ListOfShapeSet.hxx
++ BOPTools:pubinclude:BOPTools_CoupleOfShape.hxx BOPTools:source:BOPTools_CoupleOfShape.hxx
++ BOPTools:pubinclude:BOPTools_ListOfCoupleOfShape.hxx BOPTools:source:BOPTools_ListOfCoupleOfShape.hxx
++ BOPTools:pubinclude:BOPTools_ListOfEdgeSet.hxx BOPTools:source:BOPTools_ListOfEdgeSet.hxx
++ BOPTools:pubinclude:BOPTools_MapOfSet.hxx BOPTools:source:BOPTools_MapOfSet.hxx
++ BOPTools:pubinclude:BOPTools_DataMapOfShapeSet.hxx BOPTools:source:BOPTools_DataMapOfShapeSet.hxx
++ BOPTools:pubinclude:BOPTools_ShapeSet.lxx BOPTools:source:BOPTools_ShapeSet.lxx
++ BOPTools:pubinclude:BOPTools_EdgeSet.lxx BOPTools:source:BOPTools_EdgeSet.lxx
++ BOPTools:pubinclude:BOPTools_SetMapHasher.lxx BOPTools:source:BOPTools_SetMapHasher.lxx
++ BOPTools:dbadmfile:BOPTools_obj_inc.In BOPTools:admfile:BOPTools_src.Out
++ * BOPTools:admfile:BOPTools_xcpp_src.Out
++ BOPTools:dbadmfile:BOPTools_obj_inc.Out BOPTools:admfile:BOPTools_src.Out
++ * BOPTools:admfile:BOPTools_xcpp_src.Out
++ BOPTools:dbadmfile:BOPTools_obj_inc.Dep BOPTools:admfile:BOPTools_src.Out
++ * BOPTools:admfile:BOPTools_xcpp_src.Out

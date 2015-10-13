@@ -1,0 +1,6 @@
++M Adaptor2d:pubinclude:Adaptor2d_HCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Adaptor2d_HCurve2d.lxx
++M Adaptor2d:pubinclude:Adaptor2d_GenHCurve2d.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Adaptor2d_GenHCurve2d.gxx
++M Adaptor2d:pubinclude:Adaptor2d_GenHCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Adaptor2d_GenHCurve2d.lxx
++M Adaptor2d:dbadmfile:Adaptor2d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Adaptor2d/.adm/Adaptor2d_obj_inc.In
++M Adaptor2d:dbadmfile:Adaptor2d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Adaptor2d/.adm/Adaptor2d_obj_inc.Out
++M Adaptor2d:dbadmfile:Adaptor2d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Adaptor2d/.adm/Adaptor2d_obj_inc.Dep

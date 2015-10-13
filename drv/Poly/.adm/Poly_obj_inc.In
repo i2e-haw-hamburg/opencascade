@@ -1,0 +1,15 @@
++ Poly:source:Poly_CoherentTriangulation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_CoherentTriangulation.hxx
++ Poly:source:Poly_CoherentTriangle.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_CoherentTriangle.hxx
++ Poly:source:Poly_CoherentTriPtr.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_CoherentTriPtr.hxx
++ Poly:source:Poly_CoherentNode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_CoherentNode.hxx
++ Poly:source:Poly_CoherentLink.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_CoherentLink.hxx
++ Poly:source:Poly_MakeLoops.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_MakeLoops.hxx
++ Poly:source:Poly_ListOfTriangulation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_ListOfTriangulation.hxx
++ Poly:source:Poly_Triangle.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_Triangle.lxx
++ Poly:source:Poly_Triangulation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_Triangulation.lxx
++ Poly:source:Poly_Polygon3D.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_Polygon3D.lxx
++ Poly:source:Poly_Polygon2D.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_Polygon2D.lxx
++ Poly:source:Poly_PolygonOnTriangulation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_PolygonOnTriangulation.lxx
++ Poly:source:Poly_Connect.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Poly/Poly_Connect.lxx
+- Poly:admfile:Poly_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Poly/Poly_src.Out
+- Poly:admfile:Poly_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Poly/Poly_xcpp_src.Out

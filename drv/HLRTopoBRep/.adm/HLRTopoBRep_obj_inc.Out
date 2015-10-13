@@ -1,0 +1,7 @@
++M HLRTopoBRep:pubinclude:HLRTopoBRep_VData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/HLRTopoBRep_VData.lxx
++M HLRTopoBRep:pubinclude:HLRTopoBRep_FaceData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/HLRTopoBRep_FaceData.lxx
++M HLRTopoBRep:pubinclude:HLRTopoBRep_Data.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/HLRTopoBRep_Data.lxx
++M HLRTopoBRep:pubinclude:HLRTopoBRep_OutLiner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/HLRTopoBRep_OutLiner.lxx
++M HLRTopoBRep:dbadmfile:HLRTopoBRep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRTopoBRep/.adm/HLRTopoBRep_obj_inc.In
++M HLRTopoBRep:dbadmfile:HLRTopoBRep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRTopoBRep/.adm/HLRTopoBRep_obj_inc.Out
++M HLRTopoBRep:dbadmfile:HLRTopoBRep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRTopoBRep/.adm/HLRTopoBRep_obj_inc.Dep

@@ -1,0 +1,12 @@
++V PCollection:msentity:PCollection .
++V PCollection:msentity:PCollection_HArray1 .
++V PCollection:msentity:PCollection_FieldOfHArray1 .
++V PCollection:msentity:PCollection_HArray2 .
++V PCollection:msentity:PCollection_FieldOfHArray2 .
++V PCollection:msentity:PCollection_HSequence .
++V PCollection:msentity:PCollection_SeqNode .
++V PCollection:msentity:PCollection_SeqExplorer .
++V PCollection:msentity:PCollection_HAsciiString .
++V PCollection:msentity:PCollection_HExtendedString .
++V PCollection:msentity:PCollection_AccessMode .
+- PCollection:admfile:PCollection_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PCollection/PCollection_xcpp_fill.Out

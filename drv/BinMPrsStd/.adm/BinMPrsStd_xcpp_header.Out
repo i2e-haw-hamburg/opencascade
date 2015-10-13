@@ -1,0 +1,14 @@
++M BinMPrsStd:pubinclude:BinMPrsStd.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinMPrsStd.hxx
++M BinMPrsStd:privinclude:BinMPrsStd.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd.jxx
++M BinMPrsStd:privinclude:BinMPrsStd.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd.ixx
++M BinMPrsStd:pubinclude:Handle_BinMPrsStd_AISPresentationDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinMPrsStd_AISPresentationDriver.hxx
++M BinMPrsStd:pubinclude:BinMPrsStd_AISPresentationDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinMPrsStd_AISPresentationDriver.hxx
++M BinMPrsStd:privinclude:BinMPrsStd_AISPresentationDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd_AISPresentationDriver.jxx
++M BinMPrsStd:privinclude:BinMPrsStd_AISPresentationDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd_AISPresentationDriver.ixx
++M BinMPrsStd:pubinclude:Handle_BinMPrsStd_PositionDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinMPrsStd_PositionDriver.hxx
++M BinMPrsStd:pubinclude:BinMPrsStd_PositionDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinMPrsStd_PositionDriver.hxx
++M BinMPrsStd:privinclude:BinMPrsStd_PositionDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd_PositionDriver.jxx
++M BinMPrsStd:privinclude:BinMPrsStd_PositionDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/BinMPrsStd_PositionDriver.ixx
++M BinMPrsStd:dbadmfile:BinMPrsStd_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/.adm/BinMPrsStd_xcpp_header.In
++M BinMPrsStd:dbadmfile:BinMPrsStd_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/.adm/BinMPrsStd_xcpp_header.Out
++M BinMPrsStd:dbadmfile:BinMPrsStd_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMPrsStd/.adm/BinMPrsStd_xcpp_header.Dep

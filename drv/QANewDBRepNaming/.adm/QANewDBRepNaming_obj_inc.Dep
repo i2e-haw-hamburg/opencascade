@@ -1,0 +1,6 @@
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_obj_inc.In QANewDBRepNaming:admfile:QANewDBRepNaming_src.Out
++ * QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_src.Out
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_obj_inc.Out QANewDBRepNaming:admfile:QANewDBRepNaming_src.Out
++ * QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_src.Out
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_obj_inc.Dep QANewDBRepNaming:admfile:QANewDBRepNaming_src.Out
++ * QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_src.Out

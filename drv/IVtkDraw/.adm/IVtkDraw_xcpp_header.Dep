@@ -1,0 +1,3 @@
++ IVtkDraw:dbadmfile:IVtkDraw_xcpp_header.In IVtkDraw:admfile:IVtkDraw_xcpp_fill.Out
++ IVtkDraw:dbadmfile:IVtkDraw_xcpp_header.Out IVtkDraw:admfile:IVtkDraw_xcpp_fill.Out
++ IVtkDraw:dbadmfile:IVtkDraw_xcpp_header.Dep IVtkDraw:admfile:IVtkDraw_xcpp_fill.Out

@@ -1,0 +1,13 @@
++V PNaming:msentity:PNaming .
++V PNaming:msentity:PNaming_Name .
++V PNaming:msentity:PNaming_Name_1 .
++V PNaming:msentity:PNaming_Name_2 .
++V PNaming:msentity:PNaming_NamedShape .
++V PNaming:msentity:PNaming_Naming .
++V PNaming:msentity:PNaming_Naming_1 .
++V PNaming:msentity:PNaming_Naming_2 .
++V PNaming:msentity:PNaming_HArray1OfNamedShape .
++V PNaming:msentity:PNaming_VArrayNodeOfFieldOfHArray1OfNamedShape .
++V PNaming:msentity:PNaming_VArrayTNodeOfFieldOfHArray1OfNamedShape .
++V PNaming:msentity:PNaming_FieldOfHArray1OfNamedShape .
+- PNaming:admfile:PNaming_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PNaming/PNaming_xcpp_fill.Out

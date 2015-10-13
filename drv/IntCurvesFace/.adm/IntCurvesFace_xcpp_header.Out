@@ -1,0 +1,9 @@
++M IntCurvesFace:pubinclude:IntCurvesFace_Intersector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurvesFace_Intersector.hxx
++M IntCurvesFace:privinclude:IntCurvesFace_Intersector.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/IntCurvesFace_Intersector.jxx
++M IntCurvesFace:privinclude:IntCurvesFace_Intersector.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/IntCurvesFace_Intersector.ixx
++M IntCurvesFace:pubinclude:IntCurvesFace_ShapeIntersector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntCurvesFace_ShapeIntersector.hxx
++M IntCurvesFace:privinclude:IntCurvesFace_ShapeIntersector.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/IntCurvesFace_ShapeIntersector.jxx
++M IntCurvesFace:privinclude:IntCurvesFace_ShapeIntersector.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/IntCurvesFace_ShapeIntersector.ixx
++M IntCurvesFace:dbadmfile:IntCurvesFace_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/.adm/IntCurvesFace_xcpp_header.In
++M IntCurvesFace:dbadmfile:IntCurvesFace_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/.adm/IntCurvesFace_xcpp_header.Out
++M IntCurvesFace:dbadmfile:IntCurvesFace_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntCurvesFace/.adm/IntCurvesFace_xcpp_header.Dep

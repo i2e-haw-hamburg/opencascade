@@ -1,0 +1,17 @@
++M XmlMNaming:pubinclude:XmlMNaming.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMNaming.hxx
++M XmlMNaming:privinclude:XmlMNaming.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming.jxx
++M XmlMNaming:privinclude:XmlMNaming.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming.ixx
++M XmlMNaming:pubinclude:Handle_XmlMNaming_NamedShapeDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlMNaming_NamedShapeDriver.hxx
++M XmlMNaming:pubinclude:XmlMNaming_NamedShapeDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMNaming_NamedShapeDriver.hxx
++M XmlMNaming:privinclude:XmlMNaming_NamedShapeDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_NamedShapeDriver.jxx
++M XmlMNaming:privinclude:XmlMNaming_NamedShapeDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_NamedShapeDriver.ixx
++M XmlMNaming:pubinclude:Handle_XmlMNaming_NamingDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlMNaming_NamingDriver.hxx
++M XmlMNaming:pubinclude:XmlMNaming_NamingDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMNaming_NamingDriver.hxx
++M XmlMNaming:privinclude:XmlMNaming_NamingDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_NamingDriver.jxx
++M XmlMNaming:privinclude:XmlMNaming_NamingDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_NamingDriver.ixx
++M XmlMNaming:pubinclude:XmlMNaming_Shape1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMNaming_Shape1.hxx
++M XmlMNaming:privinclude:XmlMNaming_Shape1.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_Shape1.jxx
++M XmlMNaming:privinclude:XmlMNaming_Shape1.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/XmlMNaming_Shape1.ixx
++M XmlMNaming:dbadmfile:XmlMNaming_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/.adm/XmlMNaming_xcpp_header.In
++M XmlMNaming:dbadmfile:XmlMNaming_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/.adm/XmlMNaming_xcpp_header.Out
++M XmlMNaming:dbadmfile:XmlMNaming_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMNaming/.adm/XmlMNaming_xcpp_header.Dep

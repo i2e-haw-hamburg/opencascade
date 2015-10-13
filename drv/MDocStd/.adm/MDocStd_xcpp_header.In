@@ -1,0 +1,6 @@
++V MDocStd:msentity:MDocStd .
++V MDocStd:msentity:MDocStd_DocumentStorageDriver .
++V MDocStd:msentity:MDocStd_DocumentRetrievalDriver .
++V MDocStd:msentity:MDocStd_XLinkStorageDriver .
++V MDocStd:msentity:MDocStd_XLinkRetrievalDriver .
+- MDocStd:admfile:MDocStd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MDocStd/MDocStd_xcpp_fill.Out

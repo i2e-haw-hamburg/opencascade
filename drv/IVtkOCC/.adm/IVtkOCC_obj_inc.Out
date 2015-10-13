@@ -1,0 +1,8 @@
++M IVtkOCC:pubinclude:IVtkOCC_SelectableObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkOCC_SelectableObject.hxx
++M IVtkOCC:pubinclude:IVtkOCC_Shape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkOCC_Shape.hxx
++M IVtkOCC:pubinclude:IVtkOCC_ShapeMesher.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkOCC_ShapeMesher.hxx
++M IVtkOCC:pubinclude:IVtkOCC_ShapePickerAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkOCC_ShapePickerAlgo.hxx
++M IVtkOCC:pubinclude:IVtkOCC_ViewerSelector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkOCC_ViewerSelector.hxx
++M IVtkOCC:dbadmfile:IVtkOCC_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkOCC/.adm/IVtkOCC_obj_inc.In
++M IVtkOCC:dbadmfile:IVtkOCC_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkOCC/.adm/IVtkOCC_obj_inc.Out
++M IVtkOCC:dbadmfile:IVtkOCC_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkOCC/.adm/IVtkOCC_obj_inc.Dep

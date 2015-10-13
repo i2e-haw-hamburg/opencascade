@@ -1,0 +1,14 @@
++M XmlXCAFDrivers:pubinclude:XmlXCAFDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlXCAFDrivers.hxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers.jxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers.ixx
++M XmlXCAFDrivers:pubinclude:Handle_XmlXCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlXCAFDrivers_DocumentRetrievalDriver.hxx
++M XmlXCAFDrivers:pubinclude:XmlXCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlXCAFDrivers_DocumentRetrievalDriver.hxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers_DocumentRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers_DocumentRetrievalDriver.jxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers_DocumentRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers_DocumentRetrievalDriver.ixx
++M XmlXCAFDrivers:pubinclude:Handle_XmlXCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlXCAFDrivers_DocumentStorageDriver.hxx
++M XmlXCAFDrivers:pubinclude:XmlXCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlXCAFDrivers_DocumentStorageDriver.hxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers_DocumentStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers_DocumentStorageDriver.jxx
++M XmlXCAFDrivers:privinclude:XmlXCAFDrivers_DocumentStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/XmlXCAFDrivers_DocumentStorageDriver.ixx
++M XmlXCAFDrivers:dbadmfile:XmlXCAFDrivers_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/.adm/XmlXCAFDrivers_xcpp_header.In
++M XmlXCAFDrivers:dbadmfile:XmlXCAFDrivers_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/.adm/XmlXCAFDrivers_xcpp_header.Out
++M XmlXCAFDrivers:dbadmfile:XmlXCAFDrivers_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlXCAFDrivers/.adm/XmlXCAFDrivers_xcpp_header.Dep

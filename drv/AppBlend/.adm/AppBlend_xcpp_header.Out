@@ -1,0 +1,6 @@
++M AppBlend:pubinclude:AppBlend_Approx.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/AppBlend_Approx.hxx
++M AppBlend:privinclude:AppBlend_Approx.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppBlend/AppBlend_Approx.jxx
++M AppBlend:privinclude:AppBlend_Approx.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppBlend/AppBlend_Approx.ixx
++M AppBlend:dbadmfile:AppBlend_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppBlend/.adm/AppBlend_xcpp_header.In
++M AppBlend:dbadmfile:AppBlend_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppBlend/.adm/AppBlend_xcpp_header.Out
++M AppBlend:dbadmfile:AppBlend_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/AppBlend/.adm/AppBlend_xcpp_header.Dep

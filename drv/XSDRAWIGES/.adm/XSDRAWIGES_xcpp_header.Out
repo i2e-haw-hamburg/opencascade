@@ -1,0 +1,6 @@
++M XSDRAWIGES:pubinclude:XSDRAWIGES.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSDRAWIGES.hxx
++M XSDRAWIGES:privinclude:XSDRAWIGES.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWIGES/XSDRAWIGES.jxx
++M XSDRAWIGES:privinclude:XSDRAWIGES.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWIGES/XSDRAWIGES.ixx
++M XSDRAWIGES:dbadmfile:XSDRAWIGES_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWIGES/.adm/XSDRAWIGES_xcpp_header.In
++M XSDRAWIGES:dbadmfile:XSDRAWIGES_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWIGES/.adm/XSDRAWIGES_xcpp_header.Out
++M XSDRAWIGES:dbadmfile:XSDRAWIGES_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWIGES/.adm/XSDRAWIGES_xcpp_header.Dep

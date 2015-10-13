@@ -1,0 +1,5 @@
++M ShapeExtend:pubinclude:ShapeExtend_ComplexCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeExtend_ComplexCurve.lxx
++M ShapeExtend:pubinclude:ShapeExtend_MsgRegistrator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeExtend_MsgRegistrator.lxx
++M ShapeExtend:dbadmfile:ShapeExtend_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeExtend/.adm/ShapeExtend_obj_inc.In
++M ShapeExtend:dbadmfile:ShapeExtend_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeExtend/.adm/ShapeExtend_obj_inc.Out
++M ShapeExtend:dbadmfile:ShapeExtend_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeExtend/.adm/ShapeExtend_obj_inc.Dep

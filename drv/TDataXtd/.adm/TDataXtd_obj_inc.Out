@@ -1,0 +1,4 @@
++M TDataXtd:pubinclude:TDataXtd_PatternStd.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDataXtd_PatternStd.lxx
++M TDataXtd:dbadmfile:TDataXtd_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDataXtd/.adm/TDataXtd_obj_inc.In
++M TDataXtd:dbadmfile:TDataXtd_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDataXtd/.adm/TDataXtd_obj_inc.Out
++M TDataXtd:dbadmfile:TDataXtd_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDataXtd/.adm/TDataXtd_obj_inc.Dep

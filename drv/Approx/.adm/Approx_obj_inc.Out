@@ -1,0 +1,8 @@
++M Approx:pubinclude:Approx_ComputeLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Approx_ComputeLine.gxx
++M Approx:pubinclude:Approx_ComputeCLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Approx_ComputeCLine.gxx
++M Approx:pubinclude:Approx_BSplComputeLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Approx_BSplComputeLine.gxx
++M Approx:pubinclude:Approx_SweepApproximation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Approx_SweepApproximation.lxx
++M Approx:pubinclude:Approx_SameParameter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Approx_SameParameter.lxx
++M Approx:dbadmfile:Approx_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Approx/.adm/Approx_obj_inc.In
++M Approx:dbadmfile:Approx_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Approx/.adm/Approx_obj_inc.Out
++M Approx:dbadmfile:Approx_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Approx/.adm/Approx_obj_inc.Dep

@@ -1,0 +1,4 @@
++ AppBlend:source:AppBlend_AppSurf.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppBlend/AppBlend_AppSurf.gxx
++ AppBlend:source:AppBlend_AppSurf.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppBlend/AppBlend_AppSurf.lxx
+- AppBlend:admfile:AppBlend_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AppBlend/AppBlend_src.Out
+- AppBlend:admfile:AppBlend_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AppBlend/AppBlend_xcpp_src.Out

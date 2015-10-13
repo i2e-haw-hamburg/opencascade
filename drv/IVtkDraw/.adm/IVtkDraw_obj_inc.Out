@@ -1,0 +1,6 @@
++M IVtkDraw:pubinclude:IVtkDraw.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkDraw.hxx
++M IVtkDraw:pubinclude:IVtkDraw_HighlightAndSelectionPipeline.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkDraw_HighlightAndSelectionPipeline.hxx
++M IVtkDraw:pubinclude:IVtkDraw_Interactor.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IVtkDraw_Interactor.hxx
++M IVtkDraw:dbadmfile:IVtkDraw_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkDraw/.adm/IVtkDraw_obj_inc.In
++M IVtkDraw:dbadmfile:IVtkDraw_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkDraw/.adm/IVtkDraw_obj_inc.Out
++M IVtkDraw:dbadmfile:IVtkDraw_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IVtkDraw/.adm/IVtkDraw_obj_inc.Dep

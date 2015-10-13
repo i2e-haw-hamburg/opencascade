@@ -1,0 +1,8 @@
++V GeomAdaptor:msentity:GeomAdaptor .
++V GeomAdaptor:msentity:GeomAdaptor_Curve .
++V GeomAdaptor:msentity:GeomAdaptor_Surface .
++V GeomAdaptor:msentity:GeomAdaptor_GHSurface .
++V GeomAdaptor:msentity:GeomAdaptor_HSurface .
++V GeomAdaptor:msentity:GeomAdaptor_GHCurve .
++V GeomAdaptor:msentity:GeomAdaptor_HCurve .
+- GeomAdaptor:admfile:GeomAdaptor_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomAdaptor/GeomAdaptor_xcpp_fill.Out

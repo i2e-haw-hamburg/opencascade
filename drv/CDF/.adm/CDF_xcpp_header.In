@@ -1,0 +1,17 @@
++V CDF:msentity:CDF .
++V CDF:msentity:CDF_Directory .
++V CDF:msentity:CDF_DirectoryIterator .
++V CDF:msentity:CDF_Session .
++V CDF:msentity:CDF_Application .
++V CDF:msentity:CDF_StoreList .
++V CDF:msentity:CDF_Store .
++V CDF:msentity:CDF_MetaDataDriver .
++V CDF:msentity:CDF_FWOSDriver .
++V CDF:msentity:CDF_MetaDataDriverFactory .
++V CDF:msentity:CDF_Timer .
++V CDF:msentity:CDF_MetaDataDriverError .
++V CDF:msentity:CDF_TypeOfActivation .
++V CDF:msentity:CDF_TryStoreStatus .
++V CDF:msentity:CDF_SubComponentStatus .
++V CDF:msentity:CDF_StoreSetNameStatus .
+- CDF:admfile:CDF_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/CDF/CDF_xcpp_fill.Out

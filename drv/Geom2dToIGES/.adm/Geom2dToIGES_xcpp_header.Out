@@ -1,0 +1,15 @@
++M Geom2dToIGES:pubinclude:Geom2dToIGES_Geom2dCurve.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dToIGES_Geom2dCurve.hxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dCurve.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dCurve.jxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dCurve.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dCurve.ixx
++M Geom2dToIGES:pubinclude:Geom2dToIGES_Geom2dEntity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dToIGES_Geom2dEntity.hxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dEntity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dEntity.jxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dEntity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dEntity.ixx
++M Geom2dToIGES:pubinclude:Geom2dToIGES_Geom2dPoint.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dToIGES_Geom2dPoint.hxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dPoint.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dPoint.jxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dPoint.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dPoint.ixx
++M Geom2dToIGES:pubinclude:Geom2dToIGES_Geom2dVector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dToIGES_Geom2dVector.hxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dVector.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dVector.jxx
++M Geom2dToIGES:privinclude:Geom2dToIGES_Geom2dVector.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/Geom2dToIGES_Geom2dVector.ixx
++M Geom2dToIGES:dbadmfile:Geom2dToIGES_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/.adm/Geom2dToIGES_xcpp_header.In
++M Geom2dToIGES:dbadmfile:Geom2dToIGES_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/.adm/Geom2dToIGES_xcpp_header.Out
++M Geom2dToIGES:dbadmfile:Geom2dToIGES_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dToIGES/.adm/Geom2dToIGES_xcpp_header.Dep

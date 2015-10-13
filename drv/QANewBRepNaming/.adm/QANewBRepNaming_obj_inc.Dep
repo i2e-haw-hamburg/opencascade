@@ -1,0 +1,7 @@
++ QANewBRepNaming:pubinclude:QANewBRepNaming_TopNaming.lxx QANewBRepNaming:source:QANewBRepNaming_TopNaming.lxx
++ QANewBRepNaming:dbadmfile:QANewBRepNaming_obj_inc.In QANewBRepNaming:admfile:QANewBRepNaming_src.Out
++ * QANewBRepNaming:admfile:QANewBRepNaming_xcpp_src.Out
++ QANewBRepNaming:dbadmfile:QANewBRepNaming_obj_inc.Out QANewBRepNaming:admfile:QANewBRepNaming_src.Out
++ * QANewBRepNaming:admfile:QANewBRepNaming_xcpp_src.Out
++ QANewBRepNaming:dbadmfile:QANewBRepNaming_obj_inc.Dep QANewBRepNaming:admfile:QANewBRepNaming_src.Out
++ * QANewBRepNaming:admfile:QANewBRepNaming_xcpp_src.Out

@@ -1,0 +1,6 @@
++M TestTopOpe:pubinclude:TestTopOpe_BOOP.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpe_BOOP.hxx
++M TestTopOpe:pubinclude:TestTopOpe_VarsTopo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpe_VarsTopo.hxx
++M TestTopOpe:pubinclude:TestTopOpe_HDSDisplayer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpe_HDSDisplayer.hxx
++M TestTopOpe:dbadmfile:TestTopOpe_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_obj_inc.In
++M TestTopOpe:dbadmfile:TestTopOpe_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_obj_inc.Out
++M TestTopOpe:dbadmfile:TestTopOpe_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_obj_inc.Dep

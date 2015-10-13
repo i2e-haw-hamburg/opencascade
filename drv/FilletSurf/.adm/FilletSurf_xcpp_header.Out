@@ -1,0 +1,12 @@
++M FilletSurf:pubinclude:FilletSurf_Builder.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FilletSurf_Builder.hxx
++M FilletSurf:privinclude:FilletSurf_Builder.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/FilletSurf_Builder.jxx
++M FilletSurf:privinclude:FilletSurf_Builder.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/FilletSurf_Builder.ixx
++M FilletSurf:pubinclude:FilletSurf_InternalBuilder.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FilletSurf_InternalBuilder.hxx
++M FilletSurf:privinclude:FilletSurf_InternalBuilder.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/FilletSurf_InternalBuilder.jxx
++M FilletSurf:privinclude:FilletSurf_InternalBuilder.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/FilletSurf_InternalBuilder.ixx
++M FilletSurf:pubinclude:FilletSurf_StatusType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FilletSurf_StatusType.hxx
++M FilletSurf:pubinclude:FilletSurf_StatusDone.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FilletSurf_StatusDone.hxx
++M FilletSurf:pubinclude:FilletSurf_ErrorTypeStatus.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FilletSurf_ErrorTypeStatus.hxx
++M FilletSurf:dbadmfile:FilletSurf_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/.adm/FilletSurf_xcpp_header.In
++M FilletSurf:dbadmfile:FilletSurf_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/.adm/FilletSurf_xcpp_header.Out
++M FilletSurf:dbadmfile:FilletSurf_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FilletSurf/.adm/FilletSurf_xcpp_header.Dep

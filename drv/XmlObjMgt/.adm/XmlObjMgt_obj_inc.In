@@ -1,0 +1,7 @@
++ XmlObjMgt:source:XmlObjMgt_Element.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/XmlObjMgt/XmlObjMgt_Element.hxx
++ XmlObjMgt:source:XmlObjMgt_Document.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/XmlObjMgt/XmlObjMgt_Document.hxx
++ XmlObjMgt:source:XmlObjMgt_DOMString.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/XmlObjMgt/XmlObjMgt_DOMString.hxx
++ XmlObjMgt:source:XmlObjMgt_Persistent.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/XmlObjMgt/XmlObjMgt_Persistent.lxx
++ XmlObjMgt:source:XmlObjMgt_Array1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/XmlObjMgt/XmlObjMgt_Array1.lxx
+- XmlObjMgt:admfile:XmlObjMgt_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlObjMgt/XmlObjMgt_src.Out
+- XmlObjMgt:admfile:XmlObjMgt_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlObjMgt/XmlObjMgt_xcpp_src.Out

@@ -1,0 +1,7 @@
++ BRepBuilderAPI:source:BRepBuilderAPI_VertexInspector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepBuilderAPI/BRepBuilderAPI_VertexInspector.hxx
++ BRepBuilderAPI:source:BRepBuilderAPI_CellFilter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepBuilderAPI/BRepBuilderAPI_CellFilter.hxx
++ BRepBuilderAPI:source:BRepBuilderAPI_BndBoxTreeSelector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepBuilderAPI/BRepBuilderAPI_BndBoxTreeSelector.hxx
++ BRepBuilderAPI:source:BRepBuilderAPI_FastSewing.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepBuilderAPI/BRepBuilderAPI_FastSewing.hxx
++ BRepBuilderAPI:source:BRepBuilderAPI_Sewing.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepBuilderAPI/BRepBuilderAPI_Sewing.lxx
+- BRepBuilderAPI:admfile:BRepBuilderAPI_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepBuilderAPI/BRepBuilderAPI_src.Out
+- BRepBuilderAPI:admfile:BRepBuilderAPI_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepBuilderAPI/BRepBuilderAPI_xcpp_src.Out

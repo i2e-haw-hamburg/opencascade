@@ -1,0 +1,15 @@
++M MgtBRep:pubinclude:MgtBRep.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtBRep.hxx
++M MgtBRep:privinclude:MgtBRep.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep.jxx
++M MgtBRep:privinclude:MgtBRep.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep.ixx
++M MgtBRep:pubinclude:Handle_MgtBRep_TranslateTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MgtBRep_TranslateTool.hxx
++M MgtBRep:pubinclude:MgtBRep_TranslateTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtBRep_TranslateTool.hxx
++M MgtBRep:privinclude:MgtBRep_TranslateTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep_TranslateTool.jxx
++M MgtBRep:privinclude:MgtBRep_TranslateTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep_TranslateTool.ixx
++M MgtBRep:pubinclude:Handle_MgtBRep_TranslateTool1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MgtBRep_TranslateTool1.hxx
++M MgtBRep:pubinclude:MgtBRep_TranslateTool1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtBRep_TranslateTool1.hxx
++M MgtBRep:privinclude:MgtBRep_TranslateTool1.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep_TranslateTool1.jxx
++M MgtBRep:privinclude:MgtBRep_TranslateTool1.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/MgtBRep_TranslateTool1.ixx
++M MgtBRep:pubinclude:MgtBRep_TriangleMode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtBRep_TriangleMode.hxx
++M MgtBRep:dbadmfile:MgtBRep_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/.adm/MgtBRep_xcpp_header.In
++M MgtBRep:dbadmfile:MgtBRep_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/.adm/MgtBRep_xcpp_header.Out
++M MgtBRep:dbadmfile:MgtBRep_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtBRep/.adm/MgtBRep_xcpp_header.Dep

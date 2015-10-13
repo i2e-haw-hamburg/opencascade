@@ -1,0 +1,6 @@
++V Geom2dConvert:msentity:Geom2dConvert .
++V Geom2dConvert:msentity:Geom2dConvert_BSplineCurveKnotSplitting .
++V Geom2dConvert:msentity:Geom2dConvert_BSplineCurveToBezierCurve .
++V Geom2dConvert:msentity:Geom2dConvert_CompCurveToBSplineCurve .
++V Geom2dConvert:msentity:Geom2dConvert_ApproxCurve .
+- Geom2dConvert:admfile:Geom2dConvert_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dConvert/Geom2dConvert_xcpp_fill.Out

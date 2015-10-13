@@ -1,0 +1,6 @@
++M IntAna2d:pubinclude:IntAna2d_Outils.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_Outils.hxx
++M IntAna2d:pubinclude:IntAna2d_AnaIntersection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_AnaIntersection.lxx
++M IntAna2d:pubinclude:IntAna2d_IntPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_IntPoint.lxx
++M IntAna2d:dbadmfile:IntAna2d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_obj_inc.In
++M IntAna2d:dbadmfile:IntAna2d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_obj_inc.Out
++M IntAna2d:dbadmfile:IntAna2d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_obj_inc.Dep

@@ -1,0 +1,11 @@
++ BRepBuilderAPI:pubinclude:BRepBuilderAPI_VertexInspector.hxx BRepBuilderAPI:source:BRepBuilderAPI_VertexInspector.hxx
++ BRepBuilderAPI:pubinclude:BRepBuilderAPI_CellFilter.hxx BRepBuilderAPI:source:BRepBuilderAPI_CellFilter.hxx
++ BRepBuilderAPI:pubinclude:BRepBuilderAPI_BndBoxTreeSelector.hxx BRepBuilderAPI:source:BRepBuilderAPI_BndBoxTreeSelector.hxx
++ BRepBuilderAPI:pubinclude:BRepBuilderAPI_FastSewing.hxx BRepBuilderAPI:source:BRepBuilderAPI_FastSewing.hxx
++ BRepBuilderAPI:pubinclude:BRepBuilderAPI_Sewing.lxx BRepBuilderAPI:source:BRepBuilderAPI_Sewing.lxx
++ BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.In BRepBuilderAPI:admfile:BRepBuilderAPI_src.Out
++ * BRepBuilderAPI:admfile:BRepBuilderAPI_xcpp_src.Out
++ BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.Out BRepBuilderAPI:admfile:BRepBuilderAPI_src.Out
++ * BRepBuilderAPI:admfile:BRepBuilderAPI_xcpp_src.Out
++ BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.Dep BRepBuilderAPI:admfile:BRepBuilderAPI_src.Out
++ * BRepBuilderAPI:admfile:BRepBuilderAPI_xcpp_src.Out

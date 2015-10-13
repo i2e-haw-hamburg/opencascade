@@ -1,0 +1,11 @@
++V Dico:msentity:Dico .
++V Dico:msentity:Dico_Dictionary .
++V Dico:msentity:Dico_Iterator .
++V Dico:msentity:Dico_StackItem .
++V Dico:msentity:Dico_DictionaryOfInteger .
++V Dico:msentity:Dico_DictionaryOfTransient .
++V Dico:msentity:Dico_IteratorOfDictionaryOfInteger .
++V Dico:msentity:Dico_StackItemOfDictionaryOfInteger .
++V Dico:msentity:Dico_IteratorOfDictionaryOfTransient .
++V Dico:msentity:Dico_StackItemOfDictionaryOfTransient .
+- Dico:admfile:Dico_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Dico/Dico_xcpp_fill.Out

@@ -1,0 +1,12 @@
++M GeomAbs:pubinclude:GeomAbs_CurveType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_CurveType.hxx
++M GeomAbs:pubinclude:GeomAbs_SurfaceType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_SurfaceType.hxx
++M GeomAbs:pubinclude:GeomAbs_Shape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_Shape.hxx
++M GeomAbs:pubinclude:GeomAbs_SurfaceForm.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_SurfaceForm.hxx
++M GeomAbs:pubinclude:GeomAbs_CurveForm.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_CurveForm.hxx
++M GeomAbs:pubinclude:GeomAbs_BSplKnotDistribution.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_BSplKnotDistribution.hxx
++M GeomAbs:pubinclude:GeomAbs_UVSense.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_UVSense.hxx
++M GeomAbs:pubinclude:GeomAbs_IsoType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_IsoType.hxx
++M GeomAbs:pubinclude:GeomAbs_JoinType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomAbs_JoinType.hxx
++M GeomAbs:dbadmfile:GeomAbs_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomAbs/.adm/GeomAbs_xcpp_header.In
++M GeomAbs:dbadmfile:GeomAbs_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomAbs/.adm/GeomAbs_xcpp_header.Out
++M GeomAbs:dbadmfile:GeomAbs_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomAbs/.adm/GeomAbs_xcpp_header.Dep

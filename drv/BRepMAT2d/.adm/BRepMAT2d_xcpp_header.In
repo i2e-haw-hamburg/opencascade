@@ -1,0 +1,11 @@
++V BRepMAT2d:msentity:BRepMAT2d .
++V BRepMAT2d:msentity:BRepMAT2d_Explorer .
++V BRepMAT2d:msentity:BRepMAT2d_BisectingLocus .
++V BRepMAT2d:msentity:BRepMAT2d_LinkTopoBilo .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapOfShapeSequenceOfBasicElt .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapOfBasicEltShape .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapNodeOfDataMapOfShapeSequenceOfBasicElt .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapIteratorOfDataMapOfShapeSequenceOfBasicElt .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapNodeOfDataMapOfBasicEltShape .
++V BRepMAT2d:msentity:BRepMAT2d_DataMapIteratorOfDataMapOfBasicEltShape .
+- BRepMAT2d:admfile:BRepMAT2d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepMAT2d/BRepMAT2d_xcpp_fill.Out

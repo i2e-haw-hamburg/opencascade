@@ -1,0 +1,11 @@
++M TopTrans:pubinclude:TopTrans_Array2OfOrientation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopTrans_Array2OfOrientation.hxx
++M TopTrans:derivated:TopTrans_Array2OfOrientation_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/TopTrans_Array2OfOrientation_0.cxx
++M TopTrans:pubinclude:TopTrans_CurveTransition.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopTrans_CurveTransition.hxx
++M TopTrans:privinclude:TopTrans_CurveTransition.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/TopTrans_CurveTransition.jxx
++M TopTrans:privinclude:TopTrans_CurveTransition.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/TopTrans_CurveTransition.ixx
++M TopTrans:pubinclude:TopTrans_SurfaceTransition.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopTrans_SurfaceTransition.hxx
++M TopTrans:privinclude:TopTrans_SurfaceTransition.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/TopTrans_SurfaceTransition.jxx
++M TopTrans:privinclude:TopTrans_SurfaceTransition.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/TopTrans_SurfaceTransition.ixx
++M TopTrans:dbadmfile:TopTrans_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/.adm/TopTrans_xcpp_header.In
++M TopTrans:dbadmfile:TopTrans_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/.adm/TopTrans_xcpp_header.Out
++M TopTrans:dbadmfile:TopTrans_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopTrans/.adm/TopTrans_xcpp_header.Dep

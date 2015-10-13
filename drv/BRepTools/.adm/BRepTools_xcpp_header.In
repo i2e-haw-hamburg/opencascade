@@ -1,0 +1,15 @@
++V BRepTools:msentity:BRepTools .
++V BRepTools:msentity:BRepTools_WireExplorer .
++V BRepTools:msentity:BRepTools_Modification .
++V BRepTools:msentity:BRepTools_Modifier .
++V BRepTools:msentity:BRepTools_TrsfModification .
++V BRepTools:msentity:BRepTools_NurbsConvertModification .
++V BRepTools:msentity:BRepTools_GTrsfModification .
++V BRepTools:msentity:BRepTools_Substitution .
++V BRepTools:msentity:BRepTools_Quilt .
++V BRepTools:msentity:BRepTools_ShapeSet .
++V BRepTools:msentity:BRepTools_ReShape .
++V BRepTools:msentity:BRepTools_MapOfVertexPnt2d .
++V BRepTools:msentity:BRepTools_DataMapNodeOfMapOfVertexPnt2d .
++V BRepTools:msentity:BRepTools_DataMapIteratorOfMapOfVertexPnt2d .
+- BRepTools:admfile:BRepTools_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepTools/BRepTools_xcpp_fill.Out

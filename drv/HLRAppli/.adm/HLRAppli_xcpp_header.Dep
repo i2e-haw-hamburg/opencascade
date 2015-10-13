@@ -1,0 +1,6 @@
++ HLRAppli:pubinclude:HLRAppli_ReflectLines.hxx HLRAppli:msentity:HLRAppli_ReflectLines
++ HLRAppli:privinclude:HLRAppli_ReflectLines.jxx HLRAppli:msentity:HLRAppli_ReflectLines
++ HLRAppli:privinclude:HLRAppli_ReflectLines.ixx HLRAppli:msentity:HLRAppli_ReflectLines
++ HLRAppli:dbadmfile:HLRAppli_xcpp_header.In HLRAppli:admfile:HLRAppli_xcpp_fill.Out
++ HLRAppli:dbadmfile:HLRAppli_xcpp_header.Out HLRAppli:admfile:HLRAppli_xcpp_fill.Out
++ HLRAppli:dbadmfile:HLRAppli_xcpp_header.Dep HLRAppli:admfile:HLRAppli_xcpp_fill.Out

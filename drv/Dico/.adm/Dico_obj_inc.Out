@@ -1,0 +1,6 @@
++M Dico:pubinclude:Dico_Dictionary.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Dico_Dictionary.gxx
++M Dico:pubinclude:Dico_Iterator.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Dico_Iterator.gxx
++M Dico:pubinclude:Dico_StackItem.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Dico_StackItem.gxx
++M Dico:dbadmfile:Dico_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Dico/.adm/Dico_obj_inc.In
++M Dico:dbadmfile:Dico_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Dico/.adm/Dico_obj_inc.Out
++M Dico:dbadmfile:Dico_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Dico/.adm/Dico_obj_inc.Dep

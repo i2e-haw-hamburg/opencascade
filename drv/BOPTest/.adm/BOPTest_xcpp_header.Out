@@ -1,0 +1,13 @@
++M BOPTest:pubinclude:BOPTest.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTest.hxx
++M BOPTest:privinclude:BOPTest.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest.jxx
++M BOPTest:privinclude:BOPTest.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest.ixx
++M BOPTest:pubinclude:BOPTest_Objects.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTest_Objects.hxx
++M BOPTest:privinclude:BOPTest_Objects.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest_Objects.jxx
++M BOPTest:privinclude:BOPTest_Objects.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest_Objects.ixx
++M BOPTest:pubinclude:Handle_BOPTest_DrawableShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BOPTest_DrawableShape.hxx
++M BOPTest:pubinclude:BOPTest_DrawableShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTest_DrawableShape.hxx
++M BOPTest:privinclude:BOPTest_DrawableShape.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest_DrawableShape.jxx
++M BOPTest:privinclude:BOPTest_DrawableShape.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/BOPTest_DrawableShape.ixx
++M BOPTest:dbadmfile:BOPTest_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/.adm/BOPTest_xcpp_header.In
++M BOPTest:dbadmfile:BOPTest_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/.adm/BOPTest_xcpp_header.Out
++M BOPTest:dbadmfile:BOPTest_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTest/.adm/BOPTest_xcpp_header.Dep

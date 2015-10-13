@@ -1,0 +1,14 @@
++M ShapeAlgo:pubinclude:ShapeAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeAlgo.hxx
++M ShapeAlgo:privinclude:ShapeAlgo.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo.jxx
++M ShapeAlgo:privinclude:ShapeAlgo.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo.ixx
++M ShapeAlgo:pubinclude:Handle_ShapeAlgo_ToolContainer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_ShapeAlgo_ToolContainer.hxx
++M ShapeAlgo:pubinclude:ShapeAlgo_ToolContainer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeAlgo_ToolContainer.hxx
++M ShapeAlgo:privinclude:ShapeAlgo_ToolContainer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo_ToolContainer.jxx
++M ShapeAlgo:privinclude:ShapeAlgo_ToolContainer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo_ToolContainer.ixx
++M ShapeAlgo:pubinclude:Handle_ShapeAlgo_AlgoContainer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_ShapeAlgo_AlgoContainer.hxx
++M ShapeAlgo:pubinclude:ShapeAlgo_AlgoContainer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeAlgo_AlgoContainer.hxx
++M ShapeAlgo:privinclude:ShapeAlgo_AlgoContainer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo_AlgoContainer.jxx
++M ShapeAlgo:privinclude:ShapeAlgo_AlgoContainer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/ShapeAlgo_AlgoContainer.ixx
++M ShapeAlgo:dbadmfile:ShapeAlgo_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_xcpp_header.In
++M ShapeAlgo:dbadmfile:ShapeAlgo_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_xcpp_header.Out
++M ShapeAlgo:dbadmfile:ShapeAlgo_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_xcpp_header.Dep

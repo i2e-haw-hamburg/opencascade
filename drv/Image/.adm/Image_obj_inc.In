@@ -1,0 +1,8 @@
++ Image:source:Image_PixMap.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_PixMap.hxx
++ Image:source:Image_PixMap_Handle.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_PixMap_Handle.hxx
++ Image:source:Image_PixMapData.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_PixMapData.hxx
++ Image:source:Image_Color.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_Color.hxx
++ Image:source:Image_AlienPixMap.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_AlienPixMap.hxx
++ Image:source:Image_Diff.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Image/Image_Diff.hxx
+- Image:admfile:Image_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Image/Image_src.Out
+- Image:admfile:Image_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Image/Image_xcpp_src.Out

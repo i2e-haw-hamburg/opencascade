@@ -1,0 +1,9 @@
++M TopAbs:pubinclude:TopAbs.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopAbs.hxx
++M TopAbs:privinclude:TopAbs.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopAbs/TopAbs.jxx
++M TopAbs:privinclude:TopAbs.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopAbs/TopAbs.ixx
++M TopAbs:pubinclude:TopAbs_ShapeEnum.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopAbs_ShapeEnum.hxx
++M TopAbs:pubinclude:TopAbs_Orientation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopAbs_Orientation.hxx
++M TopAbs:pubinclude:TopAbs_State.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopAbs_State.hxx
++M TopAbs:dbadmfile:TopAbs_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopAbs/.adm/TopAbs_xcpp_header.In
++M TopAbs:dbadmfile:TopAbs_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopAbs/.adm/TopAbs_xcpp_header.Out
++M TopAbs:dbadmfile:TopAbs_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopAbs/.adm/TopAbs_xcpp_header.Dep

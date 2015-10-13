@@ -1,0 +1,10 @@
++V QANewModTopOpe:msentity:QANewModTopOpe .
++V QANewModTopOpe:msentity:QANewModTopOpe_Tools .
++V QANewModTopOpe:msentity:QANewModTopOpe_Limitation .
++V QANewModTopOpe:msentity:QANewModTopOpe_Intersection .
++V QANewModTopOpe:msentity:QANewModTopOpe_Glue .
++V QANewModTopOpe:msentity:QANewModTopOpe_ReShaper .
++V QANewModTopOpe:msentity:QANewModTopOpe_ModeOfLimitation .
++V QANewModTopOpe:msentity:QANewModTopOpe_CutPtr .
++V QANewModTopOpe:msentity:QANewModTopOpe_CommonPtr .
+- QANewModTopOpe:admfile:QANewModTopOpe_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/QANewModTopOpe/QANewModTopOpe_xcpp_fill.Out

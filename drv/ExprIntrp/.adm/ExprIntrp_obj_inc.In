@@ -1,0 +1,4 @@
++ ExprIntrp:source:ExprIntrp_yaccanal.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ExprIntrp/ExprIntrp_yaccanal.hxx
++ ExprIntrp:source:ExprIntrp_yaccintrf.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ExprIntrp/ExprIntrp_yaccintrf.hxx
+- ExprIntrp:admfile:ExprIntrp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ExprIntrp/ExprIntrp_src.Out
+- ExprIntrp:admfile:ExprIntrp_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ExprIntrp/ExprIntrp_xcpp_src.Out

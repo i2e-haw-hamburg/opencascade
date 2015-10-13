@@ -1,0 +1,6 @@
++M GeomInt:pubinclude:GeomInt_VectorOfReal.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomInt_VectorOfReal.hxx
++M GeomInt:pubinclude:GeomInt_IntSS.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomInt_IntSS.lxx
++M GeomInt:pubinclude:GeomInt_LineConstructor.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomInt_LineConstructor.lxx
++M GeomInt:dbadmfile:GeomInt_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomInt/.adm/GeomInt_obj_inc.In
++M GeomInt:dbadmfile:GeomInt_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomInt/.adm/GeomInt_obj_inc.Out
++M GeomInt:dbadmfile:GeomInt_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomInt/.adm/GeomInt_obj_inc.Dep

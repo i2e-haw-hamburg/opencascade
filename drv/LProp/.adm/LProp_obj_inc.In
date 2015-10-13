@@ -1,0 +1,4 @@
++ LProp:source:LProp_CLProps.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LProp/LProp_CLProps.gxx
++ LProp:source:LProp_SLProps.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LProp/LProp_SLProps.gxx
+- LProp:admfile:LProp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LProp/LProp_src.Out
+- LProp:admfile:LProp_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LProp/LProp_xcpp_src.Out

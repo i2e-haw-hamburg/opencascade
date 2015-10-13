@@ -1,0 +1,16 @@
++M ShapeBuild:pubinclude:ShapeBuild.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeBuild.hxx
++M ShapeBuild:privinclude:ShapeBuild.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild.jxx
++M ShapeBuild:privinclude:ShapeBuild.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild.ixx
++M ShapeBuild:pubinclude:ShapeBuild_Vertex.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeBuild_Vertex.hxx
++M ShapeBuild:privinclude:ShapeBuild_Vertex.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_Vertex.jxx
++M ShapeBuild:privinclude:ShapeBuild_Vertex.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_Vertex.ixx
++M ShapeBuild:pubinclude:ShapeBuild_Edge.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeBuild_Edge.hxx
++M ShapeBuild:privinclude:ShapeBuild_Edge.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_Edge.jxx
++M ShapeBuild:privinclude:ShapeBuild_Edge.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_Edge.ixx
++M ShapeBuild:pubinclude:Handle_ShapeBuild_ReShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_ShapeBuild_ReShape.hxx
++M ShapeBuild:pubinclude:ShapeBuild_ReShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeBuild_ReShape.hxx
++M ShapeBuild:privinclude:ShapeBuild_ReShape.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_ReShape.jxx
++M ShapeBuild:privinclude:ShapeBuild_ReShape.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/ShapeBuild_ReShape.ixx
++M ShapeBuild:dbadmfile:ShapeBuild_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/.adm/ShapeBuild_xcpp_header.In
++M ShapeBuild:dbadmfile:ShapeBuild_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/.adm/ShapeBuild_xcpp_header.Out
++M ShapeBuild:dbadmfile:ShapeBuild_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeBuild/.adm/ShapeBuild_xcpp_header.Dep

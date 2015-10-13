@@ -1,0 +1,9 @@
++M IGESConvGeom:pubinclude:IGESConvGeom.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESConvGeom.hxx
++M IGESConvGeom:privinclude:IGESConvGeom.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/IGESConvGeom.jxx
++M IGESConvGeom:privinclude:IGESConvGeom.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/IGESConvGeom.ixx
++M IGESConvGeom:pubinclude:IGESConvGeom_GeomBuilder.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESConvGeom_GeomBuilder.hxx
++M IGESConvGeom:privinclude:IGESConvGeom_GeomBuilder.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/IGESConvGeom_GeomBuilder.jxx
++M IGESConvGeom:privinclude:IGESConvGeom_GeomBuilder.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/IGESConvGeom_GeomBuilder.ixx
++M IGESConvGeom:dbadmfile:IGESConvGeom_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/.adm/IGESConvGeom_xcpp_header.In
++M IGESConvGeom:dbadmfile:IGESConvGeom_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/.adm/IGESConvGeom_xcpp_header.Out
++M IGESConvGeom:dbadmfile:IGESConvGeom_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESConvGeom/.adm/IGESConvGeom_xcpp_header.Dep

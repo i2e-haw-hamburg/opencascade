@@ -1,0 +1,6 @@
++V Geom2dToIGES:msentity:Geom2dToIGES .
++V Geom2dToIGES:msentity:Geom2dToIGES_Geom2dCurve .
++V Geom2dToIGES:msentity:Geom2dToIGES_Geom2dEntity .
++V Geom2dToIGES:msentity:Geom2dToIGES_Geom2dPoint .
++V Geom2dToIGES:msentity:Geom2dToIGES_Geom2dVector .
+- Geom2dToIGES:admfile:Geom2dToIGES_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dToIGES/Geom2dToIGES_xcpp_fill.Out

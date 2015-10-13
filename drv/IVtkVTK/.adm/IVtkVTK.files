@@ -1,0 +1,8 @@
+dbadmfile IVtkVTK_xcpp_header.In
+dbadmfile IVtkVTK_xcpp_header.Out
+dbadmfile IVtkVTK_xcpp_header.Dep
+pubinclude IVtkVTK_ShapeData.hxx
+pubinclude IVtkVTK_View.hxx
+dbadmfile IVtkVTK_obj_inc.In
+dbadmfile IVtkVTK_obj_inc.Out
+dbadmfile IVtkVTK_obj_inc.Dep

@@ -1,0 +1,6 @@
++M MgtGeom:pubinclude:MgtGeom.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtGeom.hxx
++M MgtGeom:privinclude:MgtGeom.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom/MgtGeom.jxx
++M MgtGeom:privinclude:MgtGeom.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom/MgtGeom.ixx
++M MgtGeom:dbadmfile:MgtGeom_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom/.adm/MgtGeom_xcpp_header.In
++M MgtGeom:dbadmfile:MgtGeom_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom/.adm/MgtGeom_xcpp_header.Out
++M MgtGeom:dbadmfile:MgtGeom_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom/.adm/MgtGeom_xcpp_header.Dep

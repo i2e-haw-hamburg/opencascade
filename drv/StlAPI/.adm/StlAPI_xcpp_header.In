@@ -1,0 +1,5 @@
++V StlAPI:msentity:StlAPI .
++V StlAPI:msentity:StlAPI_Writer .
++V StlAPI:msentity:StlAPI_Reader .
++V StlAPI:msentity:StlAPI_ErrorStatus .
+- StlAPI:admfile:StlAPI_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StlAPI/StlAPI_xcpp_fill.Out

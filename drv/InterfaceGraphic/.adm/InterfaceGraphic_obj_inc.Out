@@ -1,0 +1,9 @@
++M InterfaceGraphic:pubinclude:InterfaceGraphic.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic.hxx
++M InterfaceGraphic:pubinclude:InterfaceGraphic_Aspect.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic_Aspect.hxx
++M InterfaceGraphic:pubinclude:InterfaceGraphic_Graphic3d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic_Graphic3d.hxx
++M InterfaceGraphic:pubinclude:InterfaceGraphic_Visual3d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic_Visual3d.hxx
++M InterfaceGraphic:pubinclude:InterfaceGraphic_telem.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic_telem.hxx
++M InterfaceGraphic:pubinclude:InterfaceGraphic_tgl_all.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/InterfaceGraphic_tgl_all.hxx
++M InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/InterfaceGraphic/.adm/InterfaceGraphic_obj_inc.In
++M InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/InterfaceGraphic/.adm/InterfaceGraphic_obj_inc.Out
++M InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/InterfaceGraphic/.adm/InterfaceGraphic_obj_inc.Dep

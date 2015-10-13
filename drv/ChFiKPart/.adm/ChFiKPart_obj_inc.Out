@@ -1,0 +1,16 @@
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_Fcts.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_Fcts.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_CS.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_CS.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_FilPlnCon.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_FilPlnCon.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_FilPlnCyl.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_FilPlnCyl.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_FilPlnPln.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_FilPlnPln.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_Rotule.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_Rotule.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_Sphere.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_Sphere.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChPlnPln.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChPlnPln.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChPlnCyl.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChPlnCyl.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChPlnCon.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChPlnCon.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChAsymPlnPln.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChAsymPlnPln.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChAsymPlnCyl.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChAsymPlnCyl.hxx
++M ChFiKPart:pubinclude:ChFiKPart_ComputeData_ChAsymPlnCon.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ChFiKPart_ComputeData_ChAsymPlnCon.hxx
++M ChFiKPart:dbadmfile:ChFiKPart_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFiKPart/.adm/ChFiKPart_obj_inc.In
++M ChFiKPart:dbadmfile:ChFiKPart_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFiKPart/.adm/ChFiKPart_obj_inc.Out
++M ChFiKPart:dbadmfile:ChFiKPart_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ChFiKPart/.adm/ChFiKPart_obj_inc.Dep

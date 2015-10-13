@@ -1,0 +1,13 @@
++M LocalAnalysis:pubinclude:LocalAnalysis.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LocalAnalysis.hxx
++M LocalAnalysis:privinclude:LocalAnalysis.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis.jxx
++M LocalAnalysis:privinclude:LocalAnalysis.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis.ixx
++M LocalAnalysis:pubinclude:LocalAnalysis_SurfaceContinuity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LocalAnalysis_SurfaceContinuity.hxx
++M LocalAnalysis:privinclude:LocalAnalysis_SurfaceContinuity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis_SurfaceContinuity.jxx
++M LocalAnalysis:privinclude:LocalAnalysis_SurfaceContinuity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis_SurfaceContinuity.ixx
++M LocalAnalysis:pubinclude:LocalAnalysis_CurveContinuity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LocalAnalysis_CurveContinuity.hxx
++M LocalAnalysis:privinclude:LocalAnalysis_CurveContinuity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis_CurveContinuity.jxx
++M LocalAnalysis:privinclude:LocalAnalysis_CurveContinuity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/LocalAnalysis_CurveContinuity.ixx
++M LocalAnalysis:pubinclude:LocalAnalysis_StatusErrorType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LocalAnalysis_StatusErrorType.hxx
++M LocalAnalysis:dbadmfile:LocalAnalysis_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/.adm/LocalAnalysis_xcpp_header.In
++M LocalAnalysis:dbadmfile:LocalAnalysis_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/.adm/LocalAnalysis_xcpp_header.Out
++M LocalAnalysis:dbadmfile:LocalAnalysis_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LocalAnalysis/.adm/LocalAnalysis_xcpp_header.Dep

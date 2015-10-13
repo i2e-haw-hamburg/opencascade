@@ -1,0 +1,9 @@
+pubinclude QANewDBRepNaming.hxx
+privinclude QANewDBRepNaming.jxx
+privinclude QANewDBRepNaming.ixx
+dbadmfile QANewDBRepNaming_xcpp_header.In
+dbadmfile QANewDBRepNaming_xcpp_header.Out
+dbadmfile QANewDBRepNaming_xcpp_header.Dep
+dbadmfile QANewDBRepNaming_obj_inc.In
+dbadmfile QANewDBRepNaming_obj_inc.Out
+dbadmfile QANewDBRepNaming_obj_inc.Dep

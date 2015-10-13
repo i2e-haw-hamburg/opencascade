@@ -1,0 +1,4 @@
++M BinMXCAFDoc:pubinclude:BinMXCAFDoc_LocationDriver.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinMXCAFDoc_LocationDriver.lxx
++M BinMXCAFDoc:dbadmfile:BinMXCAFDoc_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMXCAFDoc/.adm/BinMXCAFDoc_obj_inc.In
++M BinMXCAFDoc:dbadmfile:BinMXCAFDoc_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMXCAFDoc/.adm/BinMXCAFDoc_obj_inc.Out
++M BinMXCAFDoc:dbadmfile:BinMXCAFDoc_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinMXCAFDoc/.adm/BinMXCAFDoc_obj_inc.Dep

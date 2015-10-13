@@ -1,0 +1,3 @@
++ gce:source:gce_Root.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/gce/gce_Root.lxx
+- gce:admfile:gce_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/gce/gce_src.Out
+- gce:admfile:gce_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/gce/gce_xcpp_src.Out

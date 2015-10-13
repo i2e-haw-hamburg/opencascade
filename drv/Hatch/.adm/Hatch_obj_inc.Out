@@ -1,0 +1,4 @@
++M Hatch:pubinclude:Hatch_Hatcher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Hatch_Hatcher.lxx
++M Hatch:dbadmfile:Hatch_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hatch/.adm/Hatch_obj_inc.In
++M Hatch:dbadmfile:Hatch_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hatch/.adm/Hatch_obj_inc.Out
++M Hatch:dbadmfile:Hatch_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hatch/.adm/Hatch_obj_inc.Dep

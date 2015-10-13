@@ -1,0 +1,6 @@
++M QADraw:pubinclude:QADraw.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/QADraw.hxx
++M QADraw:privinclude:QADraw.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADraw/QADraw.jxx
++M QADraw:privinclude:QADraw.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADraw/QADraw.ixx
++M QADraw:dbadmfile:QADraw_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADraw/.adm/QADraw_xcpp_header.In
++M QADraw:dbadmfile:QADraw_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADraw/.adm/QADraw_xcpp_header.Out
++M QADraw:dbadmfile:QADraw_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QADraw/.adm/QADraw_xcpp_header.Dep

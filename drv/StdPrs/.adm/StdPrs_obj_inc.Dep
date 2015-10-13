@@ -1,0 +1,13 @@
++ StdPrs:pubinclude:StdPrs_ToolShadedShape.hxx StdPrs:source:StdPrs_ToolShadedShape.hxx
++ StdPrs:pubinclude:StdPrs_HLRShape.hxx StdPrs:source:StdPrs_HLRShape.hxx
++ StdPrs:pubinclude:StdPrs_Point.hxx StdPrs:source:StdPrs_Point.hxx
++ StdPrs:pubinclude:StdPrs_Vertex.hxx StdPrs:source:StdPrs_Vertex.hxx
++ StdPrs:pubinclude:StdPrs_WFDeflectionShape.hxx StdPrs:source:StdPrs_WFDeflectionShape.hxx
++ StdPrs:pubinclude:StdPrs_WFRestrictedFace.hxx StdPrs:source:StdPrs_WFRestrictedFace.hxx
++ StdPrs:pubinclude:StdPrs_WFShape.hxx StdPrs:source:StdPrs_WFShape.hxx
++ StdPrs:dbadmfile:StdPrs_obj_inc.In StdPrs:admfile:StdPrs_src.Out
++ * StdPrs:admfile:StdPrs_xcpp_src.Out
++ StdPrs:dbadmfile:StdPrs_obj_inc.Out StdPrs:admfile:StdPrs_src.Out
++ * StdPrs:admfile:StdPrs_xcpp_src.Out
++ StdPrs:dbadmfile:StdPrs_obj_inc.Dep StdPrs:admfile:StdPrs_src.Out
++ * StdPrs:admfile:StdPrs_xcpp_src.Out

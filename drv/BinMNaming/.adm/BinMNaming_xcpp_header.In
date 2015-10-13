@@ -1,0 +1,4 @@
++V BinMNaming:msentity:BinMNaming .
++V BinMNaming:msentity:BinMNaming_NamedShapeDriver .
++V BinMNaming:msentity:BinMNaming_NamingDriver .
+- BinMNaming:admfile:BinMNaming_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinMNaming/BinMNaming_xcpp_fill.Out

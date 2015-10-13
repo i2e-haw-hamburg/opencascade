@@ -1,0 +1,4 @@
++M DNaming:pubinclude:ModelDefinitions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ModelDefinitions.hxx
++M DNaming:dbadmfile:DNaming_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DNaming/.adm/DNaming_obj_inc.In
++M DNaming:dbadmfile:DNaming_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DNaming/.adm/DNaming_obj_inc.Out
++M DNaming:dbadmfile:DNaming_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DNaming/.adm/DNaming_obj_inc.Dep

@@ -1,0 +1,4 @@
++M CDF:pubinclude:CDF_Application.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CDF_Application.lxx
++M CDF:dbadmfile:CDF_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CDF/.adm/CDF_obj_inc.In
++M CDF:dbadmfile:CDF_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CDF/.adm/CDF_obj_inc.Out
++M CDF:dbadmfile:CDF_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CDF/.adm/CDF_obj_inc.Dep

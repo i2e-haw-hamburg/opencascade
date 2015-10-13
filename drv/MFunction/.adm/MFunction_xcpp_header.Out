@@ -1,0 +1,14 @@
++M MFunction:pubinclude:MFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MFunction.hxx
++M MFunction:privinclude:MFunction.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction.jxx
++M MFunction:privinclude:MFunction.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction.ixx
++M MFunction:pubinclude:Handle_MFunction_FunctionStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MFunction_FunctionStorageDriver.hxx
++M MFunction:pubinclude:MFunction_FunctionStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MFunction_FunctionStorageDriver.hxx
++M MFunction:privinclude:MFunction_FunctionStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction_FunctionStorageDriver.jxx
++M MFunction:privinclude:MFunction_FunctionStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction_FunctionStorageDriver.ixx
++M MFunction:pubinclude:Handle_MFunction_FunctionRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MFunction_FunctionRetrievalDriver.hxx
++M MFunction:pubinclude:MFunction_FunctionRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MFunction_FunctionRetrievalDriver.hxx
++M MFunction:privinclude:MFunction_FunctionRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction_FunctionRetrievalDriver.jxx
++M MFunction:privinclude:MFunction_FunctionRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/MFunction_FunctionRetrievalDriver.ixx
++M MFunction:dbadmfile:MFunction_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/.adm/MFunction_xcpp_header.In
++M MFunction:dbadmfile:MFunction_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/.adm/MFunction_xcpp_header.Out
++M MFunction:dbadmfile:MFunction_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MFunction/.adm/MFunction_xcpp_header.Dep

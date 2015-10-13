@@ -1,0 +1,4 @@
++M XBRepMesh:pubinclude:XBRepMesh.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XBRepMesh.hxx
++M XBRepMesh:dbadmfile:XBRepMesh_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XBRepMesh/.adm/XBRepMesh_obj_inc.In
++M XBRepMesh:dbadmfile:XBRepMesh_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XBRepMesh/.adm/XBRepMesh_obj_inc.Out
++M XBRepMesh:dbadmfile:XBRepMesh_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XBRepMesh/.adm/XBRepMesh_obj_inc.Dep

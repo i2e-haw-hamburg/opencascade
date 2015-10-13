@@ -1,0 +1,11 @@
++V IntStart:msentity:IntStart .
++V IntStart:msentity:IntStart_Segment .
++V IntStart:msentity:IntStart_PathPoint .
++V IntStart:msentity:IntStart_SearchOnBoundaries .
++V IntStart:msentity:IntStart_ThePathPoint .
++V IntStart:msentity:IntStart_SequenceOfPathPoint .
++V IntStart:msentity:IntStart_TheSegment .
++V IntStart:msentity:IntStart_SequenceOfSegment .
++V IntStart:msentity:IntStart_SITopolTool .
++V IntStart:msentity:IntStart_SearchInside .
+- IntStart:admfile:IntStart_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntStart/IntStart_xcpp_fill.Out

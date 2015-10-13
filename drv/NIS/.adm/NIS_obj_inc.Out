@@ -1,0 +1,17 @@
++M NIS:pubinclude:NIS_Allocator.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_Allocator.hxx
++M NIS:pubinclude:NIS_Drawer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_Drawer.hxx
++M NIS:pubinclude:NIS_DrawList.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_DrawList.hxx
++M NIS:pubinclude:NIS_InteractiveContext.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_InteractiveContext.hxx
++M NIS:pubinclude:NIS_InteractiveObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_InteractiveObject.hxx
++M NIS:pubinclude:NIS_ObjectsIterator.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_ObjectsIterator.hxx
++M NIS:pubinclude:NIS_SelectFilter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_SelectFilter.hxx
++M NIS:pubinclude:NIS_Surface.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_Surface.hxx
++M NIS:pubinclude:NIS_SurfaceDrawer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_SurfaceDrawer.hxx
++M NIS:pubinclude:NIS_Triangulated.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_Triangulated.hxx
++M NIS:pubinclude:NIS_TriangulatedDrawer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_TriangulatedDrawer.hxx
++M NIS:pubinclude:NIS_View.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/NIS_View.hxx
++M NIS:pubinclude:Handle_NIS_InteractiveObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_NIS_InteractiveObject.hxx
++M NIS:pubinclude:Handle_NIS_View.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_NIS_View.hxx
++M NIS:dbadmfile:NIS_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/NIS/.adm/NIS_obj_inc.In
++M NIS:dbadmfile:NIS_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/NIS/.adm/NIS_obj_inc.Out
++M NIS:dbadmfile:NIS_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/NIS/.adm/NIS_obj_inc.Dep

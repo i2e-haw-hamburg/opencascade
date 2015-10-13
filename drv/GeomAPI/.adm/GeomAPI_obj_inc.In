@@ -1,0 +1,8 @@
++ GeomAPI:source:GeomAPI_ProjectPointOnCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_ProjectPointOnCurve.lxx
++ GeomAPI:source:GeomAPI_ProjectPointOnSurf.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_ProjectPointOnSurf.lxx
++ GeomAPI:source:GeomAPI_ExtremaCurveCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_ExtremaCurveCurve.lxx
++ GeomAPI:source:GeomAPI_ExtremaCurveSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_ExtremaCurveSurface.lxx
++ GeomAPI:source:GeomAPI_ExtremaSurfaceSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_ExtremaSurfaceSurface.lxx
++ GeomAPI:source:GeomAPI_IntSS.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomAPI/GeomAPI_IntSS.lxx
+- GeomAPI:admfile:GeomAPI_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomAPI/GeomAPI_src.Out
+- GeomAPI:admfile:GeomAPI_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomAPI/GeomAPI_xcpp_src.Out

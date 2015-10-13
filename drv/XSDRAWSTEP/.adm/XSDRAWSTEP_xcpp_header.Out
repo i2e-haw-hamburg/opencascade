@@ -1,0 +1,6 @@
++M XSDRAWSTEP:pubinclude:XSDRAWSTEP.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XSDRAWSTEP.hxx
++M XSDRAWSTEP:privinclude:XSDRAWSTEP.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWSTEP/XSDRAWSTEP.jxx
++M XSDRAWSTEP:privinclude:XSDRAWSTEP.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWSTEP/XSDRAWSTEP.ixx
++M XSDRAWSTEP:dbadmfile:XSDRAWSTEP_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWSTEP/.adm/XSDRAWSTEP_xcpp_header.In
++M XSDRAWSTEP:dbadmfile:XSDRAWSTEP_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWSTEP/.adm/XSDRAWSTEP_xcpp_header.Out
++M XSDRAWSTEP:dbadmfile:XSDRAWSTEP_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XSDRAWSTEP/.adm/XSDRAWSTEP_xcpp_header.Dep

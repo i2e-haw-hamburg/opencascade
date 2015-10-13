@@ -1,0 +1,14 @@
++ SelectBasics:pubinclude:SelectBasics.hxx SelectBasics:msentity:SelectBasics
++ SelectBasics:privinclude:SelectBasics.jxx SelectBasics:msentity:SelectBasics
++ SelectBasics:privinclude:SelectBasics.ixx SelectBasics:msentity:SelectBasics
++ SelectBasics:pubinclude:Handle_SelectBasics_EntityOwner.hxx SelectBasics:msentity:SelectBasics_EntityOwner
++ SelectBasics:pubinclude:SelectBasics_EntityOwner.hxx SelectBasics:msentity:SelectBasics_EntityOwner
++ SelectBasics:privinclude:SelectBasics_EntityOwner.jxx SelectBasics:msentity:SelectBasics_EntityOwner
++ SelectBasics:privinclude:SelectBasics_EntityOwner.ixx SelectBasics:msentity:SelectBasics_EntityOwner
++ SelectBasics:pubinclude:Handle_SelectBasics_SensitiveEntity.hxx SelectBasics:msentity:SelectBasics_SensitiveEntity
++ SelectBasics:pubinclude:SelectBasics_SensitiveEntity.hxx SelectBasics:msentity:SelectBasics_SensitiveEntity
++ SelectBasics:privinclude:SelectBasics_SensitiveEntity.jxx SelectBasics:msentity:SelectBasics_SensitiveEntity
++ SelectBasics:privinclude:SelectBasics_SensitiveEntity.ixx SelectBasics:msentity:SelectBasics_SensitiveEntity
++ SelectBasics:dbadmfile:SelectBasics_xcpp_header.In SelectBasics:admfile:SelectBasics_xcpp_fill.Out
++ SelectBasics:dbadmfile:SelectBasics_xcpp_header.Out SelectBasics:admfile:SelectBasics_xcpp_fill.Out
++ SelectBasics:dbadmfile:SelectBasics_xcpp_header.Dep SelectBasics:admfile:SelectBasics_xcpp_fill.Out

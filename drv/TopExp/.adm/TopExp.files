@@ -1,0 +1,14 @@
+pubinclude TopExp.hxx
+privinclude TopExp.jxx
+privinclude TopExp.ixx
+pubinclude TopExp_Explorer.hxx
+privinclude TopExp_Explorer.jxx
+privinclude TopExp_Explorer.ixx
+pubinclude TopExp_Stack.hxx
+dbadmfile TopExp_xcpp_header.In
+dbadmfile TopExp_xcpp_header.Out
+dbadmfile TopExp_xcpp_header.Dep
+pubinclude TopExp_Explorer.lxx
+dbadmfile TopExp_obj_inc.In
+dbadmfile TopExp_obj_inc.Out
+dbadmfile TopExp_obj_inc.Dep

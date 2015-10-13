@@ -1,0 +1,13 @@
++ TNaming:source:TNaming_NCollections.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_NCollections.hxx
++ TNaming:source:TNaming_NamedShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_NamedShape.lxx
++ TNaming:source:TNaming_UsedShapes.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_UsedShapes.lxx
++ TNaming:source:TNaming_Iterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_Iterator.lxx
++ TNaming:source:TNaming_NewShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_NewShapeIterator.lxx
++ TNaming:source:TNaming_OldShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_OldShapeIterator.lxx
++ TNaming:source:TNaming_SameShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_SameShapeIterator.lxx
++ TNaming:source:TNaming_Name.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_Name.lxx
++ TNaming:source:TNaming_RefShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_RefShape.lxx
++ TNaming:source:TNaming_ShapesSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_ShapesSet.lxx
++ TNaming:source:TNaming_IteratorOnShapesSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TNaming/TNaming_IteratorOnShapesSet.lxx
+- TNaming:admfile:TNaming_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TNaming/TNaming_src.Out
+- TNaming:admfile:TNaming_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TNaming/TNaming_xcpp_src.Out

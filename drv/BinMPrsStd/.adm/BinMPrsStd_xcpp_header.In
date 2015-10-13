@@ -1,0 +1,4 @@
++V BinMPrsStd:msentity:BinMPrsStd .
++V BinMPrsStd:msentity:BinMPrsStd_AISPresentationDriver .
++V BinMPrsStd:msentity:BinMPrsStd_PositionDriver .
+- BinMPrsStd:admfile:BinMPrsStd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinMPrsStd/BinMPrsStd_xcpp_fill.Out

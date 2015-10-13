@@ -1,0 +1,9 @@
++ Contap:source:Contap_Point.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_Point.lxx
++ Contap:source:Contap_Line.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_Line.lxx
++ Contap:source:Contap_SurfFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_SurfFunction.lxx
++ Contap:source:Contap_ArcFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_ArcFunction.lxx
++ Contap:source:Contap_Contour.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_Contour.lxx
++ Contap:source:Contap_ContAna.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_ContAna.lxx
++ Contap:source:Contap_HCurve2dTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Contap/Contap_HCurve2dTool.lxx
+- Contap:admfile:Contap_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Contap/Contap_src.Out
+- Contap:admfile:Contap_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Contap/Contap_xcpp_src.Out

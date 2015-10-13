@@ -1,0 +1,5 @@
++M BRepSweep:pubinclude:BRepSweep_Builder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepSweep_Builder.lxx
++M BRepSweep:pubinclude:BRepSweep_Iterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepSweep_Iterator.lxx
++M BRepSweep:dbadmfile:BRepSweep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepSweep/.adm/BRepSweep_obj_inc.In
++M BRepSweep:dbadmfile:BRepSweep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepSweep/.adm/BRepSweep_obj_inc.Out
++M BRepSweep:dbadmfile:BRepSweep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepSweep/.adm/BRepSweep_obj_inc.Dep

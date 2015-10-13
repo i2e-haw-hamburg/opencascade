@@ -1,0 +1,17 @@
++V BOPTools:msentity:BOPTools .
++V BOPTools:msentity:BOPTools_ShapeSet .
++V BOPTools:msentity:BOPTools_EdgeSet .
++V BOPTools:msentity:BOPTools_AlgoTools .
++V BOPTools:msentity:BOPTools_Set .
++V BOPTools:msentity:BOPTools_SetMapHasher .
++V BOPTools:msentity:BOPTools_AlgoTools2D .
++V BOPTools:msentity:BOPTools_AlgoTools3D .
++V BOPTools:msentity:BOPTools_MapOfSet .
++V BOPTools:msentity:BOPTools_DataMapOfShapeSet .
++V BOPTools:msentity:BOPTools_ListOfShapeSet .
++V BOPTools:msentity:BOPTools_ListOfEdgeSet .
++V BOPTools:msentity:BOPTools_ConnexityBlock .
++V BOPTools:msentity:BOPTools_ListOfConnexityBlock .
++V BOPTools:msentity:BOPTools_CoupleOfShape .
++V BOPTools:msentity:BOPTools_ListOfCoupleOfShape .
+- BOPTools:admfile:BOPTools_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BOPTools/BOPTools_xcpp_fill.Out

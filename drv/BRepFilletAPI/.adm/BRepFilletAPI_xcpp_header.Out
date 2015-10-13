@@ -1,0 +1,15 @@
++M BRepFilletAPI:pubinclude:BRepFilletAPI_LocalOperation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFilletAPI_LocalOperation.hxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_LocalOperation.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_LocalOperation.jxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_LocalOperation.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_LocalOperation.ixx
++M BRepFilletAPI:pubinclude:BRepFilletAPI_MakeFillet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFilletAPI_MakeFillet.hxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeFillet.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeFillet.jxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeFillet.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeFillet.ixx
++M BRepFilletAPI:pubinclude:BRepFilletAPI_MakeChamfer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFilletAPI_MakeChamfer.hxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeChamfer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeChamfer.jxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeChamfer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeChamfer.ixx
++M BRepFilletAPI:pubinclude:BRepFilletAPI_MakeFillet2d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFilletAPI_MakeFillet2d.hxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeFillet2d.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeFillet2d.jxx
++M BRepFilletAPI:privinclude:BRepFilletAPI_MakeFillet2d.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/BRepFilletAPI_MakeFillet2d.ixx
++M BRepFilletAPI:dbadmfile:BRepFilletAPI_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/.adm/BRepFilletAPI_xcpp_header.In
++M BRepFilletAPI:dbadmfile:BRepFilletAPI_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/.adm/BRepFilletAPI_xcpp_header.Out
++M BRepFilletAPI:dbadmfile:BRepFilletAPI_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFilletAPI/.adm/BRepFilletAPI_xcpp_header.Dep

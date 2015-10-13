@@ -1,0 +1,9 @@
++M ApproxInt:pubinclude:ApproxInt_MultiLineTool.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_MultiLineTool.gxx
++M ApproxInt:pubinclude:ApproxInt_PrmPrmSvSurfaces.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_PrmPrmSvSurfaces.gxx
++M ApproxInt:pubinclude:ApproxInt_ImpPrmSvSurfaces.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_ImpPrmSvSurfaces.gxx
++M ApproxInt:pubinclude:ApproxInt_MultiLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_MultiLine.gxx
++M ApproxInt:pubinclude:ApproxInt_MultiLineTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_MultiLineTool.lxx
++M ApproxInt:pubinclude:ApproxInt_Approx.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ApproxInt_Approx.gxx
++M ApproxInt:dbadmfile:ApproxInt_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ApproxInt/.adm/ApproxInt_obj_inc.In
++M ApproxInt:dbadmfile:ApproxInt_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ApproxInt/.adm/ApproxInt_obj_inc.Out
++M ApproxInt:dbadmfile:ApproxInt_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ApproxInt/.adm/ApproxInt_obj_inc.Dep

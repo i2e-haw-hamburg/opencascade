@@ -1,0 +1,6 @@
++V LProp3d:msentity:LProp3d .
++V LProp3d:msentity:LProp3d_CurveTool .
++V LProp3d:msentity:LProp3d_SurfaceTool .
++V LProp3d:msentity:LProp3d_CLProps .
++V LProp3d:msentity:LProp3d_SLProps .
+- LProp3d:admfile:LProp3d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LProp3d/LProp3d_xcpp_fill.Out

@@ -1,0 +1,5 @@
++M PDataXtd:pubinclude:PDataXtd_Position.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PDataXtd_Position.lxx
++M PDataXtd:pubinclude:PDataXtd_PatternStd.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PDataXtd_PatternStd.lxx
++M PDataXtd:dbadmfile:PDataXtd_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDataXtd/.adm/PDataXtd_obj_inc.In
++M PDataXtd:dbadmfile:PDataXtd_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDataXtd/.adm/PDataXtd_obj_inc.Out
++M PDataXtd:dbadmfile:PDataXtd_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDataXtd/.adm/PDataXtd_obj_inc.Dep

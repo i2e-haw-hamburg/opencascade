@@ -1,0 +1,6 @@
++ SelectBasics:source:SelectBasics_PickResult.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SelectBasics/SelectBasics_PickResult.hxx
++ SelectBasics:source:SelectBasics_SelectingVolumeManager.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SelectBasics/SelectBasics_SelectingVolumeManager.hxx
++ SelectBasics:source:SelectBasics_EntityOwner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SelectBasics/SelectBasics_EntityOwner.lxx
++ SelectBasics:source:SelectBasics_SensitiveEntity.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/SelectBasics/SelectBasics_SensitiveEntity.lxx
+- SelectBasics:admfile:SelectBasics_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SelectBasics/SelectBasics_src.Out
+- SelectBasics:admfile:SelectBasics_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SelectBasics/SelectBasics_xcpp_src.Out

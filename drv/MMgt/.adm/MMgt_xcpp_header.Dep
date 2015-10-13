@@ -1,0 +1,7 @@
++ MMgt:pubinclude:Handle_MMgt_TShared.hxx MMgt:msentity:MMgt_TShared
++ MMgt:pubinclude:MMgt_TShared.hxx MMgt:msentity:MMgt_TShared
++ MMgt:privinclude:MMgt_TShared.jxx MMgt:msentity:MMgt_TShared
++ MMgt:privinclude:MMgt_TShared.ixx MMgt:msentity:MMgt_TShared
++ MMgt:dbadmfile:MMgt_xcpp_header.In MMgt:admfile:MMgt_xcpp_fill.Out
++ MMgt:dbadmfile:MMgt_xcpp_header.Out MMgt:admfile:MMgt_xcpp_fill.Out
++ MMgt:dbadmfile:MMgt_xcpp_header.Dep MMgt:admfile:MMgt_xcpp_fill.Out

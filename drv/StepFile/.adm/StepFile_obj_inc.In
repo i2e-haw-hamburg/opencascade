@@ -1,0 +1,4 @@
++ StepFile:source:StepFile_CallFailure.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StepFile/StepFile_CallFailure.hxx
++ StepFile:source:StepFile_Read.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StepFile/StepFile_Read.hxx
++ StepFile:source:StepFile_Transfer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StepFile/StepFile_Transfer.hxx
+- StepFile:admfile:StepFile_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StepFile/StepFile_src.Out

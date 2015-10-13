@@ -1,0 +1,5 @@
++V Geom2dAdaptor:msentity:Geom2dAdaptor .
++V Geom2dAdaptor:msentity:Geom2dAdaptor_Curve .
++V Geom2dAdaptor:msentity:Geom2dAdaptor_GHCurve .
++V Geom2dAdaptor:msentity:Geom2dAdaptor_HCurve .
+- Geom2dAdaptor:admfile:Geom2dAdaptor_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dAdaptor/Geom2dAdaptor_xcpp_fill.Out

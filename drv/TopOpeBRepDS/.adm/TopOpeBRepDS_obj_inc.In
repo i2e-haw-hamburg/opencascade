@@ -1,0 +1,12 @@
++ TopOpeBRepDS:source:TopOpeBRepDS_ProcessInterferencesTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_ProcessInterferencesTool.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_define.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_define.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_traceDSX.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_traceDSX.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_DSX.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_DSX.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_DRAW.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_DRAW.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_EXPORT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_EXPORT.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_connex.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_connex.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_repvg.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_repvg.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_reDEB.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_reDEB.hxx
++ TopOpeBRepDS:source:TopOpeBRepDS_samdom.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepDS/TopOpeBRepDS_samdom.hxx
+- TopOpeBRepDS:admfile:TopOpeBRepDS_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepDS/TopOpeBRepDS_src.Out
+- TopOpeBRepDS:admfile:TopOpeBRepDS_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepDS/TopOpeBRepDS_xcpp_src.Out

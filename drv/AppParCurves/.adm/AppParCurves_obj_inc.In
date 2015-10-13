@@ -1,0 +1,11 @@
++ AppParCurves:source:AppParCurves_MultiPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_MultiPoint.lxx
++ AppParCurves:source:AppParCurves_LeastSquare.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_LeastSquare.gxx
++ AppParCurves:source:AppParCurves_ResolConstraint.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_ResolConstraint.gxx
++ AppParCurves:source:AppParCurves_Function.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_Function.gxx
++ AppParCurves:source:AppParCurves_BSpFunction.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_BSpFunction.gxx
++ AppParCurves:source:AppParCurves_Gradient.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_Gradient.gxx
++ AppParCurves:source:AppParCurves_Gradient_BFGS.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_Gradient_BFGS.gxx
++ AppParCurves:source:AppParCurves_BSpGradient.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_BSpGradient.gxx
++ AppParCurves:source:AppParCurves_BSpGradient_BFGS.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AppParCurves/AppParCurves_BSpGradient_BFGS.gxx
+- AppParCurves:admfile:AppParCurves_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AppParCurves/AppParCurves_src.Out
+- AppParCurves:admfile:AppParCurves_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AppParCurves/AppParCurves_xcpp_src.Out

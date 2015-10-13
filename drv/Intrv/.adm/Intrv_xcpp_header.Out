@@ -1,0 +1,15 @@
++M Intrv:pubinclude:Intrv_Interval.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_Interval.hxx
++M Intrv:privinclude:Intrv_Interval.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_Interval.jxx
++M Intrv:privinclude:Intrv_Interval.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_Interval.ixx
++M Intrv:pubinclude:Intrv_Intervals.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_Intervals.hxx
++M Intrv:privinclude:Intrv_Intervals.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_Intervals.jxx
++M Intrv:privinclude:Intrv_Intervals.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_Intervals.ixx
++M Intrv:pubinclude:Intrv_SequenceOfInterval.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_SequenceOfInterval.hxx
++M Intrv:derivated:Intrv_SequenceOfInterval_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_SequenceOfInterval_0.cxx
++M Intrv:pubinclude:Handle_Intrv_SequenceNodeOfSequenceOfInterval.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Intrv_SequenceNodeOfSequenceOfInterval.hxx
++M Intrv:pubinclude:Intrv_SequenceNodeOfSequenceOfInterval.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_SequenceNodeOfSequenceOfInterval.hxx
++M Intrv:derivated:Intrv_SequenceNodeOfSequenceOfInterval_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/Intrv_SequenceNodeOfSequenceOfInterval_0.cxx
++M Intrv:pubinclude:Intrv_Position.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_Position.hxx
++M Intrv:dbadmfile:Intrv_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_xcpp_header.In
++M Intrv:dbadmfile:Intrv_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_xcpp_header.Out
++M Intrv:dbadmfile:Intrv_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_xcpp_header.Dep

@@ -1,0 +1,8 @@
++V STEPControl:msentity:STEPControl .
++V STEPControl:msentity:STEPControl_Controller .
++V STEPControl:msentity:STEPControl_Reader .
++V STEPControl:msentity:STEPControl_Writer .
++V STEPControl:msentity:STEPControl_ActorRead .
++V STEPControl:msentity:STEPControl_ActorWrite .
++V STEPControl:msentity:STEPControl_StepModelType .
+- STEPControl:admfile:STEPControl_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/STEPControl/STEPControl_xcpp_fill.Out

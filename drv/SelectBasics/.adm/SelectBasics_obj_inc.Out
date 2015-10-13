@@ -1,0 +1,7 @@
++M SelectBasics:pubinclude:SelectBasics_PickResult.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_PickResult.hxx
++M SelectBasics:pubinclude:SelectBasics_SelectingVolumeManager.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_SelectingVolumeManager.hxx
++M SelectBasics:pubinclude:SelectBasics_EntityOwner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_EntityOwner.lxx
++M SelectBasics:pubinclude:SelectBasics_SensitiveEntity.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_SensitiveEntity.lxx
++M SelectBasics:dbadmfile:SelectBasics_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_obj_inc.In
++M SelectBasics:dbadmfile:SelectBasics_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_obj_inc.Out
++M SelectBasics:dbadmfile:SelectBasics_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_obj_inc.Dep

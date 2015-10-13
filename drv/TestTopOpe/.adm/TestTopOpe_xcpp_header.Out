@@ -1,0 +1,6 @@
++M TestTopOpe:pubinclude:TestTopOpe.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpe.hxx
++M TestTopOpe:privinclude:TestTopOpe.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/TestTopOpe.jxx
++M TestTopOpe:privinclude:TestTopOpe.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/TestTopOpe.ixx
++M TestTopOpe:dbadmfile:TestTopOpe_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_xcpp_header.In
++M TestTopOpe:dbadmfile:TestTopOpe_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_xcpp_header.Out
++M TestTopOpe:dbadmfile:TestTopOpe_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpe/.adm/TestTopOpe_xcpp_header.Dep

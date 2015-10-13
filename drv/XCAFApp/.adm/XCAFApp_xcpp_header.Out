@@ -1,0 +1,7 @@
++M XCAFApp:pubinclude:Handle_XCAFApp_Application.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XCAFApp_Application.hxx
++M XCAFApp:pubinclude:XCAFApp_Application.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XCAFApp_Application.hxx
++M XCAFApp:privinclude:XCAFApp_Application.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFApp/XCAFApp_Application.jxx
++M XCAFApp:privinclude:XCAFApp_Application.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFApp/XCAFApp_Application.ixx
++M XCAFApp:dbadmfile:XCAFApp_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFApp/.adm/XCAFApp_xcpp_header.In
++M XCAFApp:dbadmfile:XCAFApp_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFApp/.adm/XCAFApp_xcpp_header.Out
++M XCAFApp:dbadmfile:XCAFApp_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFApp/.adm/XCAFApp_xcpp_header.Dep

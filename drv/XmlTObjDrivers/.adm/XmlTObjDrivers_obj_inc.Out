@@ -1,0 +1,11 @@
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_DocumentRetrievalDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_DocumentStorageDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_IntSparseArrayDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_IntSparseArrayDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_ModelDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_ModelDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_ObjectDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_ObjectDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_ReferenceDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_ReferenceDriver.hxx
++M XmlTObjDrivers:pubinclude:XmlTObjDrivers_XYZDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlTObjDrivers_XYZDriver.hxx
++M XmlTObjDrivers:dbadmfile:XmlTObjDrivers_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlTObjDrivers/.adm/XmlTObjDrivers_obj_inc.In
++M XmlTObjDrivers:dbadmfile:XmlTObjDrivers_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlTObjDrivers/.adm/XmlTObjDrivers_obj_inc.Out
++M XmlTObjDrivers:dbadmfile:XmlTObjDrivers_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlTObjDrivers/.adm/XmlTObjDrivers_obj_inc.Dep

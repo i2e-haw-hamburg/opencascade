@@ -1,0 +1,6 @@
++V IntImpParGen:msentity:IntImpParGen .
++V IntImpParGen:msentity:IntImpParGen_ImpTool .
++V IntImpParGen:msentity:IntImpParGen_ImpParTool .
++V IntImpParGen:msentity:IntImpParGen_Intersector .
++V IntImpParGen:msentity:IntImpParGen_MyImpParTool .
+- IntImpParGen:admfile:IntImpParGen_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntImpParGen/IntImpParGen_xcpp_fill.Out

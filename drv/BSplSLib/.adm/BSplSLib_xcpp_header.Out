@@ -1,0 +1,6 @@
++M BSplSLib:pubinclude:BSplSLib.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BSplSLib.hxx
++M BSplSLib:privinclude:BSplSLib.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/BSplSLib.jxx
++M BSplSLib:privinclude:BSplSLib.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/BSplSLib.ixx
++M BSplSLib:dbadmfile:BSplSLib_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_xcpp_header.In
++M BSplSLib:dbadmfile:BSplSLib_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_xcpp_header.Out
++M BSplSLib:dbadmfile:BSplSLib_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BSplSLib/.adm/BSplSLib_xcpp_header.Dep

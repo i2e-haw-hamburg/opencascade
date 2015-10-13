@@ -1,0 +1,14 @@
++M BOPTools:pubinclude:BOPTools_ConnexityBlock.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ConnexityBlock.hxx
++M BOPTools:pubinclude:BOPTools_ListOfConnexityBlock.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ListOfConnexityBlock.hxx
++M BOPTools:pubinclude:BOPTools_ListOfShapeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ListOfShapeSet.hxx
++M BOPTools:pubinclude:BOPTools_CoupleOfShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_CoupleOfShape.hxx
++M BOPTools:pubinclude:BOPTools_ListOfCoupleOfShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ListOfCoupleOfShape.hxx
++M BOPTools:pubinclude:BOPTools_ListOfEdgeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ListOfEdgeSet.hxx
++M BOPTools:pubinclude:BOPTools_MapOfSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_MapOfSet.hxx
++M BOPTools:pubinclude:BOPTools_DataMapOfShapeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_DataMapOfShapeSet.hxx
++M BOPTools:pubinclude:BOPTools_ShapeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_ShapeSet.lxx
++M BOPTools:pubinclude:BOPTools_EdgeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_EdgeSet.lxx
++M BOPTools:pubinclude:BOPTools_SetMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPTools_SetMapHasher.lxx
++M BOPTools:dbadmfile:BOPTools_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTools/.adm/BOPTools_obj_inc.In
++M BOPTools:dbadmfile:BOPTools_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTools/.adm/BOPTools_obj_inc.Out
++M BOPTools:dbadmfile:BOPTools_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPTools/.adm/BOPTools_obj_inc.Dep

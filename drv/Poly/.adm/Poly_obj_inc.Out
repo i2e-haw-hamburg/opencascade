@@ -1,0 +1,16 @@
++M Poly:pubinclude:Poly_CoherentTriangulation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_CoherentTriangulation.hxx
++M Poly:pubinclude:Poly_CoherentTriangle.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_CoherentTriangle.hxx
++M Poly:pubinclude:Poly_CoherentTriPtr.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_CoherentTriPtr.hxx
++M Poly:pubinclude:Poly_CoherentNode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_CoherentNode.hxx
++M Poly:pubinclude:Poly_CoherentLink.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_CoherentLink.hxx
++M Poly:pubinclude:Poly_MakeLoops.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_MakeLoops.hxx
++M Poly:pubinclude:Poly_ListOfTriangulation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_ListOfTriangulation.hxx
++M Poly:pubinclude:Poly_Triangle.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_Triangle.lxx
++M Poly:pubinclude:Poly_Triangulation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_Triangulation.lxx
++M Poly:pubinclude:Poly_Polygon3D.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_Polygon3D.lxx
++M Poly:pubinclude:Poly_Polygon2D.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_Polygon2D.lxx
++M Poly:pubinclude:Poly_PolygonOnTriangulation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_PolygonOnTriangulation.lxx
++M Poly:pubinclude:Poly_Connect.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Poly_Connect.lxx
++M Poly:dbadmfile:Poly_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Poly/.adm/Poly_obj_inc.In
++M Poly:dbadmfile:Poly_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Poly/.adm/Poly_obj_inc.Out
++M Poly:dbadmfile:Poly_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Poly/.adm/Poly_obj_inc.Dep

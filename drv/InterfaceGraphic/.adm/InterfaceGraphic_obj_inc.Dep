@@ -1,0 +1,9 @@
++ InterfaceGraphic:pubinclude:InterfaceGraphic.hxx InterfaceGraphic:source:InterfaceGraphic.hxx
++ InterfaceGraphic:pubinclude:InterfaceGraphic_Aspect.hxx InterfaceGraphic:source:InterfaceGraphic_Aspect.hxx
++ InterfaceGraphic:pubinclude:InterfaceGraphic_Graphic3d.hxx InterfaceGraphic:source:InterfaceGraphic_Graphic3d.hxx
++ InterfaceGraphic:pubinclude:InterfaceGraphic_Visual3d.hxx InterfaceGraphic:source:InterfaceGraphic_Visual3d.hxx
++ InterfaceGraphic:pubinclude:InterfaceGraphic_telem.hxx InterfaceGraphic:source:InterfaceGraphic_telem.hxx
++ InterfaceGraphic:pubinclude:InterfaceGraphic_tgl_all.hxx InterfaceGraphic:source:InterfaceGraphic_tgl_all.hxx
++ InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.In InterfaceGraphic:admfile:InterfaceGraphic_src.Out
++ InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.Out InterfaceGraphic:admfile:InterfaceGraphic_src.Out
++ InterfaceGraphic:dbadmfile:InterfaceGraphic_obj_inc.Dep InterfaceGraphic:admfile:InterfaceGraphic_src.Out

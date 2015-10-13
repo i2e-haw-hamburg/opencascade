@@ -1,0 +1,12 @@
++ IVtkTools:pubinclude:IVtkTools.hxx IVtkTools:source:IVtkTools.hxx
++ IVtkTools:pubinclude:IVtkTools_DisplayModeFilter.hxx IVtkTools:source:IVtkTools_DisplayModeFilter.hxx
++ IVtkTools:pubinclude:IVtkTools_ShapeDataSource.hxx IVtkTools:source:IVtkTools_ShapeDataSource.hxx
++ IVtkTools:pubinclude:IVtkTools_ShapeObject.hxx IVtkTools:source:IVtkTools_ShapeObject.hxx
++ IVtkTools:pubinclude:IVtkTools_ShapePicker.hxx IVtkTools:source:IVtkTools_ShapePicker.hxx
++ IVtkTools:pubinclude:IVtkTools_SubPolyDataFilter.hxx IVtkTools:source:IVtkTools_SubPolyDataFilter.hxx
++ IVtkTools:dbadmfile:IVtkTools_obj_inc.In IVtkTools:admfile:IVtkTools_src.Out
++ * IVtkTools:admfile:IVtkTools_xcpp_src.Out
++ IVtkTools:dbadmfile:IVtkTools_obj_inc.Out IVtkTools:admfile:IVtkTools_src.Out
++ * IVtkTools:admfile:IVtkTools_xcpp_src.Out
++ IVtkTools:dbadmfile:IVtkTools_obj_inc.Dep IVtkTools:admfile:IVtkTools_src.Out
++ * IVtkTools:admfile:IVtkTools_xcpp_src.Out

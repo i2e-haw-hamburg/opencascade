@@ -1,0 +1,5 @@
++V TopTrans:msentity:TopTrans .
++V TopTrans:msentity:TopTrans_Array2OfOrientation .
++V TopTrans:msentity:TopTrans_CurveTransition .
++V TopTrans:msentity:TopTrans_SurfaceTransition .
+- TopTrans:admfile:TopTrans_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopTrans/TopTrans_xcpp_fill.Out

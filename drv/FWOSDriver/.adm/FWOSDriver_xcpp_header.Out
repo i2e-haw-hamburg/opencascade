@@ -1,0 +1,10 @@
++M FWOSDriver:pubinclude:FWOSDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FWOSDriver.hxx
++M FWOSDriver:privinclude:FWOSDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/FWOSDriver.jxx
++M FWOSDriver:privinclude:FWOSDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/FWOSDriver.ixx
++M FWOSDriver:pubinclude:Handle_FWOSDriver_DriverFactory.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_FWOSDriver_DriverFactory.hxx
++M FWOSDriver:pubinclude:FWOSDriver_DriverFactory.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FWOSDriver_DriverFactory.hxx
++M FWOSDriver:privinclude:FWOSDriver_DriverFactory.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/FWOSDriver_DriverFactory.jxx
++M FWOSDriver:privinclude:FWOSDriver_DriverFactory.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/FWOSDriver_DriverFactory.ixx
++M FWOSDriver:dbadmfile:FWOSDriver_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/.adm/FWOSDriver_xcpp_header.In
++M FWOSDriver:dbadmfile:FWOSDriver_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/.adm/FWOSDriver_xcpp_header.Out
++M FWOSDriver:dbadmfile:FWOSDriver_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FWOSDriver/.adm/FWOSDriver_xcpp_header.Dep

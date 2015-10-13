@@ -1,0 +1,6 @@
++V Plugin:msentity:Plugin .
++V Plugin:msentity:Plugin_MapOfFunctions .
++V Plugin:msentity:Plugin_DataMapNodeOfMapOfFunctions .
++V Plugin:msentity:Plugin_DataMapIteratorOfMapOfFunctions .
++V Plugin:msentity:Plugin_Failure .
+- Plugin:admfile:Plugin_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Plugin/Plugin_xcpp_fill.Out

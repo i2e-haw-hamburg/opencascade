@@ -1,0 +1,5 @@
++V BndLib:msentity:BndLib .
++V BndLib:msentity:BndLib_Add3dCurve .
++V BndLib:msentity:BndLib_Add2dCurve .
++V BndLib:msentity:BndLib_AddSurface .
+- BndLib:admfile:BndLib_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BndLib/BndLib_xcpp_fill.Out

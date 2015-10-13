@@ -1,0 +1,5 @@
++V ShapeBuild:msentity:ShapeBuild .
++V ShapeBuild:msentity:ShapeBuild_Vertex .
++V ShapeBuild:msentity:ShapeBuild_Edge .
++V ShapeBuild:msentity:ShapeBuild_ReShape .
+- ShapeBuild:admfile:ShapeBuild_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeBuild/ShapeBuild_xcpp_fill.Out

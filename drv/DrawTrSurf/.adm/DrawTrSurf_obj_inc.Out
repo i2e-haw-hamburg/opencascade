@@ -1,0 +1,13 @@
++M DrawTrSurf:pubinclude:DrawTrSurf_Drawable.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_Drawable.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_Curve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_Curve.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BSplineCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BSplineCurve.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BezierCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BezierCurve.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_Curve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_Curve2d.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BSplineCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BSplineCurve2d.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BezierCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BezierCurve2d.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_Surface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_Surface.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BSplineSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BSplineSurface.lxx
++M DrawTrSurf:pubinclude:DrawTrSurf_BezierSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawTrSurf_BezierSurface.lxx
++M DrawTrSurf:dbadmfile:DrawTrSurf_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawTrSurf/.adm/DrawTrSurf_obj_inc.In
++M DrawTrSurf:dbadmfile:DrawTrSurf_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawTrSurf/.adm/DrawTrSurf_obj_inc.Out
++M DrawTrSurf:dbadmfile:DrawTrSurf_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawTrSurf/.adm/DrawTrSurf_obj_inc.Dep

@@ -1,0 +1,4 @@
++M XCAFPrs:pubinclude:XCAFPrs_AISObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XCAFPrs_AISObject.hxx
++M XCAFPrs:dbadmfile:XCAFPrs_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFPrs/.adm/XCAFPrs_obj_inc.In
++M XCAFPrs:dbadmfile:XCAFPrs_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFPrs/.adm/XCAFPrs_obj_inc.Out
++M XCAFPrs:dbadmfile:XCAFPrs_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFPrs/.adm/XCAFPrs_obj_inc.Dep

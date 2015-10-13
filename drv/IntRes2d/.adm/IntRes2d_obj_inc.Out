@@ -1,0 +1,8 @@
++M IntRes2d:pubinclude:IntRes2d_IntersectionPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntRes2d_IntersectionPoint.lxx
++M IntRes2d:pubinclude:IntRes2d_IntersectionSegment.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntRes2d_IntersectionSegment.lxx
++M IntRes2d:pubinclude:IntRes2d_Transition.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntRes2d_Transition.lxx
++M IntRes2d:pubinclude:IntRes2d_Domain.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntRes2d_Domain.lxx
++M IntRes2d:pubinclude:IntRes2d_Intersection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntRes2d_Intersection.lxx
++M IntRes2d:dbadmfile:IntRes2d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntRes2d/.adm/IntRes2d_obj_inc.In
++M IntRes2d:dbadmfile:IntRes2d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntRes2d/.adm/IntRes2d_obj_inc.Out
++M IntRes2d:dbadmfile:IntRes2d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntRes2d/.adm/IntRes2d_obj_inc.Dep

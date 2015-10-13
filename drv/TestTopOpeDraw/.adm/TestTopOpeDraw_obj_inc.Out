@@ -1,0 +1,5 @@
++M TestTopOpeDraw:pubinclude:TestTopOpeDraw_Displayer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpeDraw_Displayer.hxx
++M TestTopOpeDraw:pubinclude:TestTopOpeDraw_TTOT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TestTopOpeDraw_TTOT.hxx
++M TestTopOpeDraw:dbadmfile:TestTopOpeDraw_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpeDraw/.adm/TestTopOpeDraw_obj_inc.In
++M TestTopOpeDraw:dbadmfile:TestTopOpeDraw_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpeDraw/.adm/TestTopOpeDraw_obj_inc.Out
++M TestTopOpeDraw:dbadmfile:TestTopOpeDraw_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TestTopOpeDraw/.adm/TestTopOpeDraw_obj_inc.Dep

@@ -1,0 +1,12 @@
++M IntImp:pubinclude:IntImp_ComputeTangence.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ComputeTangence.hxx
++M IntImp:pubinclude:IntImp_ZerImpFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ZerImpFunc.gxx
++M IntImp:pubinclude:IntImp_ZerImpFunc.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ZerImpFunc.lxx
++M IntImp:pubinclude:IntImp_ZerParFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ZerParFunc.gxx
++M IntImp:pubinclude:IntImp_ZerParFunc.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ZerParFunc.lxx
++M IntImp:pubinclude:IntImp_ZerCSParFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ZerCSParFunc.gxx
++M IntImp:pubinclude:IntImp_Int2S.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_Int2S.gxx
++M IntImp:pubinclude:IntImp_Int2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_Int2S.lxx
++M IntImp:pubinclude:IntImp_IntCS.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_IntCS.gxx
++M IntImp:dbadmfile:IntImp_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_obj_inc.In
++M IntImp:dbadmfile:IntImp_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_obj_inc.Out
++M IntImp:dbadmfile:IntImp_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_obj_inc.Dep

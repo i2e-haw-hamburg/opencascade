@@ -1,0 +1,16 @@
++V TDataXtd:msentity:TDataXtd .
++V TDataXtd:msentity:TDataXtd_Position .
++V TDataXtd:msentity:TDataXtd_Constraint .
++V TDataXtd:msentity:TDataXtd_Placement .
++V TDataXtd:msentity:TDataXtd_Geometry .
++V TDataXtd:msentity:TDataXtd_Point .
++V TDataXtd:msentity:TDataXtd_Axis .
++V TDataXtd:msentity:TDataXtd_Plane .
++V TDataXtd:msentity:TDataXtd_Pattern .
++V TDataXtd:msentity:TDataXtd_PatternStd .
++V TDataXtd:msentity:TDataXtd_Shape .
++V TDataXtd:msentity:TDataXtd_Array1OfTrsf .
++V TDataXtd:msentity:TDataXtd_HArray1OfTrsf .
++V TDataXtd:msentity:TDataXtd_ConstraintEnum .
++V TDataXtd:msentity:TDataXtd_GeometryEnum .
+- TDataXtd:admfile:TDataXtd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TDataXtd/TDataXtd_xcpp_fill.Out

@@ -1,0 +1,14 @@
++V SortTools:msentity:SortTools .
++V SortTools:msentity:SortTools_HeapSort .
++V SortTools:msentity:SortTools_QuickSort .
++V SortTools:msentity:SortTools_ShellSort .
++V SortTools:msentity:SortTools_StraightInsertionSort .
++V SortTools:msentity:SortTools_QuickSortOfInteger .
++V SortTools:msentity:SortTools_QuickSortOfReal .
++V SortTools:msentity:SortTools_HeapSortOfInteger .
++V SortTools:msentity:SortTools_HeapSortOfReal .
++V SortTools:msentity:SortTools_ShellSortOfInteger .
++V SortTools:msentity:SortTools_ShellSortOfReal .
++V SortTools:msentity:SortTools_StraightInsertionSortOfInteger .
++V SortTools:msentity:SortTools_StraightInsertionSortOfReal .
+- SortTools:admfile:SortTools_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SortTools/SortTools_xcpp_fill.Out

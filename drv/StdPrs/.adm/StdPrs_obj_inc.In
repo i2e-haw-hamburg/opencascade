@@ -1,0 +1,9 @@
++ StdPrs:source:StdPrs_ToolShadedShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_ToolShadedShape.hxx
++ StdPrs:source:StdPrs_HLRShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_HLRShape.hxx
++ StdPrs:source:StdPrs_Point.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_Point.hxx
++ StdPrs:source:StdPrs_Vertex.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_Vertex.hxx
++ StdPrs:source:StdPrs_WFDeflectionShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_WFDeflectionShape.hxx
++ StdPrs:source:StdPrs_WFRestrictedFace.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_WFRestrictedFace.hxx
++ StdPrs:source:StdPrs_WFShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/StdPrs/StdPrs_WFShape.hxx
+- StdPrs:admfile:StdPrs_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StdPrs/StdPrs_src.Out
+- StdPrs:admfile:StdPrs_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StdPrs/StdPrs_xcpp_src.Out

@@ -1,0 +1,12 @@
++ DrawTrSurf:source:DrawTrSurf_Drawable.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_Drawable.lxx
++ DrawTrSurf:source:DrawTrSurf_Curve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_Curve.lxx
++ DrawTrSurf:source:DrawTrSurf_BSplineCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BSplineCurve.lxx
++ DrawTrSurf:source:DrawTrSurf_BezierCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BezierCurve.lxx
++ DrawTrSurf:source:DrawTrSurf_Curve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_Curve2d.lxx
++ DrawTrSurf:source:DrawTrSurf_BSplineCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BSplineCurve2d.lxx
++ DrawTrSurf:source:DrawTrSurf_BezierCurve2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BezierCurve2d.lxx
++ DrawTrSurf:source:DrawTrSurf_Surface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_Surface.lxx
++ DrawTrSurf:source:DrawTrSurf_BSplineSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BSplineSurface.lxx
++ DrawTrSurf:source:DrawTrSurf_BezierSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DrawTrSurf/DrawTrSurf_BezierSurface.lxx
+- DrawTrSurf:admfile:DrawTrSurf_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DrawTrSurf/DrawTrSurf_src.Out
+- DrawTrSurf:admfile:DrawTrSurf_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DrawTrSurf/DrawTrSurf_xcpp_src.Out

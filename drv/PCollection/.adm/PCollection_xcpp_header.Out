@@ -1,0 +1,12 @@
++M PCollection:pubinclude:Handle_PCollection_HAsciiString.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PCollection_HAsciiString.hxx
++M PCollection:pubinclude:PCollection_HAsciiString.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PCollection_HAsciiString.hxx
++M PCollection:privinclude:PCollection_HAsciiString.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/PCollection_HAsciiString.jxx
++M PCollection:privinclude:PCollection_HAsciiString.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/PCollection_HAsciiString.ixx
++M PCollection:pubinclude:Handle_PCollection_HExtendedString.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PCollection_HExtendedString.hxx
++M PCollection:pubinclude:PCollection_HExtendedString.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PCollection_HExtendedString.hxx
++M PCollection:privinclude:PCollection_HExtendedString.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/PCollection_HExtendedString.jxx
++M PCollection:privinclude:PCollection_HExtendedString.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/PCollection_HExtendedString.ixx
++M PCollection:pubinclude:PCollection_AccessMode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PCollection_AccessMode.hxx
++M PCollection:dbadmfile:PCollection_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/.adm/PCollection_xcpp_header.In
++M PCollection:dbadmfile:PCollection_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/.adm/PCollection_xcpp_header.Out
++M PCollection:dbadmfile:PCollection_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCollection/.adm/PCollection_xcpp_header.Dep

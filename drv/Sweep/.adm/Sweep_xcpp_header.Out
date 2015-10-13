@@ -1,0 +1,12 @@
++M Sweep:pubinclude:Sweep_NumShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Sweep_NumShape.hxx
++M Sweep:privinclude:Sweep_NumShape.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShape.jxx
++M Sweep:privinclude:Sweep_NumShape.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShape.ixx
++M Sweep:pubinclude:Sweep_NumShapeTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Sweep_NumShapeTool.hxx
++M Sweep:privinclude:Sweep_NumShapeTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShapeTool.jxx
++M Sweep:privinclude:Sweep_NumShapeTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShapeTool.ixx
++M Sweep:pubinclude:Sweep_NumShapeIterator.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Sweep_NumShapeIterator.hxx
++M Sweep:privinclude:Sweep_NumShapeIterator.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShapeIterator.jxx
++M Sweep:privinclude:Sweep_NumShapeIterator.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/Sweep_NumShapeIterator.ixx
++M Sweep:dbadmfile:Sweep_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_xcpp_header.In
++M Sweep:dbadmfile:Sweep_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_xcpp_header.Out
++M Sweep:dbadmfile:Sweep_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_xcpp_header.Dep

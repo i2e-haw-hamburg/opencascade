@@ -1,0 +1,13 @@
++V RWStepAP203:msentity:RWStepAP203 .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignApproval .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignCertification .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignContract .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignDateAndTimeAssignment .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignPersonAndOrganizationAssignment .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignSecurityClassification .
++V RWStepAP203:msentity:RWStepAP203_RWCcDesignSpecificationReference .
++V RWStepAP203:msentity:RWStepAP203_RWChange .
++V RWStepAP203:msentity:RWStepAP203_RWChangeRequest .
++V RWStepAP203:msentity:RWStepAP203_RWStartRequest .
++V RWStepAP203:msentity:RWStepAP203_RWStartWork .
+- RWStepAP203:admfile:RWStepAP203_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/RWStepAP203/RWStepAP203_xcpp_fill.Out

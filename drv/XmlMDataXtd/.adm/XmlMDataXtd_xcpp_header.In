@@ -1,0 +1,10 @@
++V XmlMDataXtd:msentity:XmlMDataXtd .
++V XmlMDataXtd:msentity:XmlMDataXtd_AxisDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_ShapeDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_PointDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_PlaneDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_GeometryDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_ConstraintDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_PlacementDriver .
++V XmlMDataXtd:msentity:XmlMDataXtd_PatternStdDriver .
+- XmlMDataXtd:admfile:XmlMDataXtd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlMDataXtd/XmlMDataXtd_xcpp_fill.Out

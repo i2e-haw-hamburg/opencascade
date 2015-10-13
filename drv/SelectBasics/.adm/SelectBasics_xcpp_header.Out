@@ -1,0 +1,14 @@
++M SelectBasics:pubinclude:SelectBasics.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics.hxx
++M SelectBasics:privinclude:SelectBasics.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics.jxx
++M SelectBasics:privinclude:SelectBasics.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics.ixx
++M SelectBasics:pubinclude:Handle_SelectBasics_EntityOwner.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_SelectBasics_EntityOwner.hxx
++M SelectBasics:pubinclude:SelectBasics_EntityOwner.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_EntityOwner.hxx
++M SelectBasics:privinclude:SelectBasics_EntityOwner.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics_EntityOwner.jxx
++M SelectBasics:privinclude:SelectBasics_EntityOwner.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics_EntityOwner.ixx
++M SelectBasics:pubinclude:Handle_SelectBasics_SensitiveEntity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_SelectBasics_SensitiveEntity.hxx
++M SelectBasics:pubinclude:SelectBasics_SensitiveEntity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/SelectBasics_SensitiveEntity.hxx
++M SelectBasics:privinclude:SelectBasics_SensitiveEntity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics_SensitiveEntity.jxx
++M SelectBasics:privinclude:SelectBasics_SensitiveEntity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/SelectBasics_SensitiveEntity.ixx
++M SelectBasics:dbadmfile:SelectBasics_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_xcpp_header.In
++M SelectBasics:dbadmfile:SelectBasics_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_xcpp_header.Out
++M SelectBasics:dbadmfile:SelectBasics_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/SelectBasics/.adm/SelectBasics_xcpp_header.Dep

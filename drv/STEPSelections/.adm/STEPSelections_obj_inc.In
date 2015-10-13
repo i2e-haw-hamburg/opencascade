@@ -1,0 +1,6 @@
++ STEPSelections:source:STEPSelections_AssemblyComponent.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/STEPSelections/STEPSelections_AssemblyComponent.lxx
++ STEPSelections:source:STEPSelections_AssemblyLink.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/STEPSelections/STEPSelections_AssemblyLink.lxx
++ STEPSelections:source:STEPSelections_AssemblyExplorer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/STEPSelections/STEPSelections_AssemblyExplorer.lxx
++ STEPSelections:source:STEPSelections_Counter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/STEPSelections/STEPSelections_Counter.lxx
+- STEPSelections:admfile:STEPSelections_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/STEPSelections/STEPSelections_src.Out
+- STEPSelections:admfile:STEPSelections_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/STEPSelections/STEPSelections_xcpp_src.Out

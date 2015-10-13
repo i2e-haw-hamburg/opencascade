@@ -1,0 +1,10 @@
++V Hatch:msentity:Hatch .
++V Hatch:msentity:Hatch_Parameter .
++V Hatch:msentity:Hatch_SequenceOfParameter .
++V Hatch:msentity:Hatch_Line .
++V Hatch:msentity:Hatch_SequenceOfLine .
++V Hatch:msentity:Hatch_Hatcher .
++V Hatch:msentity:Hatch_SequenceNodeOfSequenceOfParameter .
++V Hatch:msentity:Hatch_SequenceNodeOfSequenceOfLine .
++V Hatch:msentity:Hatch_LineForm .
+- Hatch:admfile:Hatch_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Hatch/Hatch_xcpp_fill.Out

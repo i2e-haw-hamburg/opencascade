@@ -1,0 +1,5 @@
++V TopAbs:msentity:TopAbs .
++V TopAbs:msentity:TopAbs_ShapeEnum .
++V TopAbs:msentity:TopAbs_Orientation .
++V TopAbs:msentity:TopAbs_State .
+- TopAbs:admfile:TopAbs_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopAbs/TopAbs_xcpp_fill.Out

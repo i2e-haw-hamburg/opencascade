@@ -1,0 +1,14 @@
++V FairCurve:msentity:FairCurve .
++V FairCurve:msentity:FairCurve_Batten .
++V FairCurve:msentity:FairCurve_MinimalVariation .
++V FairCurve:msentity:FairCurve_BattenLaw .
++V FairCurve:msentity:FairCurve_DistributionOfEnergy .
++V FairCurve:msentity:FairCurve_DistributionOfSagging .
++V FairCurve:msentity:FairCurve_DistributionOfTension .
++V FairCurve:msentity:FairCurve_DistributionOfJerk .
++V FairCurve:msentity:FairCurve_Energy .
++V FairCurve:msentity:FairCurve_EnergyOfBatten .
++V FairCurve:msentity:FairCurve_EnergyOfMVC .
++V FairCurve:msentity:FairCurve_Newton .
++V FairCurve:msentity:FairCurve_AnalysisCode .
+- FairCurve:admfile:FairCurve_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/FairCurve/FairCurve_xcpp_fill.Out

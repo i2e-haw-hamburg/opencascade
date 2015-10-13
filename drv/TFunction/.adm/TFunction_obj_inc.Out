@@ -1,0 +1,6 @@
++M TFunction:pubinclude:TFunction_Driver.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TFunction_Driver.lxx
++M TFunction:pubinclude:TFunction_Logbook.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TFunction_Logbook.lxx
++M TFunction:pubinclude:TFunction_Function.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TFunction_Function.lxx
++M TFunction:dbadmfile:TFunction_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TFunction/.adm/TFunction_obj_inc.In
++M TFunction:dbadmfile:TFunction_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TFunction/.adm/TFunction_obj_inc.Out
++M TFunction:dbadmfile:TFunction_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TFunction/.adm/TFunction_obj_inc.Dep

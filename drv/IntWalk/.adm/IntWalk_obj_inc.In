@@ -1,0 +1,15 @@
++ IntWalk:source:IntWalk_IWalking_1.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_1.gxx
++ IntWalk:source:IntWalk_IWalking_2.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_2.gxx
++ IntWalk:source:IntWalk_IWalking_3.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_3.gxx
++ IntWalk:source:IntWalk_IWalking_4.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_4.gxx
++ IntWalk:source:IntWalk_IWalking_5.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_5.gxx
++ IntWalk:source:IntWalk_IWalking_6.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking_6.gxx
++ IntWalk:source:IntWalk_VectorOfInteger.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_VectorOfInteger.hxx
++ IntWalk:source:IntWalk_VectorOfWalkingData.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_VectorOfWalkingData.hxx
++ IntWalk:source:IntWalk_IWLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWLine.gxx
++ IntWalk:source:IntWalk_IWLine.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWLine.lxx
++ IntWalk:source:IntWalk_IWalking.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking.gxx
++ IntWalk:source:IntWalk_IWalking.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_IWalking.lxx
++ IntWalk:source:IntWalk_PWalking.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntWalk/IntWalk_PWalking.lxx
+- IntWalk:admfile:IntWalk_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntWalk/IntWalk_src.Out
+- IntWalk:admfile:IntWalk_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntWalk/IntWalk_xcpp_src.Out

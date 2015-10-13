@@ -1,0 +1,6 @@
++M ShapeProcessAPI:pubinclude:ShapeProcessAPI_ApplySequence.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeProcessAPI_ApplySequence.hxx
++M ShapeProcessAPI:privinclude:ShapeProcessAPI_ApplySequence.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeProcessAPI/ShapeProcessAPI_ApplySequence.jxx
++M ShapeProcessAPI:privinclude:ShapeProcessAPI_ApplySequence.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeProcessAPI/ShapeProcessAPI_ApplySequence.ixx
++M ShapeProcessAPI:dbadmfile:ShapeProcessAPI_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeProcessAPI/.adm/ShapeProcessAPI_xcpp_header.In
++M ShapeProcessAPI:dbadmfile:ShapeProcessAPI_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeProcessAPI/.adm/ShapeProcessAPI_xcpp_header.Out
++M ShapeProcessAPI:dbadmfile:ShapeProcessAPI_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeProcessAPI/.adm/ShapeProcessAPI_xcpp_header.Dep

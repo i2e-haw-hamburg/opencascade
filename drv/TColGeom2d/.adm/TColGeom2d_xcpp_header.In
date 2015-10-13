@@ -1,0 +1,16 @@
++V TColGeom2d:msentity:TColGeom2d .
++V TColGeom2d:msentity:TColGeom2d_Array1OfCurve .
++V TColGeom2d:msentity:TColGeom2d_Array1OfBezierCurve .
++V TColGeom2d:msentity:TColGeom2d_Array1OfBSplineCurve .
++V TColGeom2d:msentity:TColGeom2d_HArray1OfCurve .
++V TColGeom2d:msentity:TColGeom2d_HArray1OfBezierCurve .
++V TColGeom2d:msentity:TColGeom2d_HArray1OfBSplineCurve .
++V TColGeom2d:msentity:TColGeom2d_SequenceOfGeometry .
++V TColGeom2d:msentity:TColGeom2d_SequenceOfCurve .
++V TColGeom2d:msentity:TColGeom2d_SequenceOfBoundedCurve .
++V TColGeom2d:msentity:TColGeom2d_HSequenceOfCurve .
++V TColGeom2d:msentity:TColGeom2d_HSequenceOfBoundedCurve .
++V TColGeom2d:msentity:TColGeom2d_SequenceNodeOfSequenceOfGeometry .
++V TColGeom2d:msentity:TColGeom2d_SequenceNodeOfSequenceOfCurve .
++V TColGeom2d:msentity:TColGeom2d_SequenceNodeOfSequenceOfBoundedCurve .
+- TColGeom2d:admfile:TColGeom2d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TColGeom2d/TColGeom2d_xcpp_fill.Out

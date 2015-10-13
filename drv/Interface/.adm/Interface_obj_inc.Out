@@ -1,0 +1,14 @@
++M Interface:pubinclude:Interface_Macros.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_Macros.hxx
++M Interface:pubinclude:Interface_Statics.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_Statics.hxx
++M Interface:pubinclude:Interface_StaticSatisfies.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_StaticSatisfies.hxx
++M Interface:pubinclude:Interface_ValueInterpret.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_ValueInterpret.hxx
++M Interface:pubinclude:Interface_ValueSatisfies.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_ValueSatisfies.hxx
++M Interface:pubinclude:Interface_Translates.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_Translates.hxx
++M Interface:pubinclude:Interface_Version.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_Version.hxx
++M Interface:pubinclude:Interface_VectorOfFileParameter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_VectorOfFileParameter.hxx
++M Interface:pubinclude:Interface_JaggedArray.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_JaggedArray.gxx
++M Interface:pubinclude:Interface_Recognizer.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_Recognizer.gxx
++M Interface:pubinclude:Interface_ParamList.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Interface_ParamList.lxx
++M Interface:dbadmfile:Interface_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Interface/.adm/Interface_obj_inc.In
++M Interface:dbadmfile:Interface_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Interface/.adm/Interface_obj_inc.Out
++M Interface:dbadmfile:Interface_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Interface/.adm/Interface_obj_inc.Dep

@@ -1,0 +1,10 @@
++M TopClass:pubinclude:TopClass_Classifier2d.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_Classifier2d.gxx
++M TopClass:pubinclude:TopClass_Classifier2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_Classifier2d.lxx
++M TopClass:pubinclude:TopClass_FaceClassifier.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_FaceClassifier.gxx
++M TopClass:pubinclude:TopClass_FaceClassifier.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_FaceClassifier.lxx
++M TopClass:pubinclude:TopClass_Classifier3d.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_Classifier3d.gxx
++M TopClass:pubinclude:TopClass_Classifier3d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_Classifier3d.lxx
++M TopClass:pubinclude:TopClass_SolidClassifier.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TopClass_SolidClassifier.gxx
++M TopClass:dbadmfile:TopClass_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopClass/.adm/TopClass_obj_inc.In
++M TopClass:dbadmfile:TopClass_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopClass/.adm/TopClass_obj_inc.Out
++M TopClass:dbadmfile:TopClass_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TopClass/.adm/TopClass_obj_inc.Dep

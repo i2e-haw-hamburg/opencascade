@@ -1,0 +1,5 @@
++M IGESFile:pubinclude:IGESFile_Read.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESFile_Read.hxx
++M IGESFile:pubinclude:igesread.h /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/igesread.h
++M IGESFile:dbadmfile:IGESFile_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESFile/.adm/IGESFile_obj_inc.In
++M IGESFile:dbadmfile:IGESFile_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESFile/.adm/IGESFile_obj_inc.Out
++M IGESFile:dbadmfile:IGESFile_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESFile/.adm/IGESFile_obj_inc.Dep

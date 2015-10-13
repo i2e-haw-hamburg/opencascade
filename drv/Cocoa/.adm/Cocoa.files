@@ -1,0 +1,8 @@
+dbadmfile Cocoa_xcpp_header.In
+dbadmfile Cocoa_xcpp_header.Out
+dbadmfile Cocoa_xcpp_header.Dep
+pubinclude Cocoa_LocalPool.hxx
+pubinclude Cocoa_Window.hxx
+dbadmfile Cocoa_obj_inc.In
+dbadmfile Cocoa_obj_inc.Out
+dbadmfile Cocoa_obj_inc.Dep

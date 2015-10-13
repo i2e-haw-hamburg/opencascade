@@ -1,0 +1,10 @@
++M APIHeaderSection:pubinclude:APIHeaderSection_MakeHeader.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/APIHeaderSection_MakeHeader.hxx
++M APIHeaderSection:privinclude:APIHeaderSection_MakeHeader.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/APIHeaderSection_MakeHeader.jxx
++M APIHeaderSection:privinclude:APIHeaderSection_MakeHeader.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/APIHeaderSection_MakeHeader.ixx
++M APIHeaderSection:pubinclude:Handle_APIHeaderSection_EditHeader.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_APIHeaderSection_EditHeader.hxx
++M APIHeaderSection:pubinclude:APIHeaderSection_EditHeader.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/APIHeaderSection_EditHeader.hxx
++M APIHeaderSection:privinclude:APIHeaderSection_EditHeader.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/APIHeaderSection_EditHeader.jxx
++M APIHeaderSection:privinclude:APIHeaderSection_EditHeader.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/APIHeaderSection_EditHeader.ixx
++M APIHeaderSection:dbadmfile:APIHeaderSection_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/.adm/APIHeaderSection_xcpp_header.In
++M APIHeaderSection:dbadmfile:APIHeaderSection_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/.adm/APIHeaderSection_xcpp_header.Out
++M APIHeaderSection:dbadmfile:APIHeaderSection_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/APIHeaderSection/.adm/APIHeaderSection_xcpp_header.Dep

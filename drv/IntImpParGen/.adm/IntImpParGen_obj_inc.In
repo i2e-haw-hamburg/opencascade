@@ -1,0 +1,5 @@
++ IntImpParGen:source:IntImpParGen_Tool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImpParGen/IntImpParGen_Tool.hxx
++ IntImpParGen:source:IntImpParGen_ImpParTool.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImpParGen/IntImpParGen_ImpParTool.gxx
++ IntImpParGen:source:IntImpParGen_Intersector.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImpParGen/IntImpParGen_Intersector.gxx
+- IntImpParGen:admfile:IntImpParGen_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntImpParGen/IntImpParGen_src.Out
+- IntImpParGen:admfile:IntImpParGen_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntImpParGen/IntImpParGen_xcpp_src.Out

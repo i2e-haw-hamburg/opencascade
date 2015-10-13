@@ -1,0 +1,7 @@
++M PMMgt:pubinclude:Handle_PMMgt_PManaged.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PMMgt_PManaged.hxx
++M PMMgt:pubinclude:PMMgt_PManaged.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PMMgt_PManaged.hxx
++M PMMgt:privinclude:PMMgt_PManaged.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PMMgt/PMMgt_PManaged.jxx
++M PMMgt:privinclude:PMMgt_PManaged.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PMMgt/PMMgt_PManaged.ixx
++M PMMgt:dbadmfile:PMMgt_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PMMgt/.adm/PMMgt_xcpp_header.In
++M PMMgt:dbadmfile:PMMgt_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PMMgt/.adm/PMMgt_xcpp_header.Out
++M PMMgt:dbadmfile:PMMgt_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PMMgt/.adm/PMMgt_xcpp_header.Dep

@@ -1,0 +1,7 @@
++M UnitsAPI:pubinclude:UnitsAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/UnitsAPI.hxx
++M UnitsAPI:privinclude:UnitsAPI.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsAPI/UnitsAPI.jxx
++M UnitsAPI:privinclude:UnitsAPI.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsAPI/UnitsAPI.ixx
++M UnitsAPI:pubinclude:UnitsAPI_SystemUnits.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/UnitsAPI_SystemUnits.hxx
++M UnitsAPI:dbadmfile:UnitsAPI_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsAPI/.adm/UnitsAPI_xcpp_header.In
++M UnitsAPI:dbadmfile:UnitsAPI_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsAPI/.adm/UnitsAPI_xcpp_header.Out
++M UnitsAPI:dbadmfile:UnitsAPI_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/UnitsAPI/.adm/UnitsAPI_xcpp_header.Dep

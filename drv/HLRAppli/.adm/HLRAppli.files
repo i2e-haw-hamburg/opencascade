@@ -1,0 +1,9 @@
+pubinclude HLRAppli_ReflectLines.hxx
+privinclude HLRAppli_ReflectLines.jxx
+privinclude HLRAppli_ReflectLines.ixx
+dbadmfile HLRAppli_xcpp_header.In
+dbadmfile HLRAppli_xcpp_header.Out
+dbadmfile HLRAppli_xcpp_header.Dep
+dbadmfile HLRAppli_obj_inc.In
+dbadmfile HLRAppli_obj_inc.Out
+dbadmfile HLRAppli_obj_inc.Dep

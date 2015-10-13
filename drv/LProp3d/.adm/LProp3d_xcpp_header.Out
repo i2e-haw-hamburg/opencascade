@@ -1,0 +1,13 @@
++M LProp3d:pubinclude:LProp3d_CurveTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp3d_CurveTool.hxx
++M LProp3d:privinclude:LProp3d_CurveTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_CurveTool.jxx
++M LProp3d:privinclude:LProp3d_CurveTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_CurveTool.ixx
++M LProp3d:pubinclude:LProp3d_SurfaceTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp3d_SurfaceTool.hxx
++M LProp3d:privinclude:LProp3d_SurfaceTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_SurfaceTool.jxx
++M LProp3d:privinclude:LProp3d_SurfaceTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_SurfaceTool.ixx
++M LProp3d:pubinclude:LProp3d_CLProps.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp3d_CLProps.hxx
++M LProp3d:derivated:LProp3d_CLProps_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_CLProps_0.cxx
++M LProp3d:pubinclude:LProp3d_SLProps.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp3d_SLProps.hxx
++M LProp3d:derivated:LProp3d_SLProps_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/LProp3d_SLProps_0.cxx
++M LProp3d:dbadmfile:LProp3d_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/.adm/LProp3d_xcpp_header.In
++M LProp3d:dbadmfile:LProp3d_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/.adm/LProp3d_xcpp_header.Out
++M LProp3d:dbadmfile:LProp3d_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp3d/.adm/LProp3d_xcpp_header.Dep

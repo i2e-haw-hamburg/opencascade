@@ -1,0 +1,7 @@
++M GeomLib:pubinclude:GeomLib_MakeCurvefromApprox.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomLib_MakeCurvefromApprox.lxx
++M GeomLib:pubinclude:GeomLib_Interpolate.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomLib_Interpolate.lxx
++M GeomLib:pubinclude:GeomLib_CheckBSplineCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomLib_CheckBSplineCurve.lxx
++M GeomLib:pubinclude:GeomLib_Check2dBSplineCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomLib_Check2dBSplineCurve.lxx
++M GeomLib:dbadmfile:GeomLib_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomLib/.adm/GeomLib_obj_inc.In
++M GeomLib:dbadmfile:GeomLib_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomLib/.adm/GeomLib_obj_inc.Out
++M GeomLib:dbadmfile:GeomLib_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomLib/.adm/GeomLib_obj_inc.Dep

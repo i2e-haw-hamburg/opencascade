@@ -1,0 +1,8 @@
++M PrsMgr:pubinclude:PrsMgr_ListOfPresentations.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PrsMgr_ListOfPresentations.hxx
++M PrsMgr:pubinclude:PrsMgr_ListOfPresentableObjects.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PrsMgr_ListOfPresentableObjects.hxx
++M PrsMgr:pubinclude:PrsMgr_PresentationManager.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PrsMgr_PresentationManager.lxx
++M PrsMgr:pubinclude:PrsMgr_Presentation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PrsMgr_Presentation.lxx
++M PrsMgr:pubinclude:PrsMgr_PresentableObject.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PrsMgr_PresentableObject.lxx
++M PrsMgr:dbadmfile:PrsMgr_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PrsMgr/.adm/PrsMgr_obj_inc.In
++M PrsMgr:dbadmfile:PrsMgr_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PrsMgr/.adm/PrsMgr_obj_inc.Out
++M PrsMgr:dbadmfile:PrsMgr_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PrsMgr/.adm/PrsMgr_obj_inc.Dep

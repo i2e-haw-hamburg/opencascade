@@ -1,0 +1,6 @@
++M BRepTest:pubinclude:BRepTest.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepTest.hxx
++M BRepTest:privinclude:BRepTest.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepTest/BRepTest.jxx
++M BRepTest:privinclude:BRepTest.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepTest/BRepTest.ixx
++M BRepTest:dbadmfile:BRepTest_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepTest/.adm/BRepTest_xcpp_header.In
++M BRepTest:dbadmfile:BRepTest_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepTest/.adm/BRepTest_xcpp_header.Out
++M BRepTest:dbadmfile:BRepTest_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepTest/.adm/BRepTest_xcpp_header.Dep

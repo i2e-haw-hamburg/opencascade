@@ -1,0 +1,14 @@
++M StdLDrivers:pubinclude:StdLDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdLDrivers.hxx
++M StdLDrivers:privinclude:StdLDrivers.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers.jxx
++M StdLDrivers:privinclude:StdLDrivers.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers.ixx
++M StdLDrivers:pubinclude:Handle_StdLDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_StdLDrivers_DocumentRetrievalDriver.hxx
++M StdLDrivers:pubinclude:StdLDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdLDrivers_DocumentRetrievalDriver.hxx
++M StdLDrivers:privinclude:StdLDrivers_DocumentRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers_DocumentRetrievalDriver.jxx
++M StdLDrivers:privinclude:StdLDrivers_DocumentRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers_DocumentRetrievalDriver.ixx
++M StdLDrivers:pubinclude:Handle_StdLDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_StdLDrivers_DocumentStorageDriver.hxx
++M StdLDrivers:pubinclude:StdLDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StdLDrivers_DocumentStorageDriver.hxx
++M StdLDrivers:privinclude:StdLDrivers_DocumentStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers_DocumentStorageDriver.jxx
++M StdLDrivers:privinclude:StdLDrivers_DocumentStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/StdLDrivers_DocumentStorageDriver.ixx
++M StdLDrivers:dbadmfile:StdLDrivers_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/.adm/StdLDrivers_xcpp_header.In
++M StdLDrivers:dbadmfile:StdLDrivers_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/.adm/StdLDrivers_xcpp_header.Out
++M StdLDrivers:dbadmfile:StdLDrivers_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StdLDrivers/.adm/StdLDrivers_xcpp_header.Dep

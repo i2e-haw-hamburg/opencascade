@@ -1,0 +1,8 @@
++ Cocoa:pubinclude:Cocoa_LocalPool.hxx Cocoa:source:Cocoa_LocalPool.hxx
++ Cocoa:pubinclude:Cocoa_Window.hxx Cocoa:source:Cocoa_Window.hxx
++ Cocoa:dbadmfile:Cocoa_obj_inc.In Cocoa:admfile:Cocoa_src.Out
++ * Cocoa:admfile:Cocoa_xcpp_src.Out
++ Cocoa:dbadmfile:Cocoa_obj_inc.Out Cocoa:admfile:Cocoa_src.Out
++ * Cocoa:admfile:Cocoa_xcpp_src.Out
++ Cocoa:dbadmfile:Cocoa_obj_inc.Dep Cocoa:admfile:Cocoa_src.Out
++ * Cocoa:admfile:Cocoa_xcpp_src.Out

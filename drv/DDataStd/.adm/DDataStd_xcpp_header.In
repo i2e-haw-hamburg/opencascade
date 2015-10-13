@@ -1,0 +1,5 @@
++V DDataStd:msentity:DDataStd .
++V DDataStd:msentity:DDataStd_DrawPresentation .
++V DDataStd:msentity:DDataStd_DrawDriver .
++V DDataStd:msentity:DDataStd_TreeBrowser .
+- DDataStd:admfile:DDataStd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DDataStd/DDataStd_xcpp_fill.Out

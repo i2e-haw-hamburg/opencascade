@@ -1,0 +1,13 @@
++ Prs3d:pubinclude:Prs3d_NListIteratorOfListOfSequenceOfPnt.hxx Prs3d:source:Prs3d_NListIteratorOfListOfSequenceOfPnt.hxx
++ Prs3d:pubinclude:Prs3d_NListOfSequenceOfPnt.hxx Prs3d:source:Prs3d_NListOfSequenceOfPnt.hxx
++ Prs3d:pubinclude:Prs3d_Point.hxx Prs3d:source:Prs3d_Point.hxx
++ Prs3d:pubinclude:Prs3d_WFShape.hxx Prs3d:source:Prs3d_WFShape.hxx
++ Prs3d:pubinclude:Prs3d_DimensionUnits.hxx Prs3d:source:Prs3d_DimensionUnits.hxx
++ Prs3d:pubinclude:Prs3d_PresentationShadow.hxx Prs3d:source:Prs3d_PresentationShadow.hxx
++ Prs3d:pubinclude:Prs3d_Drawer.hxx Prs3d:source:Prs3d_Drawer.hxx
++ Prs3d:dbadmfile:Prs3d_obj_inc.In Prs3d:admfile:Prs3d_src.Out
++ * Prs3d:admfile:Prs3d_xcpp_src.Out
++ Prs3d:dbadmfile:Prs3d_obj_inc.Out Prs3d:admfile:Prs3d_src.Out
++ * Prs3d:admfile:Prs3d_xcpp_src.Out
++ Prs3d:dbadmfile:Prs3d_obj_inc.Dep Prs3d:admfile:Prs3d_src.Out
++ * Prs3d:admfile:Prs3d_xcpp_src.Out

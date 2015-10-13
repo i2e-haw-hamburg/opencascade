@@ -1,0 +1,4 @@
++ AdvApprox:source:AdvApprox_EvaluatorFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AdvApprox/AdvApprox_EvaluatorFunction.hxx
++ AdvApprox:source:AdvApprox_ApproxAFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/AdvApprox/AdvApprox_ApproxAFunction.lxx
+- AdvApprox:admfile:AdvApprox_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AdvApprox/AdvApprox_src.Out
+- AdvApprox:admfile:AdvApprox_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AdvApprox/AdvApprox_xcpp_src.Out

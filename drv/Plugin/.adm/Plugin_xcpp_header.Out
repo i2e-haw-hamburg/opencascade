@@ -1,0 +1,16 @@
++M Plugin:pubinclude:Plugin.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plugin.hxx
++M Plugin:privinclude:Plugin.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin.jxx
++M Plugin:privinclude:Plugin.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin.ixx
++M Plugin:pubinclude:Plugin_MapOfFunctions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plugin_MapOfFunctions.hxx
++M Plugin:derivated:Plugin_MapOfFunctions_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin_MapOfFunctions_0.cxx
++M Plugin:pubinclude:Handle_Plugin_DataMapNodeOfMapOfFunctions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Plugin_DataMapNodeOfMapOfFunctions.hxx
++M Plugin:pubinclude:Plugin_DataMapNodeOfMapOfFunctions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plugin_DataMapNodeOfMapOfFunctions.hxx
++M Plugin:derivated:Plugin_DataMapNodeOfMapOfFunctions_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin_DataMapNodeOfMapOfFunctions_0.cxx
++M Plugin:pubinclude:Plugin_DataMapIteratorOfMapOfFunctions.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plugin_DataMapIteratorOfMapOfFunctions.hxx
++M Plugin:derivated:Plugin_DataMapIteratorOfMapOfFunctions_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin_DataMapIteratorOfMapOfFunctions_0.cxx
++M Plugin:pubinclude:Handle_Plugin_Failure.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Plugin_Failure.hxx
++M Plugin:pubinclude:Plugin_Failure.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plugin_Failure.hxx
++M Plugin:derivated:Plugin_Failure_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/Plugin_Failure_0.cxx
++M Plugin:dbadmfile:Plugin_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/.adm/Plugin_xcpp_header.In
++M Plugin:dbadmfile:Plugin_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/.adm/Plugin_xcpp_header.Out
++M Plugin:dbadmfile:Plugin_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plugin/.adm/Plugin_xcpp_header.Dep

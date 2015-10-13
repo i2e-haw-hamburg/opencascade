@@ -1,0 +1,15 @@
++V Law:msentity:Law .
++V Law:msentity:Law_BSpline .
++V Law:msentity:Law_Interpolate .
++V Law:msentity:Law_Function .
++V Law:msentity:Law_Constant .
++V Law:msentity:Law_Linear .
++V Law:msentity:Law_BSpFunc .
++V Law:msentity:Law_S .
++V Law:msentity:Law_Interpol .
++V Law:msentity:Law_Laws .
++V Law:msentity:Law_Composite .
++V Law:msentity:Law_BSplineKnotSplitting .
++V Law:msentity:Law_ListNodeOfLaws .
++V Law:msentity:Law_ListIteratorOfLaws .
+- Law:admfile:Law_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Law/Law_xcpp_fill.Out

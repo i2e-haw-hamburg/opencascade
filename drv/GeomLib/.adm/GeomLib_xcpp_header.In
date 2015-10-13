@@ -1,0 +1,14 @@
++V GeomLib:msentity:GeomLib .
++V GeomLib:msentity:GeomLib_Array1OfMat .
++V GeomLib:msentity:GeomLib_MakeCurvefromApprox .
++V GeomLib:msentity:GeomLib_Interpolate .
++V GeomLib:msentity:GeomLib_DenominatorMultiplier .
++V GeomLib:msentity:GeomLib_CheckBSplineCurve .
++V GeomLib:msentity:GeomLib_Check2dBSplineCurve .
++V GeomLib:msentity:GeomLib_IsPlanarSurface .
++V GeomLib:msentity:GeomLib_Tool .
++V GeomLib:msentity:GeomLib_PolyFunc .
++V GeomLib:msentity:GeomLib_LogSample .
++V GeomLib:msentity:GeomLib_InterpolationErrors .
++V GeomLib:msentity:GeomLib_DenominatorMultiplierPtr .
+- GeomLib:admfile:GeomLib_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomLib/GeomLib_xcpp_fill.Out

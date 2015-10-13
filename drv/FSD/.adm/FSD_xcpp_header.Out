@@ -1,0 +1,12 @@
++M FSD:pubinclude:FSD_File.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_File.hxx
++M FSD:privinclude:FSD_File.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_File.jxx
++M FSD:privinclude:FSD_File.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_File.ixx
++M FSD:pubinclude:FSD_BinaryFile.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_BinaryFile.hxx
++M FSD:privinclude:FSD_BinaryFile.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_BinaryFile.jxx
++M FSD:privinclude:FSD_BinaryFile.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_BinaryFile.ixx
++M FSD:pubinclude:FSD_CmpFile.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/FSD_CmpFile.hxx
++M FSD:privinclude:FSD_CmpFile.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_CmpFile.jxx
++M FSD:privinclude:FSD_CmpFile.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/FSD_CmpFile.ixx
++M FSD:dbadmfile:FSD_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_xcpp_header.In
++M FSD:dbadmfile:FSD_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_xcpp_header.Out
++M FSD:dbadmfile:FSD_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/FSD/.adm/FSD_xcpp_header.Dep

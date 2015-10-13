@@ -1,0 +1,7 @@
++V HeaderSection:msentity:HeaderSection .
++V HeaderSection:msentity:HeaderSection_Protocol .
++V HeaderSection:msentity:HeaderSection_FileName .
++V HeaderSection:msentity:HeaderSection_FileDescription .
++V HeaderSection:msentity:HeaderSection_FileSchema .
++V HeaderSection:msentity:HeaderSection_HeaderRecognizer .
+- HeaderSection:admfile:HeaderSection_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HeaderSection/HeaderSection_xcpp_fill.Out

@@ -1,0 +1,10 @@
++V GCPnts:msentity:GCPnts .
++V GCPnts:msentity:GCPnts_AbscissaPoint .
++V GCPnts:msentity:GCPnts_UniformAbscissa .
++V GCPnts:msentity:GCPnts_UniformDeflection .
++V GCPnts:msentity:GCPnts_QuasiUniformDeflection .
++V GCPnts:msentity:GCPnts_QuasiUniformAbscissa .
++V GCPnts:msentity:GCPnts_TangentialDeflection .
++V GCPnts:msentity:GCPnts_AbscissaType .
++V GCPnts:msentity:GCPnts_DeflectionType .
+- GCPnts:admfile:GCPnts_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GCPnts/GCPnts_xcpp_fill.Out

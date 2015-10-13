@@ -1,0 +1,6 @@
++M HLRAppli:pubinclude:HLRAppli_ReflectLines.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/HLRAppli_ReflectLines.hxx
++M HLRAppli:privinclude:HLRAppli_ReflectLines.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRAppli/HLRAppli_ReflectLines.jxx
++M HLRAppli:privinclude:HLRAppli_ReflectLines.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRAppli/HLRAppli_ReflectLines.ixx
++M HLRAppli:dbadmfile:HLRAppli_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRAppli/.adm/HLRAppli_xcpp_header.In
++M HLRAppli:dbadmfile:HLRAppli_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRAppli/.adm/HLRAppli_xcpp_header.Out
++M HLRAppli:dbadmfile:HLRAppli_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/HLRAppli/.adm/HLRAppli_xcpp_header.Dep

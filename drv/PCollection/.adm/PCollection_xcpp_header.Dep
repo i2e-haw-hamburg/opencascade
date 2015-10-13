@@ -1,0 +1,12 @@
++ PCollection:pubinclude:Handle_PCollection_HAsciiString.hxx PCollection:msentity:PCollection_HAsciiString
++ PCollection:pubinclude:PCollection_HAsciiString.hxx PCollection:msentity:PCollection_HAsciiString
++ PCollection:privinclude:PCollection_HAsciiString.jxx PCollection:msentity:PCollection_HAsciiString
++ PCollection:privinclude:PCollection_HAsciiString.ixx PCollection:msentity:PCollection_HAsciiString
++ PCollection:pubinclude:Handle_PCollection_HExtendedString.hxx PCollection:msentity:PCollection_HExtendedString
++ PCollection:pubinclude:PCollection_HExtendedString.hxx PCollection:msentity:PCollection_HExtendedString
++ PCollection:privinclude:PCollection_HExtendedString.jxx PCollection:msentity:PCollection_HExtendedString
++ PCollection:privinclude:PCollection_HExtendedString.ixx PCollection:msentity:PCollection_HExtendedString
++ PCollection:pubinclude:PCollection_AccessMode.hxx PCollection:msentity:PCollection_AccessMode
++ PCollection:dbadmfile:PCollection_xcpp_header.In PCollection:admfile:PCollection_xcpp_fill.Out
++ PCollection:dbadmfile:PCollection_xcpp_header.Out PCollection:admfile:PCollection_xcpp_fill.Out
++ PCollection:dbadmfile:PCollection_xcpp_header.Dep PCollection:admfile:PCollection_xcpp_fill.Out

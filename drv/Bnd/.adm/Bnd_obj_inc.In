@@ -1,0 +1,9 @@
++ Bnd:source:Bnd_Box.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_Box.lxx
++ Bnd:source:Bnd_Sphere.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_Sphere.lxx
++ Bnd:source:Bnd_Box2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_Box2d.lxx
++ Bnd:source:Bnd_B2x.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_B2x.gxx
++ Bnd:source:Bnd_B2x.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_B2x.lxx
++ Bnd:source:Bnd_B3x.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_B3x.gxx
++ Bnd:source:Bnd_B3x.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Bnd/Bnd_B3x.lxx
+- Bnd:admfile:Bnd_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Bnd/Bnd_src.Out
+- Bnd:admfile:Bnd_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Bnd/Bnd_xcpp_src.Out

@@ -1,0 +1,9 @@
++ IVtk:source:IVtk_Interface.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_Interface.hxx
++ IVtk:source:IVtk_IShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_IShape.hxx
++ IVtk:source:IVtk_IShapeData.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_IShapeData.hxx
++ IVtk:source:IVtk_IShapeMesher.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_IShapeMesher.hxx
++ IVtk:source:IVtk_IShapePickerAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_IShapePickerAlgo.hxx
++ IVtk:source:IVtk_IView.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_IView.hxx
++ IVtk:source:IVtk_Types.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IVtk/IVtk_Types.hxx
+- IVtk:admfile:IVtk_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IVtk/IVtk_src.Out
+- IVtk:admfile:IVtk_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IVtk/IVtk_xcpp_src.Out

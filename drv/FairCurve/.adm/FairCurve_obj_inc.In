@@ -1,0 +1,9 @@
++ FairCurve:source:FairCurve_Batten.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_Batten.lxx
++ FairCurve:source:FairCurve_MinimalVariation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_MinimalVariation.lxx
++ FairCurve:source:FairCurve_BattenLaw.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_BattenLaw.lxx
++ FairCurve:source:FairCurve_DistributionOfTension.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_DistributionOfTension.lxx
++ FairCurve:source:FairCurve_Energy.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_Energy.lxx
++ FairCurve:source:FairCurve_EnergyOfBatten.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_EnergyOfBatten.lxx
++ FairCurve:source:FairCurve_EnergyOfMVC.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/FairCurve/FairCurve_EnergyOfMVC.lxx
+- FairCurve:admfile:FairCurve_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/FairCurve/FairCurve_src.Out
+- FairCurve:admfile:FairCurve_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/FairCurve/FairCurve_xcpp_src.Out

@@ -1,0 +1,4 @@
++ MDF:source:MDF_RelocationTable.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MDF/MDF_RelocationTable.gxx
++ MDF:source:MDF_DriverTable.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MDF/MDF_DriverTable.gxx
+- MDF:admfile:MDF_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MDF/MDF_src.Out
+- MDF:admfile:MDF_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MDF/MDF_xcpp_src.Out

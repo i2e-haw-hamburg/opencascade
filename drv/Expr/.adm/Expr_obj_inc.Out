@@ -1,0 +1,9 @@
++M Expr:pubinclude:Expr_Operators.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_Operators.hxx
++M Expr:pubinclude:Expr_NamedConstant.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_NamedConstant.lxx
++M Expr:pubinclude:Expr_NamedUnknown.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_NamedUnknown.lxx
++M Expr:pubinclude:Expr_UnaryExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_UnaryExpression.lxx
++M Expr:pubinclude:Expr_BinaryExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_BinaryExpression.lxx
++M Expr:pubinclude:Expr_PolyExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Expr_PolyExpression.lxx
++M Expr:dbadmfile:Expr_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Expr/.adm/Expr_obj_inc.In
++M Expr:dbadmfile:Expr_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Expr/.adm/Expr_obj_inc.Out
++M Expr:dbadmfile:Expr_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Expr/.adm/Expr_obj_inc.Dep

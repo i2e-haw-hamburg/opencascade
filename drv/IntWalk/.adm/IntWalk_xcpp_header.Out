@@ -1,0 +1,11 @@
++M IntWalk:pubinclude:IntWalk_PWalking.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntWalk_PWalking.hxx
++M IntWalk:privinclude:IntWalk_PWalking.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/IntWalk_PWalking.jxx
++M IntWalk:privinclude:IntWalk_PWalking.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/IntWalk_PWalking.ixx
++M IntWalk:pubinclude:IntWalk_TheInt2S.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntWalk_TheInt2S.hxx
++M IntWalk:derivated:IntWalk_TheInt2S_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/IntWalk_TheInt2S_0.cxx
++M IntWalk:pubinclude:IntWalk_TheFunctionOfTheInt2S.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntWalk_TheFunctionOfTheInt2S.hxx
++M IntWalk:derivated:IntWalk_TheFunctionOfTheInt2S_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/IntWalk_TheFunctionOfTheInt2S_0.cxx
++M IntWalk:pubinclude:IntWalk_StatusDeflection.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntWalk_StatusDeflection.hxx
++M IntWalk:dbadmfile:IntWalk_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/.adm/IntWalk_xcpp_header.In
++M IntWalk:dbadmfile:IntWalk_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/.adm/IntWalk_xcpp_header.Out
++M IntWalk:dbadmfile:IntWalk_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntWalk/.adm/IntWalk_xcpp_header.Dep

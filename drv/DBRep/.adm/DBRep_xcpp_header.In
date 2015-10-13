@@ -1,0 +1,16 @@
++V DBRep:msentity:DBRep .
++V DBRep:msentity:DBRep_Edge .
++V DBRep:msentity:DBRep_ListOfEdge .
++V DBRep:msentity:DBRep_Face .
++V DBRep:msentity:DBRep_ListOfFace .
++V DBRep:msentity:DBRep_HideData .
++V DBRep:msentity:DBRep_ListOfHideData .
++V DBRep:msentity:DBRep_DrawableShape .
++V DBRep:msentity:DBRep_IsoBuilder .
++V DBRep:msentity:DBRep_ListNodeOfListOfEdge .
++V DBRep:msentity:DBRep_ListIteratorOfListOfEdge .
++V DBRep:msentity:DBRep_ListNodeOfListOfFace .
++V DBRep:msentity:DBRep_ListIteratorOfListOfFace .
++V DBRep:msentity:DBRep_ListNodeOfListOfHideData .
++V DBRep:msentity:DBRep_ListIteratorOfListOfHideData .
+- DBRep:admfile:DBRep_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DBRep/DBRep_xcpp_fill.Out

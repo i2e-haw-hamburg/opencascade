@@ -1,0 +1,10 @@
++M Prs3d:pubinclude:Prs3d_NListIteratorOfListOfSequenceOfPnt.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_NListIteratorOfListOfSequenceOfPnt.hxx
++M Prs3d:pubinclude:Prs3d_NListOfSequenceOfPnt.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_NListOfSequenceOfPnt.hxx
++M Prs3d:pubinclude:Prs3d_Point.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_Point.hxx
++M Prs3d:pubinclude:Prs3d_WFShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_WFShape.hxx
++M Prs3d:pubinclude:Prs3d_DimensionUnits.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_DimensionUnits.hxx
++M Prs3d:pubinclude:Prs3d_PresentationShadow.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_PresentationShadow.hxx
++M Prs3d:pubinclude:Prs3d_Drawer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Prs3d_Drawer.hxx
++M Prs3d:dbadmfile:Prs3d_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Prs3d/.adm/Prs3d_obj_inc.In
++M Prs3d:dbadmfile:Prs3d_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Prs3d/.adm/Prs3d_obj_inc.Out
++M Prs3d:dbadmfile:Prs3d_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Prs3d/.adm/Prs3d_obj_inc.Dep

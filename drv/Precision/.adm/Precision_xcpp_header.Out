@@ -1,0 +1,6 @@
++M Precision:pubinclude:Precision.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Precision.hxx
++M Precision:privinclude:Precision.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Precision/Precision.jxx
++M Precision:privinclude:Precision.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Precision/Precision.ixx
++M Precision:dbadmfile:Precision_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Precision/.adm/Precision_xcpp_header.In
++M Precision:dbadmfile:Precision_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Precision/.adm/Precision_xcpp_header.Out
++M Precision:dbadmfile:Precision_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Precision/.adm/Precision_xcpp_header.Dep

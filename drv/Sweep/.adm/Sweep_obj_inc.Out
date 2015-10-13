@@ -1,0 +1,5 @@
++M Sweep:pubinclude:Sweep_NumShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Sweep_NumShape.lxx
++M Sweep:pubinclude:Sweep_NumShapeIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Sweep_NumShapeIterator.lxx
++M Sweep:dbadmfile:Sweep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_obj_inc.In
++M Sweep:dbadmfile:Sweep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_obj_inc.Out
++M Sweep:dbadmfile:Sweep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Sweep/.adm/Sweep_obj_inc.Dep

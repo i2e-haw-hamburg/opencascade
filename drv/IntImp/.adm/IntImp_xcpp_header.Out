@@ -1,0 +1,4 @@
++M IntImp:pubinclude:IntImp_ConstIsoparametric.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImp_ConstIsoparametric.hxx
++M IntImp:dbadmfile:IntImp_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_xcpp_header.In
++M IntImp:dbadmfile:IntImp_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_xcpp_header.Out
++M IntImp:dbadmfile:IntImp_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImp/.adm/IntImp_xcpp_header.Dep

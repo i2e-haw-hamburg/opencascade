@@ -1,0 +1,4 @@
++M ShapeAlgo:pubinclude:ShapeAlgo_AlgoContainer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeAlgo_AlgoContainer.lxx
++M ShapeAlgo:dbadmfile:ShapeAlgo_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_obj_inc.In
++M ShapeAlgo:dbadmfile:ShapeAlgo_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_obj_inc.Out
++M ShapeAlgo:dbadmfile:ShapeAlgo_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeAlgo/.adm/ShapeAlgo_obj_inc.Dep

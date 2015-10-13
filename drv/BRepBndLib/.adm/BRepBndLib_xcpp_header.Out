@@ -1,0 +1,6 @@
++M BRepBndLib:pubinclude:BRepBndLib.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBndLib.hxx
++M BRepBndLib:privinclude:BRepBndLib.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBndLib/BRepBndLib.jxx
++M BRepBndLib:privinclude:BRepBndLib.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBndLib/BRepBndLib.ixx
++M BRepBndLib:dbadmfile:BRepBndLib_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBndLib/.adm/BRepBndLib_xcpp_header.In
++M BRepBndLib:dbadmfile:BRepBndLib_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBndLib/.adm/BRepBndLib_xcpp_header.Out
++M BRepBndLib:dbadmfile:BRepBndLib_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBndLib/.adm/BRepBndLib_xcpp_header.Dep

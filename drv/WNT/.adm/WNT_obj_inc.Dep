@@ -1,0 +1,10 @@
++ WNT:pubinclude:WNT_Dword.hxx WNT:source:WNT_Dword.hxx
++ WNT:pubinclude:WNT_Uint.hxx WNT:source:WNT_Uint.hxx
++ WNT:pubinclude:WNT_Window.lxx WNT:source:WNT_Window.lxx
++ WNT:pubinclude:WNT_WClass.lxx WNT:source:WNT_WClass.lxx
++ WNT:dbadmfile:WNT_obj_inc.In WNT:admfile:WNT_src.Out
++ * WNT:admfile:WNT_xcpp_src.Out
++ WNT:dbadmfile:WNT_obj_inc.Out WNT:admfile:WNT_src.Out
++ * WNT:admfile:WNT_xcpp_src.Out
++ WNT:dbadmfile:WNT_obj_inc.Dep WNT:admfile:WNT_src.Out
++ * WNT:admfile:WNT_xcpp_src.Out

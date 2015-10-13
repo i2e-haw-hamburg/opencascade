@@ -1,0 +1,17 @@
++V BinMXCAFDoc:msentity:BinMXCAFDoc .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_AreaDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_CentroidDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_ColorDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_GraphNodeDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_LocationDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_VolumeDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_DatumDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_DimTolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_MaterialDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_ColorToolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_DocumentToolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_LayerToolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_ShapeToolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_DimTolToolDriver .
++V BinMXCAFDoc:msentity:BinMXCAFDoc_MaterialToolDriver .
+- BinMXCAFDoc:admfile:BinMXCAFDoc_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BinMXCAFDoc/BinMXCAFDoc_xcpp_fill.Out

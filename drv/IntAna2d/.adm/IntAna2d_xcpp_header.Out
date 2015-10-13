@@ -1,0 +1,12 @@
++M IntAna2d:pubinclude:IntAna2d_Conic.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_Conic.hxx
++M IntAna2d:privinclude:IntAna2d_Conic.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_Conic.jxx
++M IntAna2d:privinclude:IntAna2d_Conic.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_Conic.ixx
++M IntAna2d:pubinclude:IntAna2d_AnaIntersection.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_AnaIntersection.hxx
++M IntAna2d:privinclude:IntAna2d_AnaIntersection.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_AnaIntersection.jxx
++M IntAna2d:privinclude:IntAna2d_AnaIntersection.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_AnaIntersection.ixx
++M IntAna2d:pubinclude:IntAna2d_IntPoint.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna2d_IntPoint.hxx
++M IntAna2d:privinclude:IntAna2d_IntPoint.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_IntPoint.jxx
++M IntAna2d:privinclude:IntAna2d_IntPoint.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/IntAna2d_IntPoint.ixx
++M IntAna2d:dbadmfile:IntAna2d_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_xcpp_header.In
++M IntAna2d:dbadmfile:IntAna2d_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_xcpp_header.Out
++M IntAna2d:dbadmfile:IntAna2d_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna2d/.adm/IntAna2d_xcpp_header.Dep

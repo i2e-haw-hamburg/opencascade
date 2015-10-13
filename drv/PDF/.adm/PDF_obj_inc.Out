@@ -1,0 +1,4 @@
++M PDF:pubinclude:PDF_Data.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PDF_Data.lxx
++M PDF:dbadmfile:PDF_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDF/.adm/PDF_obj_inc.In
++M PDF:dbadmfile:PDF_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDF/.adm/PDF_obj_inc.Out
++M PDF:dbadmfile:PDF_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PDF/.adm/PDF_obj_inc.Dep

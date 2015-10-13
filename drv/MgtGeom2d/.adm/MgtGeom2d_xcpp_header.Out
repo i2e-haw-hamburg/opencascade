@@ -1,0 +1,6 @@
++M MgtGeom2d:pubinclude:MgtGeom2d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtGeom2d.hxx
++M MgtGeom2d:privinclude:MgtGeom2d.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom2d/MgtGeom2d.jxx
++M MgtGeom2d:privinclude:MgtGeom2d.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom2d/MgtGeom2d.ixx
++M MgtGeom2d:dbadmfile:MgtGeom2d_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom2d/.adm/MgtGeom2d_xcpp_header.In
++M MgtGeom2d:dbadmfile:MgtGeom2d_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom2d/.adm/MgtGeom2d_xcpp_header.Out
++M MgtGeom2d:dbadmfile:MgtGeom2d_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtGeom2d/.adm/MgtGeom2d_xcpp_header.Dep

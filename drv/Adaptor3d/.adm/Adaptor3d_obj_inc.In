@@ -1,0 +1,11 @@
++ Adaptor3d:source:Adaptor3d_HCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_HCurve.lxx
++ Adaptor3d:source:Adaptor3d_GenHCurve.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_GenHCurve.gxx
++ Adaptor3d:source:Adaptor3d_GenHCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_GenHCurve.lxx
++ Adaptor3d:source:Adaptor3d_HSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_HSurface.lxx
++ Adaptor3d:source:Adaptor3d_GenHSurface.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_GenHSurface.gxx
++ Adaptor3d:source:Adaptor3d_GenHSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_GenHSurface.lxx
++ Adaptor3d:source:Adaptor3d_HSurfaceTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_HSurfaceTool.lxx
++ Adaptor3d:source:Adaptor3d_IsoCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_IsoCurve.lxx
++ Adaptor3d:source:Adaptor3d_OffsetCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Adaptor3d/Adaptor3d_OffsetCurve.lxx
+- Adaptor3d:admfile:Adaptor3d_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Adaptor3d/Adaptor3d_src.Out
+- Adaptor3d:admfile:Adaptor3d_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Adaptor3d/Adaptor3d_xcpp_src.Out

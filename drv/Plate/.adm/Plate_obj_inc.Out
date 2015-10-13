@@ -1,0 +1,14 @@
++M Plate:pubinclude:Plate_Plate.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_Plate.lxx
++M Plate:pubinclude:Plate_PinpointConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_PinpointConstraint.lxx
++M Plate:pubinclude:Plate_LinearScalarConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_LinearScalarConstraint.lxx
++M Plate:pubinclude:Plate_LinearXYZConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_LinearXYZConstraint.lxx
++M Plate:pubinclude:Plate_GlobalTranslationConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_GlobalTranslationConstraint.lxx
++M Plate:pubinclude:Plate_PlaneConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_PlaneConstraint.lxx
++M Plate:pubinclude:Plate_LineConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_LineConstraint.lxx
++M Plate:pubinclude:Plate_SampledCurveConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_SampledCurveConstraint.lxx
++M Plate:pubinclude:Plate_GtoCConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_GtoCConstraint.lxx
++M Plate:pubinclude:Plate_FreeGtoCConstraint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_FreeGtoCConstraint.lxx
++M Plate:pubinclude:Plate_D1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Plate_D1.lxx
++M Plate:dbadmfile:Plate_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plate/.adm/Plate_obj_inc.In
++M Plate:dbadmfile:Plate_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plate/.adm/Plate_obj_inc.Out
++M Plate:dbadmfile:Plate_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Plate/.adm/Plate_obj_inc.Dep

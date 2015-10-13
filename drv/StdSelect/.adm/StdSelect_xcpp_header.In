@@ -1,0 +1,17 @@
++V StdSelect:msentity:StdSelect .
++V StdSelect:msentity:StdSelect_BRepSelectionTool .
++V StdSelect:msentity:StdSelect_BRepOwner .
++V StdSelect:msentity:StdSelect_EdgeFilter .
++V StdSelect:msentity:StdSelect_FaceFilter .
++V StdSelect:msentity:StdSelect_ShapeTypeFilter .
++V StdSelect:msentity:StdSelect_Prs .
++V StdSelect:msentity:StdSelect_Shape .
++V StdSelect:msentity:StdSelect_IndexedDataMapOfOwnerPrs .
++V StdSelect:msentity:StdSelect_IndexedDataMapNodeOfIndexedDataMapOfOwnerPrs .
++V StdSelect:msentity:StdSelect_TypeOfResult .
++V StdSelect:msentity:StdSelect_DisplayMode .
++V StdSelect:msentity:StdSelect_TypeOfFace .
++V StdSelect:msentity:StdSelect_TypeOfEdge .
++V StdSelect:msentity:StdSelect_SensitivityMode .
++V StdSelect:msentity:StdSelect_ViewerSelector3d .
+- StdSelect:admfile:StdSelect_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/StdSelect/StdSelect_xcpp_fill.Out

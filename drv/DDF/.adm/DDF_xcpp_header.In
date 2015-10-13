@@ -1,0 +1,8 @@
++V DDF:msentity:DDF .
++V DDF:msentity:DDF_Data .
++V DDF:msentity:DDF_Browser .
++V DDF:msentity:DDF_Transaction .
++V DDF:msentity:DDF_TransactionStack .
++V DDF:msentity:DDF_ListNodeOfTransactionStack .
++V DDF:msentity:DDF_ListIteratorOfTransactionStack .
+- DDF:admfile:DDF_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DDF/DDF_xcpp_fill.Out

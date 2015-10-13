@@ -1,0 +1,9 @@
++V Font:msentity:Font .
++V Font:msentity:Font_SystemFont .
++V Font:msentity:Font_FontMgr .
++V Font:msentity:Font_FontAspect .
++V Font:msentity:Font_NListOfSystemFont .
++V Font:msentity:Font_FTFont .
++V Font:msentity:Font_FTLibrary .
++V Font:msentity:Font_BRepFont .
+- Font:admfile:Font_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Font/Font_xcpp_fill.Out

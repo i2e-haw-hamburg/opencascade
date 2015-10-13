@@ -1,0 +1,6 @@
++M StepFile:pubinclude:StepFile_CallFailure.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StepFile_CallFailure.hxx
++M StepFile:pubinclude:StepFile_Read.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StepFile_Read.hxx
++M StepFile:pubinclude:StepFile_Transfer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StepFile_Transfer.hxx
++M StepFile:dbadmfile:StepFile_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StepFile/.adm/StepFile_obj_inc.In
++M StepFile:dbadmfile:StepFile_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StepFile/.adm/StepFile_obj_inc.Out
++M StepFile:dbadmfile:StepFile_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StepFile/.adm/StepFile_obj_inc.Dep

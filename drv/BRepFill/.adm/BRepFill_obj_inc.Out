@@ -1,0 +1,7 @@
++M BRepFill:pubinclude:BRepFill_MultiLine.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFill_MultiLine.hxx
++M BRepFill:pubinclude:BRepFill_Generator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFill_Generator.lxx
++M BRepFill:pubinclude:BRepFill_ShapeLaw.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFill_ShapeLaw.lxx
++M BRepFill:pubinclude:BRepFill_Section.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFill_Section.lxx
++M BRepFill:dbadmfile:BRepFill_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFill/.adm/BRepFill_obj_inc.In
++M BRepFill:dbadmfile:BRepFill_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFill/.adm/BRepFill_obj_inc.Out
++M BRepFill:dbadmfile:BRepFill_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFill/.adm/BRepFill_obj_inc.Dep

@@ -1,0 +1,7 @@
++M PCDMShape:pubinclude:Handle_PCDMShape_Document.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PCDMShape_Document.hxx
++M PCDMShape:pubinclude:PCDMShape_Document.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PCDMShape_Document.hxx
++M PCDMShape:privinclude:PCDMShape_Document.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCDMShape/PCDMShape_Document.jxx
++M PCDMShape:privinclude:PCDMShape_Document.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCDMShape/PCDMShape_Document.ixx
++M PCDMShape:dbadmfile:PCDMShape_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCDMShape/.adm/PCDMShape_xcpp_header.In
++M PCDMShape:dbadmfile:PCDMShape_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCDMShape/.adm/PCDMShape_xcpp_header.Out
++M PCDMShape:dbadmfile:PCDMShape_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PCDMShape/.adm/PCDMShape_xcpp_header.Dep

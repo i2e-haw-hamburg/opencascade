@@ -1,0 +1,4 @@
++V ChFi2d:msentity:ChFi2d .
++V ChFi2d:msentity:ChFi2d_Builder .
++V ChFi2d:msentity:ChFi2d_ConstructionError .
+- ChFi2d:admfile:ChFi2d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFi2d/ChFi2d_xcpp_fill.Out

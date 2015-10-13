@@ -1,0 +1,5 @@
++ GeomInt:source:GeomInt_VectorOfReal.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomInt/GeomInt_VectorOfReal.hxx
++ GeomInt:source:GeomInt_IntSS.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomInt/GeomInt_IntSS.lxx
++ GeomInt:source:GeomInt_LineConstructor.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/GeomInt/GeomInt_LineConstructor.lxx
+- GeomInt:admfile:GeomInt_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomInt/GeomInt_src.Out
+- GeomInt:admfile:GeomInt_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomInt/GeomInt_xcpp_src.Out

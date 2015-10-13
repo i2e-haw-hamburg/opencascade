@@ -1,0 +1,9 @@
++V TShort:msentity:TShort .
++V TShort:msentity:TShort_Array1OfShortReal .
++V TShort:msentity:TShort_HArray1OfShortReal .
++V TShort:msentity:TShort_Array2OfShortReal .
++V TShort:msentity:TShort_HArray2OfShortReal .
++V TShort:msentity:TShort_SequenceOfShortReal .
++V TShort:msentity:TShort_HSequenceOfShortReal .
++V TShort:msentity:TShort_SequenceNodeOfSequenceOfShortReal .
+- TShort:admfile:TShort_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TShort/TShort_xcpp_fill.Out

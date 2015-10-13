@@ -1,0 +1,4 @@
++M STEPCAFControl:pubinclude:STEPCAFControl_ExternFile.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/STEPCAFControl_ExternFile.lxx
++M STEPCAFControl:dbadmfile:STEPCAFControl_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/STEPCAFControl/.adm/STEPCAFControl_obj_inc.In
++M STEPCAFControl:dbadmfile:STEPCAFControl_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/STEPCAFControl/.adm/STEPCAFControl_obj_inc.Out
++M STEPCAFControl:dbadmfile:STEPCAFControl_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/STEPCAFControl/.adm/STEPCAFControl_obj_inc.Dep

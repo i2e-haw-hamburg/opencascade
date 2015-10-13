@@ -1,0 +1,12 @@
++V GProp:msentity:GProp .
++V GProp:msentity:GProp_GProps .
++V GProp:msentity:GProp_PGProps .
++V GProp:msentity:GProp_CelGProps .
++V GProp:msentity:GProp_SelGProps .
++V GProp:msentity:GProp_VelGProps .
++V GProp:msentity:GProp_PrincipalProps .
++V GProp:msentity:GProp_PEquation .
++V GProp:msentity:GProp_UndefinedAxis .
++V GProp:msentity:GProp_EquaType .
++V GProp:msentity:GProp_ValueType .
+- GProp:admfile:GProp_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GProp/GProp_xcpp_fill.Out

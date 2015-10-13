@@ -1,0 +1,4 @@
++V VrmlAPI:msentity:VrmlAPI .
++V VrmlAPI:msentity:VrmlAPI_Writer .
++V VrmlAPI:msentity:VrmlAPI_RepresentationOfShape .
+- VrmlAPI:admfile:VrmlAPI_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/VrmlAPI/VrmlAPI_xcpp_fill.Out

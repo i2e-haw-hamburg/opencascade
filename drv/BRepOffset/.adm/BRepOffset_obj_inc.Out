@@ -1,0 +1,5 @@
++M BRepOffset:pubinclude:BRepOffset_Offset.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepOffset_Offset.lxx
++M BRepOffset:pubinclude:BRepOffset_Interval.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepOffset_Interval.lxx
++M BRepOffset:dbadmfile:BRepOffset_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepOffset/.adm/BRepOffset_obj_inc.In
++M BRepOffset:dbadmfile:BRepOffset_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepOffset/.adm/BRepOffset_obj_inc.Out
++M BRepOffset:dbadmfile:BRepOffset_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepOffset/.adm/BRepOffset_obj_inc.Dep

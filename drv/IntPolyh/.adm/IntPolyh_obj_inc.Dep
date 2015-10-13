@@ -1,0 +1,14 @@
++ IntPolyh:pubinclude:IntPolyh_Array.hxx IntPolyh:source:IntPolyh_Array.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfSectionLines.hxx IntPolyh:source:IntPolyh_ArrayOfSectionLines.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfCouples.hxx IntPolyh:source:IntPolyh_ArrayOfCouples.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfEdges.hxx IntPolyh:source:IntPolyh_ArrayOfEdges.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfPoints.hxx IntPolyh:source:IntPolyh_ArrayOfPoints.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfStartPoints.hxx IntPolyh:source:IntPolyh_ArrayOfStartPoints.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfTangentZones.hxx IntPolyh:source:IntPolyh_ArrayOfTangentZones.hxx
++ IntPolyh:pubinclude:IntPolyh_ArrayOfTriangles.hxx IntPolyh:source:IntPolyh_ArrayOfTriangles.hxx
++ IntPolyh:dbadmfile:IntPolyh_obj_inc.In IntPolyh:admfile:IntPolyh_src.Out
++ * IntPolyh:admfile:IntPolyh_xcpp_src.Out
++ IntPolyh:dbadmfile:IntPolyh_obj_inc.Out IntPolyh:admfile:IntPolyh_src.Out
++ * IntPolyh:admfile:IntPolyh_xcpp_src.Out
++ IntPolyh:dbadmfile:IntPolyh_obj_inc.Dep IntPolyh:admfile:IntPolyh_src.Out
++ * IntPolyh:admfile:IntPolyh_xcpp_src.Out

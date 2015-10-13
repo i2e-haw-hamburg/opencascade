@@ -1,0 +1,6 @@
++M MgtTopLoc:pubinclude:MgtTopLoc.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtTopLoc.hxx
++M MgtTopLoc:privinclude:MgtTopLoc.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopLoc/MgtTopLoc.jxx
++M MgtTopLoc:privinclude:MgtTopLoc.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopLoc/MgtTopLoc.ixx
++M MgtTopLoc:dbadmfile:MgtTopLoc_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopLoc/.adm/MgtTopLoc_xcpp_header.In
++M MgtTopLoc:dbadmfile:MgtTopLoc_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopLoc/.adm/MgtTopLoc_xcpp_header.Out
++M MgtTopLoc:dbadmfile:MgtTopLoc_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopLoc/.adm/MgtTopLoc_xcpp_header.Dep

@@ -1,0 +1,13 @@
++V ShapeCustom:msentity:ShapeCustom .
++V ShapeCustom:msentity:ShapeCustom_Surface .
++V ShapeCustom:msentity:ShapeCustom_Curve .
++V ShapeCustom:msentity:ShapeCustom_Curve2d .
++V ShapeCustom:msentity:ShapeCustom_RestrictionParameters .
++V ShapeCustom:msentity:ShapeCustom_Modification .
++V ShapeCustom:msentity:ShapeCustom_DirectModification .
++V ShapeCustom:msentity:ShapeCustom_TrsfModification .
++V ShapeCustom:msentity:ShapeCustom_BSplineRestriction .
++V ShapeCustom:msentity:ShapeCustom_ConvertToRevolution .
++V ShapeCustom:msentity:ShapeCustom_SweptToElementary .
++V ShapeCustom:msentity:ShapeCustom_ConvertToBSpline .
+- ShapeCustom:admfile:ShapeCustom_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeCustom/ShapeCustom_xcpp_fill.Out

@@ -1,0 +1,14 @@
++M MgtTopoDS:pubinclude:MgtTopoDS.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtTopoDS.hxx
++M MgtTopoDS:privinclude:MgtTopoDS.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS.jxx
++M MgtTopoDS:privinclude:MgtTopoDS.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS.ixx
++M MgtTopoDS:pubinclude:Handle_MgtTopoDS_TranslateTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MgtTopoDS_TranslateTool.hxx
++M MgtTopoDS:pubinclude:MgtTopoDS_TranslateTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtTopoDS_TranslateTool.hxx
++M MgtTopoDS:privinclude:MgtTopoDS_TranslateTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS_TranslateTool.jxx
++M MgtTopoDS:privinclude:MgtTopoDS_TranslateTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS_TranslateTool.ixx
++M MgtTopoDS:pubinclude:Handle_MgtTopoDS_TranslateTool1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MgtTopoDS_TranslateTool1.hxx
++M MgtTopoDS:pubinclude:MgtTopoDS_TranslateTool1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MgtTopoDS_TranslateTool1.hxx
++M MgtTopoDS:privinclude:MgtTopoDS_TranslateTool1.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS_TranslateTool1.jxx
++M MgtTopoDS:privinclude:MgtTopoDS_TranslateTool1.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/MgtTopoDS_TranslateTool1.ixx
++M MgtTopoDS:dbadmfile:MgtTopoDS_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/.adm/MgtTopoDS_xcpp_header.In
++M MgtTopoDS:dbadmfile:MgtTopoDS_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/.adm/MgtTopoDS_xcpp_header.Out
++M MgtTopoDS:dbadmfile:MgtTopoDS_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MgtTopoDS/.adm/MgtTopoDS_xcpp_header.Dep

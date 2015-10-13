@@ -1,0 +1,6 @@
++M RWStl:pubinclude:RWStl.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/RWStl.hxx
++M RWStl:privinclude:RWStl.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/RWStl/RWStl.jxx
++M RWStl:privinclude:RWStl.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/RWStl/RWStl.ixx
++M RWStl:dbadmfile:RWStl_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/RWStl/.adm/RWStl_xcpp_header.In
++M RWStl:dbadmfile:RWStl_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/RWStl/.adm/RWStl_xcpp_header.Out
++M RWStl:dbadmfile:RWStl_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/RWStl/.adm/RWStl_xcpp_header.Dep

@@ -1,0 +1,6 @@
++M ShapeCustom:pubinclude:ShapeCustom_Surface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeCustom_Surface.lxx
++M ShapeCustom:pubinclude:ShapeCustom_RestrictionParameters.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeCustom_RestrictionParameters.lxx
++M ShapeCustom:pubinclude:ShapeCustom_BSplineRestriction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeCustom_BSplineRestriction.lxx
++M ShapeCustom:dbadmfile:ShapeCustom_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeCustom/.adm/ShapeCustom_obj_inc.In
++M ShapeCustom:dbadmfile:ShapeCustom_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeCustom/.adm/ShapeCustom_obj_inc.Out
++M ShapeCustom:dbadmfile:ShapeCustom_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeCustom/.adm/ShapeCustom_obj_inc.Dep

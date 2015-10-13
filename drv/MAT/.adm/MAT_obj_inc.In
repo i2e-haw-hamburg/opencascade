@@ -1,0 +1,6 @@
++ MAT:source:MAT_TList.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MAT/MAT_TList.gxx
++ MAT:source:MAT_TList.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MAT/MAT_TList.lxx
++ MAT:source:MAT_TListNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MAT/MAT_TListNode.gxx
++ MAT:source:MAT_TListNode.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/MAT/MAT_TListNode.lxx
+- MAT:admfile:MAT_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MAT/MAT_src.Out
+- MAT:admfile:MAT_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MAT/MAT_xcpp_src.Out

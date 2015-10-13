@@ -1,0 +1,12 @@
++M BRep:pubinclude:BRep_TFace.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_TFace.lxx
++M BRep:pubinclude:BRep_CurveRepresentation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_CurveRepresentation.lxx
++M BRep:pubinclude:BRep_GCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_GCurve.lxx
++M BRep:pubinclude:BRep_CurveOnSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_CurveOnSurface.lxx
++M BRep:pubinclude:BRep_CurveOnClosedSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_CurveOnClosedSurface.lxx
++M BRep:pubinclude:BRep_TEdge.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_TEdge.lxx
++M BRep:pubinclude:BRep_PointRepresentation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_PointRepresentation.lxx
++M BRep:pubinclude:BRep_TVertex.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_TVertex.lxx
++M BRep:pubinclude:BRep_Builder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRep_Builder.lxx
++M BRep:dbadmfile:BRep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRep/.adm/BRep_obj_inc.In
++M BRep:dbadmfile:BRep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRep/.adm/BRep_obj_inc.Out
++M BRep:dbadmfile:BRep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRep/.adm/BRep_obj_inc.Dep

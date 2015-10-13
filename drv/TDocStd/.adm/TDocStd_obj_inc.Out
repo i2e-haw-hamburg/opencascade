@@ -1,0 +1,9 @@
++M TDocStd:pubinclude:TDocStd_Document.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_Document.lxx
++M TDocStd:pubinclude:TDocStd_XLink.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_XLink.lxx
++M TDocStd:pubinclude:TDocStd_XLinkIterator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_XLinkIterator.lxx
++M TDocStd:pubinclude:TDocStd_XLinkRoot.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_XLinkRoot.lxx
++M TDocStd:pubinclude:TDocStd_ApplicationDelta.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_ApplicationDelta.lxx
++M TDocStd:pubinclude:TDocStd_MultiTransactionManager.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TDocStd_MultiTransactionManager.lxx
++M TDocStd:dbadmfile:TDocStd_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDocStd/.adm/TDocStd_obj_inc.In
++M TDocStd:dbadmfile:TDocStd_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDocStd/.adm/TDocStd_obj_inc.Out
++M TDocStd:dbadmfile:TDocStd_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TDocStd/.adm/TDocStd_obj_inc.Dep

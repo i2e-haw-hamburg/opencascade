@@ -1,0 +1,7 @@
++ Xw:pubinclude:Xw_Window.hxx Xw:source:Xw_Window.hxx
++ Xw:dbadmfile:Xw_obj_inc.In Xw:admfile:Xw_src.Out
++ * Xw:admfile:Xw_xcpp_src.Out
++ Xw:dbadmfile:Xw_obj_inc.Out Xw:admfile:Xw_src.Out
++ * Xw:admfile:Xw_xcpp_src.Out
++ Xw:dbadmfile:Xw_obj_inc.Dep Xw:admfile:Xw_src.Out
++ * Xw:admfile:Xw_xcpp_src.Out

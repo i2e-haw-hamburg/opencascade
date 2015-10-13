@@ -1,0 +1,11 @@
++M DrawFairCurve:pubinclude:Handle_DrawFairCurve_Batten.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_DrawFairCurve_Batten.hxx
++M DrawFairCurve:pubinclude:DrawFairCurve_Batten.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawFairCurve_Batten.hxx
++M DrawFairCurve:privinclude:DrawFairCurve_Batten.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/DrawFairCurve_Batten.jxx
++M DrawFairCurve:privinclude:DrawFairCurve_Batten.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/DrawFairCurve_Batten.ixx
++M DrawFairCurve:pubinclude:Handle_DrawFairCurve_MinimalVariation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_DrawFairCurve_MinimalVariation.hxx
++M DrawFairCurve:pubinclude:DrawFairCurve_MinimalVariation.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DrawFairCurve_MinimalVariation.hxx
++M DrawFairCurve:privinclude:DrawFairCurve_MinimalVariation.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/DrawFairCurve_MinimalVariation.jxx
++M DrawFairCurve:privinclude:DrawFairCurve_MinimalVariation.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/DrawFairCurve_MinimalVariation.ixx
++M DrawFairCurve:dbadmfile:DrawFairCurve_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/.adm/DrawFairCurve_xcpp_header.In
++M DrawFairCurve:dbadmfile:DrawFairCurve_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/.adm/DrawFairCurve_xcpp_header.Out
++M DrawFairCurve:dbadmfile:DrawFairCurve_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DrawFairCurve/.adm/DrawFairCurve_xcpp_header.Dep

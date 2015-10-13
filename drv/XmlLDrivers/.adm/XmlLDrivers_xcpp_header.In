@@ -1,0 +1,7 @@
++V XmlLDrivers:msentity:XmlLDrivers .
++V XmlLDrivers:msentity:XmlLDrivers_DocumentStorageDriver .
++V XmlLDrivers:msentity:XmlLDrivers_DocumentRetrievalDriver .
++V XmlLDrivers:msentity:XmlLDrivers_NamespaceDef .
++V XmlLDrivers:msentity:XmlLDrivers_SequenceOfNamespaceDef .
++V XmlLDrivers:msentity:XmlLDrivers_SequenceNodeOfSequenceOfNamespaceDef .
+- XmlLDrivers:admfile:XmlLDrivers_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlLDrivers/XmlLDrivers_xcpp_fill.Out

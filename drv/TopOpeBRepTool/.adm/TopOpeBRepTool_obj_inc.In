@@ -1,0 +1,17 @@
++ TopOpeBRepTool:source:TopOpeBRepTool_PURGE.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_PURGE.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_DRAW.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_DRAW.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_KRO.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_KRO.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_STATE.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_STATE.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_EXPORT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_EXPORT.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_PROJECT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_PROJECT.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_GEOMETRY.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_GEOMETRY.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_TOPOLOGY.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_TOPOLOGY.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_SC.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_SC.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_2d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_2d.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_box.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_box.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_define.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_define.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_defineG.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_defineG.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_tol.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_tol.hxx
++ TopOpeBRepTool:source:TopOpeBRepTool_PurgeInternalEdges.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TopOpeBRepTool/TopOpeBRepTool_PurgeInternalEdges.lxx
+- TopOpeBRepTool:admfile:TopOpeBRepTool_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepTool/TopOpeBRepTool_src.Out
+- TopOpeBRepTool:admfile:TopOpeBRepTool_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TopOpeBRepTool/TopOpeBRepTool_xcpp_src.Out

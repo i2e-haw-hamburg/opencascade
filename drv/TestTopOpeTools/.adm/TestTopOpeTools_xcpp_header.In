@@ -1,0 +1,6 @@
++V TestTopOpeTools:msentity:TestTopOpeTools .
++V TestTopOpeTools:msentity:TestTopOpeTools_Mesure .
++V TestTopOpeTools:msentity:TestTopOpeTools_Array1OfMesure .
++V TestTopOpeTools:msentity:TestTopOpeTools_HArray1OfMesure .
++V TestTopOpeTools:msentity:TestTopOpeTools_PMesure .
+- TestTopOpeTools:admfile:TestTopOpeTools_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TestTopOpeTools/TestTopOpeTools_xcpp_fill.Out

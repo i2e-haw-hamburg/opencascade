@@ -1,0 +1,10 @@
++M XmlMDocStd:pubinclude:XmlMDocStd.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMDocStd.hxx
++M XmlMDocStd:privinclude:XmlMDocStd.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/XmlMDocStd.jxx
++M XmlMDocStd:privinclude:XmlMDocStd.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/XmlMDocStd.ixx
++M XmlMDocStd:pubinclude:Handle_XmlMDocStd_XLinkDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XmlMDocStd_XLinkDriver.hxx
++M XmlMDocStd:pubinclude:XmlMDocStd_XLinkDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlMDocStd_XLinkDriver.hxx
++M XmlMDocStd:privinclude:XmlMDocStd_XLinkDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/XmlMDocStd_XLinkDriver.jxx
++M XmlMDocStd:privinclude:XmlMDocStd_XLinkDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/XmlMDocStd_XLinkDriver.ixx
++M XmlMDocStd:dbadmfile:XmlMDocStd_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/.adm/XmlMDocStd_xcpp_header.In
++M XmlMDocStd:dbadmfile:XmlMDocStd_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/.adm/XmlMDocStd_xcpp_header.Out
++M XmlMDocStd:dbadmfile:XmlMDocStd_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlMDocStd/.adm/XmlMDocStd_xcpp_header.Dep

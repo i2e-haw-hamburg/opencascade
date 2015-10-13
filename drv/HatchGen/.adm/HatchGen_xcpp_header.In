@@ -1,0 +1,14 @@
++V HatchGen:msentity:HatchGen .
++V HatchGen:msentity:HatchGen_IntersectionPoint .
++V HatchGen:msentity:HatchGen_PointOnHatching .
++V HatchGen:msentity:HatchGen_PointsOnHatching .
++V HatchGen:msentity:HatchGen_PointOnElement .
++V HatchGen:msentity:HatchGen_PointsOnElement .
++V HatchGen:msentity:HatchGen_Domain .
++V HatchGen:msentity:HatchGen_Domains .
++V HatchGen:msentity:HatchGen_SequenceNodeOfPointsOnHatching .
++V HatchGen:msentity:HatchGen_SequenceNodeOfPointsOnElement .
++V HatchGen:msentity:HatchGen_SequenceNodeOfDomains .
++V HatchGen:msentity:HatchGen_IntersectionType .
++V HatchGen:msentity:HatchGen_ErrorStatus .
+- HatchGen:admfile:HatchGen_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HatchGen/HatchGen_xcpp_fill.Out

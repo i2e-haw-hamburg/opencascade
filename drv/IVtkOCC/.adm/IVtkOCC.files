@@ -1,0 +1,11 @@
+dbadmfile IVtkOCC_xcpp_header.In
+dbadmfile IVtkOCC_xcpp_header.Out
+dbadmfile IVtkOCC_xcpp_header.Dep
+pubinclude IVtkOCC_SelectableObject.hxx
+pubinclude IVtkOCC_Shape.hxx
+pubinclude IVtkOCC_ShapeMesher.hxx
+pubinclude IVtkOCC_ShapePickerAlgo.hxx
+pubinclude IVtkOCC_ViewerSelector.hxx
+dbadmfile IVtkOCC_obj_inc.In
+dbadmfile IVtkOCC_obj_inc.Out
+dbadmfile IVtkOCC_obj_inc.Dep

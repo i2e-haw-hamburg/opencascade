@@ -1,0 +1,13 @@
++V IGESToBRep:msentity:IGESToBRep .
++V IGESToBRep:msentity:IGESToBRep_CurveAndSurface .
++V IGESToBRep:msentity:IGESToBRep_BasicSurface .
++V IGESToBRep:msentity:IGESToBRep_BasicCurve .
++V IGESToBRep:msentity:IGESToBRep_TopoSurface .
++V IGESToBRep:msentity:IGESToBRep_TopoCurve .
++V IGESToBRep:msentity:IGESToBRep_BRepEntity .
++V IGESToBRep:msentity:IGESToBRep_IGESBoundary .
++V IGESToBRep:msentity:IGESToBRep_Reader .
++V IGESToBRep:msentity:IGESToBRep_Actor .
++V IGESToBRep:msentity:IGESToBRep_AlgoContainer .
++V IGESToBRep:msentity:IGESToBRep_ToolContainer .
+- IGESToBRep:admfile:IGESToBRep_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IGESToBRep/IGESToBRep_xcpp_fill.Out

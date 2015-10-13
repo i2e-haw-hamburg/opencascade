@@ -1,0 +1,8 @@
++M CPnts:pubinclude:CPnts_RealFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CPnts_RealFunction.hxx
++M CPnts:pubinclude:CPnts_MyGaussFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CPnts_MyGaussFunction.lxx
++M CPnts:pubinclude:CPnts_MyRootFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CPnts_MyRootFunction.lxx
++M CPnts:pubinclude:CPnts_AbscissaPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CPnts_AbscissaPoint.lxx
++M CPnts:pubinclude:CPnts_UniformDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/CPnts_UniformDeflection.lxx
++M CPnts:dbadmfile:CPnts_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CPnts/.adm/CPnts_obj_inc.In
++M CPnts:dbadmfile:CPnts_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CPnts/.adm/CPnts_obj_inc.Out
++M CPnts:dbadmfile:CPnts_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/CPnts/.adm/CPnts_obj_inc.Dep

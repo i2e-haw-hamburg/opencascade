@@ -1,0 +1,12 @@
++V XmlMDF:msentity:XmlMDF .
++V XmlMDF:msentity:XmlMDF_ADriver .
++V XmlMDF:msentity:XmlMDF_MapOfDriver .
++V XmlMDF:msentity:XmlMDF_TagSourceDriver .
++V XmlMDF:msentity:XmlMDF_ReferenceDriver .
++V XmlMDF:msentity:XmlMDF_TypeADriverMap .
++V XmlMDF:msentity:XmlMDF_ADriverTable .
++V XmlMDF:msentity:XmlMDF_DataMapNodeOfMapOfDriver .
++V XmlMDF:msentity:XmlMDF_DataMapIteratorOfMapOfDriver .
++V XmlMDF:msentity:XmlMDF_DataMapNodeOfTypeADriverMap .
++V XmlMDF:msentity:XmlMDF_DataMapIteratorOfTypeADriverMap .
+- XmlMDF:admfile:XmlMDF_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlMDF/XmlMDF_xcpp_fill.Out

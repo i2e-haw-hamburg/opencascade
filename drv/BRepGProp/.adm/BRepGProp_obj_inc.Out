@@ -1,0 +1,9 @@
++M BRepGProp:pubinclude:BRepGProp_Gauss.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_Gauss.hxx
++M BRepGProp:pubinclude:BRepGProp_Face.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_Face.lxx
++M BRepGProp:pubinclude:BRepGProp_Domain.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_Domain.lxx
++M BRepGProp:pubinclude:BRepGProp_VinertGK.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_VinertGK.lxx
++M BRepGProp:pubinclude:BRepGProp_UFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_UFunction.lxx
++M BRepGProp:pubinclude:BRepGProp_TFunction.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepGProp_TFunction.lxx
++M BRepGProp:dbadmfile:BRepGProp_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepGProp/.adm/BRepGProp_obj_inc.In
++M BRepGProp:dbadmfile:BRepGProp_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepGProp/.adm/BRepGProp_obj_inc.Out
++M BRepGProp:dbadmfile:BRepGProp_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepGProp/.adm/BRepGProp_obj_inc.Dep

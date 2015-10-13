@@ -1,0 +1,6 @@
++ QABugs:dbadmfile:QABugs_obj_inc.In QABugs:admfile:QABugs_src.Out
++ * QABugs:admfile:QABugs_xcpp_src.Out
++ QABugs:dbadmfile:QABugs_obj_inc.Out QABugs:admfile:QABugs_src.Out
++ * QABugs:admfile:QABugs_xcpp_src.Out
++ QABugs:dbadmfile:QABugs_obj_inc.Dep QABugs:admfile:QABugs_src.Out
++ * QABugs:admfile:QABugs_xcpp_src.Out

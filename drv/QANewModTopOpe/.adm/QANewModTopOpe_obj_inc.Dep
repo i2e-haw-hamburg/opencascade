@@ -1,0 +1,6 @@
++ QANewModTopOpe:dbadmfile:QANewModTopOpe_obj_inc.In QANewModTopOpe:admfile:QANewModTopOpe_src.Out
++ * QANewModTopOpe:admfile:QANewModTopOpe_xcpp_src.Out
++ QANewModTopOpe:dbadmfile:QANewModTopOpe_obj_inc.Out QANewModTopOpe:admfile:QANewModTopOpe_src.Out
++ * QANewModTopOpe:admfile:QANewModTopOpe_xcpp_src.Out
++ QANewModTopOpe:dbadmfile:QANewModTopOpe_obj_inc.Dep QANewModTopOpe:admfile:QANewModTopOpe_src.Out
++ * QANewModTopOpe:admfile:QANewModTopOpe_xcpp_src.Out

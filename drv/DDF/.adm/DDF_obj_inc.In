@@ -1,0 +1,4 @@
++ DDF:source:DDF_AttributeBrowser.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DDF/DDF_AttributeBrowser.hxx
++ DDF:source:DDF_IOStream.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DDF/DDF_IOStream.hxx
+- DDF:admfile:DDF_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DDF/DDF_src.Out
+- DDF:admfile:DDF_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DDF/DDF_xcpp_src.Out

@@ -1,0 +1,7 @@
++ ChFi2d:source:ChFi2d_FilletAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFi2d/ChFi2d_FilletAlgo.hxx
++ ChFi2d:source:ChFi2d_AnaFilletAlgo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFi2d/ChFi2d_AnaFilletAlgo.hxx
++ ChFi2d:source:ChFi2d_ChamferAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFi2d/ChFi2d_ChamferAPI.hxx
++ ChFi2d:source:ChFi2d_FilletAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFi2d/ChFi2d_FilletAPI.hxx
++ ChFi2d:source:ChFi2d_Builder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ChFi2d/ChFi2d_Builder.lxx
+- ChFi2d:admfile:ChFi2d_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFi2d/ChFi2d_src.Out
+- ChFi2d:admfile:ChFi2d_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFi2d/ChFi2d_xcpp_src.Out

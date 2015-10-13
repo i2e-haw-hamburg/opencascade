@@ -1,0 +1,9 @@
+pubinclude QADNaming.hxx
+privinclude QADNaming.jxx
+privinclude QADNaming.ixx
+dbadmfile QADNaming_xcpp_header.In
+dbadmfile QADNaming_xcpp_header.Out
+dbadmfile QADNaming_xcpp_header.Dep
+dbadmfile QADNaming_obj_inc.In
+dbadmfile QADNaming_obj_inc.Out
+dbadmfile QADNaming_obj_inc.Dep

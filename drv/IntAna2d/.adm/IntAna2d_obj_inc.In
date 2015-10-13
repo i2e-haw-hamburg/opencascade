@@ -1,0 +1,5 @@
++ IntAna2d:source:IntAna2d_Outils.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntAna2d/IntAna2d_Outils.hxx
++ IntAna2d:source:IntAna2d_AnaIntersection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntAna2d/IntAna2d_AnaIntersection.lxx
++ IntAna2d:source:IntAna2d_IntPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntAna2d/IntAna2d_IntPoint.lxx
+- IntAna2d:admfile:IntAna2d_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntAna2d/IntAna2d_src.Out
+- IntAna2d:admfile:IntAna2d_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntAna2d/IntAna2d_xcpp_src.Out

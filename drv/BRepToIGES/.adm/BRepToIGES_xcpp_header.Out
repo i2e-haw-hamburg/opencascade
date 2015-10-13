@@ -1,0 +1,15 @@
++M BRepToIGES:pubinclude:BRepToIGES_BREntity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepToIGES_BREntity.hxx
++M BRepToIGES:privinclude:BRepToIGES_BREntity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BREntity.jxx
++M BRepToIGES:privinclude:BRepToIGES_BREntity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BREntity.ixx
++M BRepToIGES:pubinclude:BRepToIGES_BRShell.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepToIGES_BRShell.hxx
++M BRepToIGES:privinclude:BRepToIGES_BRShell.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRShell.jxx
++M BRepToIGES:privinclude:BRepToIGES_BRShell.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRShell.ixx
++M BRepToIGES:pubinclude:BRepToIGES_BRSolid.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepToIGES_BRSolid.hxx
++M BRepToIGES:privinclude:BRepToIGES_BRSolid.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRSolid.jxx
++M BRepToIGES:privinclude:BRepToIGES_BRSolid.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRSolid.ixx
++M BRepToIGES:pubinclude:BRepToIGES_BRWire.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepToIGES_BRWire.hxx
++M BRepToIGES:privinclude:BRepToIGES_BRWire.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRWire.jxx
++M BRepToIGES:privinclude:BRepToIGES_BRWire.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/BRepToIGES_BRWire.ixx
++M BRepToIGES:dbadmfile:BRepToIGES_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/.adm/BRepToIGES_xcpp_header.In
++M BRepToIGES:dbadmfile:BRepToIGES_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/.adm/BRepToIGES_xcpp_header.Out
++M BRepToIGES:dbadmfile:BRepToIGES_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGES/.adm/BRepToIGES_xcpp_header.Dep

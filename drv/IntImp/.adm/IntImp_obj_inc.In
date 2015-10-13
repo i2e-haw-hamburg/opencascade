@@ -1,0 +1,11 @@
++ IntImp:source:IntImp_ComputeTangence.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ComputeTangence.hxx
++ IntImp:source:IntImp_ZerImpFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ZerImpFunc.gxx
++ IntImp:source:IntImp_ZerImpFunc.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ZerImpFunc.lxx
++ IntImp:source:IntImp_ZerParFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ZerParFunc.gxx
++ IntImp:source:IntImp_ZerParFunc.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ZerParFunc.lxx
++ IntImp:source:IntImp_ZerCSParFunc.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_ZerCSParFunc.gxx
++ IntImp:source:IntImp_Int2S.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_Int2S.gxx
++ IntImp:source:IntImp_Int2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_Int2S.lxx
++ IntImp:source:IntImp_IntCS.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntImp/IntImp_IntCS.gxx
+- IntImp:admfile:IntImp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntImp/IntImp_src.Out
+- IntImp:admfile:IntImp_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntImp/IntImp_xcpp_src.Out

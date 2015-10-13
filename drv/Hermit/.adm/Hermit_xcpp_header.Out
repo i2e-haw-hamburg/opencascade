@@ -1,0 +1,6 @@
++M Hermit:pubinclude:Hermit.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Hermit.hxx
++M Hermit:privinclude:Hermit.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hermit/Hermit.jxx
++M Hermit:privinclude:Hermit.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hermit/Hermit.ixx
++M Hermit:dbadmfile:Hermit_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hermit/.adm/Hermit_xcpp_header.In
++M Hermit:dbadmfile:Hermit_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hermit/.adm/Hermit_xcpp_header.Out
++M Hermit:dbadmfile:Hermit_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Hermit/.adm/Hermit_xcpp_header.Dep

@@ -1,0 +1,6 @@
++M StlTransfer:pubinclude:StlTransfer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StlTransfer.hxx
++M StlTransfer:privinclude:StlTransfer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlTransfer/StlTransfer.jxx
++M StlTransfer:privinclude:StlTransfer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlTransfer/StlTransfer.ixx
++M StlTransfer:dbadmfile:StlTransfer_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlTransfer/.adm/StlTransfer_xcpp_header.In
++M StlTransfer:dbadmfile:StlTransfer_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlTransfer/.adm/StlTransfer_xcpp_header.Out
++M StlTransfer:dbadmfile:StlTransfer_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlTransfer/.adm/StlTransfer_xcpp_header.Dep

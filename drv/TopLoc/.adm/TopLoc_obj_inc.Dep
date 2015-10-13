@@ -1,0 +1,10 @@
++ TopLoc:pubinclude:TopLoc_Datum3D.lxx TopLoc:source:TopLoc_Datum3D.lxx
++ TopLoc:pubinclude:TopLoc_SListOfItemLocation.lxx TopLoc:source:TopLoc_SListOfItemLocation.lxx
++ TopLoc:pubinclude:TopLoc_SListNodeOfItemLocation.lxx TopLoc:source:TopLoc_SListNodeOfItemLocation.lxx
++ TopLoc:pubinclude:TopLoc_Location.lxx TopLoc:source:TopLoc_Location.lxx
++ TopLoc:dbadmfile:TopLoc_obj_inc.In TopLoc:admfile:TopLoc_src.Out
++ * TopLoc:admfile:TopLoc_xcpp_src.Out
++ TopLoc:dbadmfile:TopLoc_obj_inc.Out TopLoc:admfile:TopLoc_src.Out
++ * TopLoc:admfile:TopLoc_xcpp_src.Out
++ TopLoc:dbadmfile:TopLoc_obj_inc.Dep TopLoc:admfile:TopLoc_src.Out
++ * TopLoc:admfile:TopLoc_xcpp_src.Out

@@ -1,0 +1,10 @@
++V GccInt:msentity:GccInt .
++V GccInt:msentity:GccInt_Bisec .
++V GccInt:msentity:GccInt_BCirc .
++V GccInt:msentity:GccInt_BElips .
++V GccInt:msentity:GccInt_BLine .
++V GccInt:msentity:GccInt_BParab .
++V GccInt:msentity:GccInt_BPoint .
++V GccInt:msentity:GccInt_BHyper .
++V GccInt:msentity:GccInt_IType .
+- GccInt:admfile:GccInt_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GccInt/GccInt_xcpp_fill.Out

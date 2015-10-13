@@ -1,0 +1,3 @@
++ TestTopOpeTools:source:TestTopOpeTools_Trace.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/TestTopOpeTools/TestTopOpeTools_Trace.hxx
+- TestTopOpeTools:admfile:TestTopOpeTools_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TestTopOpeTools/TestTopOpeTools_src.Out
+- TestTopOpeTools:admfile:TestTopOpeTools_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/TestTopOpeTools/TestTopOpeTools_xcpp_src.Out

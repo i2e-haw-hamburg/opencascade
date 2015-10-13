@@ -1,0 +1,5 @@
++V XSAlgo:msentity:XSAlgo .
++V XSAlgo:msentity:XSAlgo_ToolContainer .
++V XSAlgo:msentity:XSAlgo_AlgoContainer .
++V XSAlgo:msentity:XSAlgo_Caller .
+- XSAlgo:admfile:XSAlgo_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XSAlgo/XSAlgo_xcpp_fill.Out

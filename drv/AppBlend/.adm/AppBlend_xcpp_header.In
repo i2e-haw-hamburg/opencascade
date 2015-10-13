@@ -1,0 +1,4 @@
++V AppBlend:msentity:AppBlend .
++V AppBlend:msentity:AppBlend_Approx .
++V AppBlend:msentity:AppBlend_AppSurf .
+- AppBlend:admfile:AppBlend_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/AppBlend/AppBlend_xcpp_fill.Out

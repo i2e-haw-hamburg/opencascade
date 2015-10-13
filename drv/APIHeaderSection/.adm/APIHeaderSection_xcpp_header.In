@@ -1,0 +1,4 @@
++V APIHeaderSection:msentity:APIHeaderSection .
++V APIHeaderSection:msentity:APIHeaderSection_MakeHeader .
++V APIHeaderSection:msentity:APIHeaderSection_EditHeader .
+- APIHeaderSection:admfile:APIHeaderSection_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/APIHeaderSection/APIHeaderSection_xcpp_fill.Out

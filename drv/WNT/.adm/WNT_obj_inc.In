@@ -1,0 +1,6 @@
++ WNT:source:WNT_Dword.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/WNT/WNT_Dword.hxx
++ WNT:source:WNT_Uint.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/WNT/WNT_Uint.hxx
++ WNT:source:WNT_Window.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/WNT/WNT_Window.lxx
++ WNT:source:WNT_WClass.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/WNT/WNT_WClass.lxx
+- WNT:admfile:WNT_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/WNT/WNT_src.Out
+- WNT:admfile:WNT_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/WNT/WNT_xcpp_src.Out

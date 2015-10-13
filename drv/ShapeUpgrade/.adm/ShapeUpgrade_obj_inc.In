@@ -1,0 +1,12 @@
++ ShapeUpgrade:source:ShapeUpgrade_Tool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_Tool.lxx
++ ShapeUpgrade:source:ShapeUpgrade_EdgeDivide.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_EdgeDivide.lxx
++ ShapeUpgrade:source:ShapeUpgrade_FaceDivideArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_FaceDivideArea.lxx
++ ShapeUpgrade:source:ShapeUpgrade_ShapeDivideArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_ShapeDivideArea.lxx
++ ShapeUpgrade:source:ShapeUpgrade_ShapeConvertToBezier.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_ShapeConvertToBezier.lxx
++ ShapeUpgrade:source:ShapeUpgrade_ConvertCurve3dToBezier.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_ConvertCurve3dToBezier.lxx
++ ShapeUpgrade:source:ShapeUpgrade_ConvertSurfaceToBezierBasis.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_ConvertSurfaceToBezierBasis.lxx
++ ShapeUpgrade:source:ShapeUpgrade_SplitSurfaceArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_SplitSurfaceArea.lxx
++ ShapeUpgrade:source:ShapeUpgrade_RemoveLocations.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_RemoveLocations.lxx
++ ShapeUpgrade:source:ShapeUpgrade_RemoveInternalWires.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeUpgrade/ShapeUpgrade_RemoveInternalWires.lxx
+- ShapeUpgrade:admfile:ShapeUpgrade_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeUpgrade/ShapeUpgrade_src.Out
+- ShapeUpgrade:admfile:ShapeUpgrade_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeUpgrade/ShapeUpgrade_xcpp_src.Out

@@ -1,0 +1,15 @@
++M GCPnts:pubinclude:GCPnts_AbscissaPoint.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_AbscissaPoint.gxx
++M GCPnts:pubinclude:GCPnts_UniformDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_UniformDeflection.gxx
++M GCPnts:pubinclude:GCPnts_UniformAbscissa.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_UniformAbscissa.gxx
++M GCPnts:pubinclude:GCPnts_QuasiUniformAbscissa.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_QuasiUniformAbscissa.gxx
++M GCPnts:pubinclude:GCPnts_QuasiUniformDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_QuasiUniformDeflection.gxx
++M GCPnts:pubinclude:GCPnts_TangentialDeflection.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_TangentialDeflection.gxx
++M GCPnts:pubinclude:GCPnts_AbscissaPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_AbscissaPoint.lxx
++M GCPnts:pubinclude:GCPnts_UniformAbscissa.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_UniformAbscissa.lxx
++M GCPnts:pubinclude:GCPnts_UniformDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_UniformDeflection.lxx
++M GCPnts:pubinclude:GCPnts_QuasiUniformDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_QuasiUniformDeflection.lxx
++M GCPnts:pubinclude:GCPnts_QuasiUniformAbscissa.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_QuasiUniformAbscissa.lxx
++M GCPnts:pubinclude:GCPnts_TangentialDeflection.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GCPnts_TangentialDeflection.lxx
++M GCPnts:dbadmfile:GCPnts_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCPnts/.adm/GCPnts_obj_inc.In
++M GCPnts:dbadmfile:GCPnts_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCPnts/.adm/GCPnts_obj_inc.Out
++M GCPnts:dbadmfile:GCPnts_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GCPnts/.adm/GCPnts_obj_inc.Dep

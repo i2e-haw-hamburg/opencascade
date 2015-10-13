@@ -1,0 +1,17 @@
++M XmlObjMgt:pubinclude:XmlObjMgt.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt.hxx
++M XmlObjMgt:privinclude:XmlObjMgt.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt.jxx
++M XmlObjMgt:privinclude:XmlObjMgt.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt.ixx
++M XmlObjMgt:pubinclude:XmlObjMgt_Persistent.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt_Persistent.hxx
++M XmlObjMgt:privinclude:XmlObjMgt_Persistent.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_Persistent.jxx
++M XmlObjMgt:privinclude:XmlObjMgt_Persistent.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_Persistent.ixx
++M XmlObjMgt:pubinclude:XmlObjMgt_GP.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt_GP.hxx
++M XmlObjMgt:privinclude:XmlObjMgt_GP.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_GP.jxx
++M XmlObjMgt:privinclude:XmlObjMgt_GP.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_GP.ixx
++M XmlObjMgt:pubinclude:XmlObjMgt_Array1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt_Array1.hxx
++M XmlObjMgt:privinclude:XmlObjMgt_Array1.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_Array1.jxx
++M XmlObjMgt:privinclude:XmlObjMgt_Array1.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/XmlObjMgt_Array1.ixx
++M XmlObjMgt:pubinclude:XmlObjMgt_SRelocationTable.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt_SRelocationTable.hxx
++M XmlObjMgt:pubinclude:XmlObjMgt_RRelocationTable.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XmlObjMgt_RRelocationTable.hxx
++M XmlObjMgt:dbadmfile:XmlObjMgt_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/.adm/XmlObjMgt_xcpp_header.In
++M XmlObjMgt:dbadmfile:XmlObjMgt_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/.adm/XmlObjMgt_xcpp_header.Out
++M XmlObjMgt:dbadmfile:XmlObjMgt_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XmlObjMgt/.adm/XmlObjMgt_xcpp_header.Dep

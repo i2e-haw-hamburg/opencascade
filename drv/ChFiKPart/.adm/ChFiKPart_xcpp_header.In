@@ -1,0 +1,6 @@
++V ChFiKPart:msentity:ChFiKPart .
++V ChFiKPart:msentity:ChFiKPart_RstMap .
++V ChFiKPart:msentity:ChFiKPart_ComputeData .
++V ChFiKPart:msentity:ChFiKPart_DataMapNodeOfRstMap .
++V ChFiKPart:msentity:ChFiKPart_DataMapIteratorOfRstMap .
+- ChFiKPart:admfile:ChFiKPart_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFiKPart/ChFiKPart_xcpp_fill.Out

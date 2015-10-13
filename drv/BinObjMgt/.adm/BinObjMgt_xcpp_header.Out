@@ -1,0 +1,8 @@
++M BinObjMgt:pubinclude:BinObjMgt_Persistent.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_Persistent.hxx
++M BinObjMgt:privinclude:BinObjMgt_Persistent.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/BinObjMgt_Persistent.jxx
++M BinObjMgt:privinclude:BinObjMgt_Persistent.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/BinObjMgt_Persistent.ixx
++M BinObjMgt:pubinclude:BinObjMgt_SRelocationTable.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_SRelocationTable.hxx
++M BinObjMgt:pubinclude:BinObjMgt_RRelocationTable.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_RRelocationTable.hxx
++M BinObjMgt:dbadmfile:BinObjMgt_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_xcpp_header.In
++M BinObjMgt:dbadmfile:BinObjMgt_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_xcpp_header.Out
++M BinObjMgt:dbadmfile:BinObjMgt_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_xcpp_header.Dep

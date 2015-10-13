@@ -1,0 +1,7 @@
++M MMgt:pubinclude:Handle_MMgt_TShared.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_MMgt_TShared.hxx
++M MMgt:pubinclude:MMgt_TShared.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MMgt_TShared.hxx
++M MMgt:privinclude:MMgt_TShared.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MMgt/MMgt_TShared.jxx
++M MMgt:privinclude:MMgt_TShared.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MMgt/MMgt_TShared.ixx
++M MMgt:dbadmfile:MMgt_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MMgt/.adm/MMgt_xcpp_header.In
++M MMgt:dbadmfile:MMgt_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MMgt/.adm/MMgt_xcpp_header.Out
++M MMgt:dbadmfile:MMgt_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MMgt/.adm/MMgt_xcpp_header.Dep

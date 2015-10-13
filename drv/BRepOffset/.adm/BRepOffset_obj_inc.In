@@ -1,0 +1,4 @@
++ BRepOffset:source:BRepOffset_Offset.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepOffset/BRepOffset_Offset.lxx
++ BRepOffset:source:BRepOffset_Interval.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepOffset/BRepOffset_Interval.lxx
+- BRepOffset:admfile:BRepOffset_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepOffset/BRepOffset_src.Out
+- BRepOffset:admfile:BRepOffset_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepOffset/BRepOffset_xcpp_src.Out

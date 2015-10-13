@@ -1,0 +1,10 @@
++V BRepAlgoAPI:msentity:BRepAlgoAPI .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_BooleanOperation .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Fuse .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Common .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Cut .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Section .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Check .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_Algo .
++V BRepAlgoAPI:msentity:BRepAlgoAPI_BuilderAlgo .
+- BRepAlgoAPI:admfile:BRepAlgoAPI_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepAlgoAPI/BRepAlgoAPI_xcpp_fill.Out

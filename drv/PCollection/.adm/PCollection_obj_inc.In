@@ -1,0 +1,9 @@
++ PCollection:source:PCollection_HArray1.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_HArray1.gxx
++ PCollection:source:PCollection_HArray1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_HArray1.lxx
++ PCollection:source:PCollection_HArray2.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_HArray2.gxx
++ PCollection:source:PCollection_HArray2.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_HArray2.lxx
++ PCollection:source:PCollection_HSequence.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_HSequence.gxx
++ PCollection:source:PCollection_SeqNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_SeqNode.gxx
++ PCollection:source:PCollection_SeqExplorer.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PCollection/PCollection_SeqExplorer.gxx
+- PCollection:admfile:PCollection_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PCollection/PCollection_src.Out
+- PCollection:admfile:PCollection_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PCollection/PCollection_xcpp_src.Out

@@ -1,0 +1,16 @@
++ WNT:pubinclude:Handle_WNT_Window.hxx WNT:msentity:WNT_Window
++ WNT:pubinclude:WNT_Window.hxx WNT:msentity:WNT_Window
++ WNT:privinclude:WNT_Window.jxx WNT:msentity:WNT_Window
++ WNT:privinclude:WNT_Window.ixx WNT:msentity:WNT_Window
++ WNT:pubinclude:Handle_WNT_WClass.hxx WNT:msentity:WNT_WClass
++ WNT:pubinclude:WNT_WClass.hxx WNT:msentity:WNT_WClass
++ WNT:privinclude:WNT_WClass.jxx WNT:msentity:WNT_WClass
++ WNT:privinclude:WNT_WClass.ixx WNT:msentity:WNT_WClass
++ WNT:pubinclude:Handle_WNT_ClassDefinitionError.hxx WNT:msentity:WNT_ClassDefinitionError
++ WNT:pubinclude:WNT_ClassDefinitionError.hxx WNT:msentity:WNT_ClassDefinitionError
++ WNT:derivated:WNT_ClassDefinitionError_0.cxx WNT:msentity:WNT_ClassDefinitionError
++ WNT:pubinclude:WNT_OrientationType.hxx WNT:msentity:WNT_OrientationType
++ WNT:pubinclude:WNT_WindowPtr.hxx WNT:msentity:WNT_WindowPtr
++ WNT:dbadmfile:WNT_xcpp_header.In WNT:admfile:WNT_xcpp_fill.Out
++ WNT:dbadmfile:WNT_xcpp_header.Out WNT:admfile:WNT_xcpp_fill.Out
++ WNT:dbadmfile:WNT_xcpp_header.Dep WNT:admfile:WNT_xcpp_fill.Out

@@ -1,0 +1,8 @@
++M IntAna:pubinclude:IntAna_QuadQuadGeo.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna_QuadQuadGeo.lxx
++M IntAna:pubinclude:IntAna_IntQuadQuad.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna_IntQuadQuad.lxx
++M IntAna:pubinclude:IntAna_Int3Pln.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna_Int3Pln.lxx
++M IntAna:pubinclude:IntAna_IntLinTorus.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna_IntLinTorus.lxx
++M IntAna:pubinclude:IntAna_IntConicQuad.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntAna_IntConicQuad.lxx
++M IntAna:dbadmfile:IntAna_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna/.adm/IntAna_obj_inc.In
++M IntAna:dbadmfile:IntAna_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna/.adm/IntAna_obj_inc.Out
++M IntAna:dbadmfile:IntAna_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntAna/.adm/IntAna_obj_inc.Dep

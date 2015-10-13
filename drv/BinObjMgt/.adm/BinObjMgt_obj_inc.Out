@@ -1,0 +1,10 @@
++M BinObjMgt:pubinclude:BinObjMgt_PChar.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PChar.hxx
++M BinObjMgt:pubinclude:BinObjMgt_PExtChar.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PExtChar.hxx
++M BinObjMgt:pubinclude:BinObjMgt_PInteger.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PInteger.hxx
++M BinObjMgt:pubinclude:BinObjMgt_PReal.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PReal.hxx
++M BinObjMgt:pubinclude:BinObjMgt_PShortReal.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PShortReal.hxx
++M BinObjMgt:pubinclude:BinObjMgt_PByte.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_PByte.hxx
++M BinObjMgt:pubinclude:BinObjMgt_Persistent.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinObjMgt_Persistent.lxx
++M BinObjMgt:dbadmfile:BinObjMgt_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_obj_inc.In
++M BinObjMgt:dbadmfile:BinObjMgt_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_obj_inc.Out
++M BinObjMgt:dbadmfile:BinObjMgt_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinObjMgt/.adm/BinObjMgt_obj_inc.Dep

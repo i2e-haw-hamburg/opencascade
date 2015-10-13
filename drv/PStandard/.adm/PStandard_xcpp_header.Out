@@ -1,0 +1,7 @@
++M PStandard:pubinclude:Handle_PStandard_ArrayNode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PStandard_ArrayNode.hxx
++M PStandard:pubinclude:PStandard_ArrayNode.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PStandard_ArrayNode.hxx
++M PStandard:privinclude:PStandard_ArrayNode.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PStandard/PStandard_ArrayNode.jxx
++M PStandard:privinclude:PStandard_ArrayNode.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PStandard/PStandard_ArrayNode.ixx
++M PStandard:dbadmfile:PStandard_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PStandard/.adm/PStandard_xcpp_header.In
++M PStandard:dbadmfile:PStandard_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PStandard/.adm/PStandard_xcpp_header.Out
++M PStandard:dbadmfile:PStandard_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PStandard/.adm/PStandard_xcpp_header.Dep

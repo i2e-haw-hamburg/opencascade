@@ -1,0 +1,4 @@
++ ShapeExtend:source:ShapeExtend_ComplexCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeExtend/ShapeExtend_ComplexCurve.lxx
++ ShapeExtend:source:ShapeExtend_MsgRegistrator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeExtend/ShapeExtend_MsgRegistrator.lxx
+- ShapeExtend:admfile:ShapeExtend_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeExtend/ShapeExtend_src.Out
+- ShapeExtend:admfile:ShapeExtend_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeExtend/ShapeExtend_xcpp_src.Out

@@ -1,0 +1,8 @@
++ Storage:source:Storage_Macros.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_Macros.hxx
++ Storage:source:Storage_BucketOfPersistent.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_BucketOfPersistent.hxx
++ Storage:source:Storage_Position.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_Position.hxx
++ Storage:source:Storage_Container.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_Container.hxx
++ Storage:source:Storage_BaseDriver.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_BaseDriver.lxx
++ Storage:source:Storage_Schema.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Storage/Storage_Schema.lxx
+- Storage:admfile:Storage_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Storage/Storage_src.Out
+- Storage:admfile:Storage_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Storage/Storage_xcpp_src.Out

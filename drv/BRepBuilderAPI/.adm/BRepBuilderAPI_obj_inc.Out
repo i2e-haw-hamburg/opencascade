@@ -1,0 +1,8 @@
++M BRepBuilderAPI:pubinclude:BRepBuilderAPI_VertexInspector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBuilderAPI_VertexInspector.hxx
++M BRepBuilderAPI:pubinclude:BRepBuilderAPI_CellFilter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBuilderAPI_CellFilter.hxx
++M BRepBuilderAPI:pubinclude:BRepBuilderAPI_BndBoxTreeSelector.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBuilderAPI_BndBoxTreeSelector.hxx
++M BRepBuilderAPI:pubinclude:BRepBuilderAPI_FastSewing.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBuilderAPI_FastSewing.hxx
++M BRepBuilderAPI:pubinclude:BRepBuilderAPI_Sewing.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBuilderAPI_Sewing.lxx
++M BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBuilderAPI/.adm/BRepBuilderAPI_obj_inc.In
++M BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBuilderAPI/.adm/BRepBuilderAPI_obj_inc.Out
++M BRepBuilderAPI:dbadmfile:BRepBuilderAPI_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBuilderAPI/.adm/BRepBuilderAPI_obj_inc.Dep

@@ -1,0 +1,15 @@
++M IntSurf:pubinclude:IntSurf_Allocator.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_Allocator.hxx
++M IntSurf:pubinclude:IntSurf_SequenceOfPntOn2S.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_SequenceOfPntOn2S.hxx
++M IntSurf:pubinclude:IntSurf_PntOn2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_PntOn2S.lxx
++M IntSurf:pubinclude:IntSurf_Couple.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_Couple.lxx
++M IntSurf:pubinclude:IntSurf_LineOn2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_LineOn2S.lxx
++M IntSurf:pubinclude:IntSurf_Quadric.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_Quadric.lxx
++M IntSurf:pubinclude:IntSurf_QuadricTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_QuadricTool.lxx
++M IntSurf:pubinclude:IntSurf_PathPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_PathPoint.lxx
++M IntSurf:pubinclude:IntSurf_PathPointTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_PathPointTool.lxx
++M IntSurf:pubinclude:IntSurf_InteriorPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_InteriorPoint.lxx
++M IntSurf:pubinclude:IntSurf_InteriorPointTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_InteriorPointTool.lxx
++M IntSurf:pubinclude:IntSurf_Transition.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntSurf_Transition.lxx
++M IntSurf:dbadmfile:IntSurf_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntSurf/.adm/IntSurf_obj_inc.In
++M IntSurf:dbadmfile:IntSurf_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntSurf/.adm/IntSurf_obj_inc.Out
++M IntSurf:dbadmfile:IntSurf_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntSurf/.adm/IntSurf_obj_inc.Dep

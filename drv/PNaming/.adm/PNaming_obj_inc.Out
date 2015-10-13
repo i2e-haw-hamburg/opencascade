@@ -1,0 +1,6 @@
++M PNaming:pubinclude:PNaming_Name.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PNaming_Name.lxx
++M PNaming:pubinclude:PNaming_Name_1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PNaming_Name_1.lxx
++M PNaming:pubinclude:PNaming_Name_2.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PNaming_Name_2.lxx
++M PNaming:dbadmfile:PNaming_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PNaming/.adm/PNaming_obj_inc.In
++M PNaming:dbadmfile:PNaming_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PNaming/.adm/PNaming_obj_inc.Out
++M PNaming:dbadmfile:PNaming_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PNaming/.adm/PNaming_obj_inc.Dep

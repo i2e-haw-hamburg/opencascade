@@ -1,0 +1,14 @@
++M BinXCAFDrivers:pubinclude:BinXCAFDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinXCAFDrivers.hxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers.jxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers.ixx
++M BinXCAFDrivers:pubinclude:Handle_BinXCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinXCAFDrivers_DocumentStorageDriver.hxx
++M BinXCAFDrivers:pubinclude:BinXCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinXCAFDrivers_DocumentStorageDriver.hxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers_DocumentStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers_DocumentStorageDriver.jxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers_DocumentStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers_DocumentStorageDriver.ixx
++M BinXCAFDrivers:pubinclude:Handle_BinXCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinXCAFDrivers_DocumentRetrievalDriver.hxx
++M BinXCAFDrivers:pubinclude:BinXCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinXCAFDrivers_DocumentRetrievalDriver.hxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers_DocumentRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers_DocumentRetrievalDriver.jxx
++M BinXCAFDrivers:privinclude:BinXCAFDrivers_DocumentRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/BinXCAFDrivers_DocumentRetrievalDriver.ixx
++M BinXCAFDrivers:dbadmfile:BinXCAFDrivers_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/.adm/BinXCAFDrivers_xcpp_header.In
++M BinXCAFDrivers:dbadmfile:BinXCAFDrivers_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/.adm/BinXCAFDrivers_xcpp_header.Out
++M BinXCAFDrivers:dbadmfile:BinXCAFDrivers_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinXCAFDrivers/.adm/BinXCAFDrivers_xcpp_header.Dep

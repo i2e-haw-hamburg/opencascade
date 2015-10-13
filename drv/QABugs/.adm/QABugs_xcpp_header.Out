@@ -1,0 +1,14 @@
++M QABugs:pubinclude:QABugs.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/QABugs.hxx
++M QABugs:privinclude:QABugs.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs.jxx
++M QABugs:privinclude:QABugs.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs.ixx
++M QABugs:pubinclude:Handle_QABugs_MyText.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_QABugs_MyText.hxx
++M QABugs:pubinclude:QABugs_MyText.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/QABugs_MyText.hxx
++M QABugs:privinclude:QABugs_MyText.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs_MyText.jxx
++M QABugs:privinclude:QABugs_MyText.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs_MyText.ixx
++M QABugs:pubinclude:Handle_QABugs_PresentableObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_QABugs_PresentableObject.hxx
++M QABugs:pubinclude:QABugs_PresentableObject.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/QABugs_PresentableObject.hxx
++M QABugs:privinclude:QABugs_PresentableObject.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs_PresentableObject.jxx
++M QABugs:privinclude:QABugs_PresentableObject.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/QABugs_PresentableObject.ixx
++M QABugs:dbadmfile:QABugs_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/.adm/QABugs_xcpp_header.In
++M QABugs:dbadmfile:QABugs_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/.adm/QABugs_xcpp_header.Out
++M QABugs:dbadmfile:QABugs_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/QABugs/.adm/QABugs_xcpp_header.Dep

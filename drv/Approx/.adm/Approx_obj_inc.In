@@ -1,0 +1,7 @@
++ Approx:source:Approx_ComputeLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Approx/Approx_ComputeLine.gxx
++ Approx:source:Approx_ComputeCLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Approx/Approx_ComputeCLine.gxx
++ Approx:source:Approx_BSplComputeLine.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Approx/Approx_BSplComputeLine.gxx
++ Approx:source:Approx_SweepApproximation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Approx/Approx_SweepApproximation.lxx
++ Approx:source:Approx_SameParameter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Approx/Approx_SameParameter.lxx
+- Approx:admfile:Approx_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Approx/Approx_src.Out
+- Approx:admfile:Approx_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Approx/Approx_xcpp_src.Out

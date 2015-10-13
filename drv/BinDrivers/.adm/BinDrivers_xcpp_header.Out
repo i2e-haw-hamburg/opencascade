@@ -1,0 +1,14 @@
++M BinDrivers:pubinclude:BinDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinDrivers.hxx
++M BinDrivers:privinclude:BinDrivers.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers.jxx
++M BinDrivers:privinclude:BinDrivers.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers.ixx
++M BinDrivers:pubinclude:Handle_BinDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinDrivers_DocumentStorageDriver.hxx
++M BinDrivers:pubinclude:BinDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinDrivers_DocumentStorageDriver.hxx
++M BinDrivers:privinclude:BinDrivers_DocumentStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers_DocumentStorageDriver.jxx
++M BinDrivers:privinclude:BinDrivers_DocumentStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers_DocumentStorageDriver.ixx
++M BinDrivers:pubinclude:Handle_BinDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BinDrivers_DocumentRetrievalDriver.hxx
++M BinDrivers:pubinclude:BinDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BinDrivers_DocumentRetrievalDriver.hxx
++M BinDrivers:privinclude:BinDrivers_DocumentRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers_DocumentRetrievalDriver.jxx
++M BinDrivers:privinclude:BinDrivers_DocumentRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/BinDrivers_DocumentRetrievalDriver.ixx
++M BinDrivers:dbadmfile:BinDrivers_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/.adm/BinDrivers_xcpp_header.In
++M BinDrivers:dbadmfile:BinDrivers_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/.adm/BinDrivers_xcpp_header.Out
++M BinDrivers:dbadmfile:BinDrivers_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BinDrivers/.adm/BinDrivers_xcpp_header.Dep

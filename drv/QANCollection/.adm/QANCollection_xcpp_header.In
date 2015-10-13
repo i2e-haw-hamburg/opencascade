@@ -1,0 +1,13 @@
++V QANCollection:msentity:QANCollection .
++V QANCollection:msentity:QANCollection_ListOfPnt .
++V QANCollection:msentity:QANCollection_DataMapOfRealPnt .
++V QANCollection:msentity:QANCollection_IndexedDataMapOfRealPnt .
++V QANCollection:msentity:QANCollection_DoubleMapOfRealInteger .
++V QANCollection:msentity:QANCollection_ListNodeOfListOfPnt .
++V QANCollection:msentity:QANCollection_ListIteratorOfListOfPnt .
++V QANCollection:msentity:QANCollection_DataMapNodeOfDataMapOfRealPnt .
++V QANCollection:msentity:QANCollection_DataMapIteratorOfDataMapOfRealPnt .
++V QANCollection:msentity:QANCollection_IndexedDataMapNodeOfIndexedDataMapOfRealPnt .
++V QANCollection:msentity:QANCollection_DoubleMapNodeOfDoubleMapOfRealInteger .
++V QANCollection:msentity:QANCollection_DoubleMapIteratorOfDoubleMapOfRealInteger .
+- QANCollection:admfile:QANCollection_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/QANCollection/QANCollection_xcpp_fill.Out

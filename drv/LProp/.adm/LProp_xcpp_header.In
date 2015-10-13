@@ -1,0 +1,12 @@
++V LProp:msentity:LProp .
++V LProp:msentity:LProp_CLProps .
++V LProp:msentity:LProp_SLProps .
++V LProp:msentity:LProp_CurAndInf .
++V LProp:msentity:LProp_AnalyticCurInf .
++V LProp:msentity:LProp_SequenceOfCIType .
++V LProp:msentity:LProp_SequenceNodeOfSequenceOfCIType .
++V LProp:msentity:LProp_BadContinuity .
++V LProp:msentity:LProp_NotDefined .
++V LProp:msentity:LProp_Status .
++V LProp:msentity:LProp_CIType .
+- LProp:admfile:LProp_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LProp/LProp_xcpp_fill.Out

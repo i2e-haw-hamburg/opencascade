@@ -1,0 +1,6 @@
++ HLRTopoBRep:source:HLRTopoBRep_VData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTopoBRep/HLRTopoBRep_VData.lxx
++ HLRTopoBRep:source:HLRTopoBRep_FaceData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTopoBRep/HLRTopoBRep_FaceData.lxx
++ HLRTopoBRep:source:HLRTopoBRep_Data.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTopoBRep/HLRTopoBRep_Data.lxx
++ HLRTopoBRep:source:HLRTopoBRep_OutLiner.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/HLRTopoBRep/HLRTopoBRep_OutLiner.lxx
+- HLRTopoBRep:admfile:HLRTopoBRep_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTopoBRep/HLRTopoBRep_src.Out
+- HLRTopoBRep:admfile:HLRTopoBRep_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTopoBRep/HLRTopoBRep_xcpp_src.Out

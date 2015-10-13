@@ -1,0 +1,17 @@
++V HLRTopoBRep:msentity:HLRTopoBRep .
++V HLRTopoBRep:msentity:HLRTopoBRep_VData .
++V HLRTopoBRep:msentity:HLRTopoBRep_ListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_MapOfShapeListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_FaceData .
++V HLRTopoBRep:msentity:HLRTopoBRep_DataMapOfShapeFaceData .
++V HLRTopoBRep:msentity:HLRTopoBRep_Data .
++V HLRTopoBRep:msentity:HLRTopoBRep_FaceIsoLiner .
++V HLRTopoBRep:msentity:HLRTopoBRep_OutLiner .
++V HLRTopoBRep:msentity:HLRTopoBRep_DSFiller .
++V HLRTopoBRep:msentity:HLRTopoBRep_ListNodeOfListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_ListIteratorOfListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_DataMapNodeOfMapOfShapeListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_DataMapIteratorOfMapOfShapeListOfVData .
++V HLRTopoBRep:msentity:HLRTopoBRep_DataMapNodeOfDataMapOfShapeFaceData .
++V HLRTopoBRep:msentity:HLRTopoBRep_DataMapIteratorOfDataMapOfShapeFaceData .
+- HLRTopoBRep:admfile:HLRTopoBRep_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTopoBRep/HLRTopoBRep_xcpp_fill.Out

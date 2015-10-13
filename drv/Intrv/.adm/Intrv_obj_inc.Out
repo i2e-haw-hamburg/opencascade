@@ -1,0 +1,5 @@
++M Intrv:pubinclude:Intrv_Interval.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_Interval.lxx
++M Intrv:pubinclude:Intrv_Intervals.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intrv_Intervals.lxx
++M Intrv:dbadmfile:Intrv_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_obj_inc.In
++M Intrv:dbadmfile:Intrv_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_obj_inc.Out
++M Intrv:dbadmfile:Intrv_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intrv/.adm/Intrv_obj_inc.Dep

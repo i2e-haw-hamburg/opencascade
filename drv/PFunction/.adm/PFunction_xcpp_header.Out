@@ -1,0 +1,7 @@
++M PFunction:pubinclude:Handle_PFunction_Function.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_PFunction_Function.hxx
++M PFunction:pubinclude:PFunction_Function.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/PFunction_Function.hxx
++M PFunction:privinclude:PFunction_Function.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PFunction/PFunction_Function.jxx
++M PFunction:privinclude:PFunction_Function.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PFunction/PFunction_Function.ixx
++M PFunction:dbadmfile:PFunction_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PFunction/.adm/PFunction_xcpp_header.In
++M PFunction:dbadmfile:PFunction_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PFunction/.adm/PFunction_xcpp_header.Out
++M PFunction:dbadmfile:PFunction_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/PFunction/.adm/PFunction_xcpp_header.Dep

@@ -1,0 +1,13 @@
++ BOPTools:source:BOPTools_ConnexityBlock.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ConnexityBlock.hxx
++ BOPTools:source:BOPTools_ListOfConnexityBlock.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ListOfConnexityBlock.hxx
++ BOPTools:source:BOPTools_ListOfShapeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ListOfShapeSet.hxx
++ BOPTools:source:BOPTools_CoupleOfShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_CoupleOfShape.hxx
++ BOPTools:source:BOPTools_ListOfCoupleOfShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ListOfCoupleOfShape.hxx
++ BOPTools:source:BOPTools_ListOfEdgeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ListOfEdgeSet.hxx
++ BOPTools:source:BOPTools_MapOfSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_MapOfSet.hxx
++ BOPTools:source:BOPTools_DataMapOfShapeSet.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_DataMapOfShapeSet.hxx
++ BOPTools:source:BOPTools_ShapeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_ShapeSet.lxx
++ BOPTools:source:BOPTools_EdgeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_EdgeSet.lxx
++ BOPTools:source:BOPTools_SetMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPTools/BOPTools_SetMapHasher.lxx
+- BOPTools:admfile:BOPTools_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BOPTools/BOPTools_src.Out
+- BOPTools:admfile:BOPTools_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BOPTools/BOPTools_xcpp_src.Out

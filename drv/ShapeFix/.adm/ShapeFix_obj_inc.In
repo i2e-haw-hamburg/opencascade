@@ -1,0 +1,11 @@
++ ShapeFix:source:ShapeFix_Root.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Root.lxx
++ ShapeFix:source:ShapeFix_Wire.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Wire.lxx
++ ShapeFix:source:ShapeFix_Face.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Face.lxx
++ ShapeFix:source:ShapeFix_Wireframe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Wireframe.lxx
++ ShapeFix:source:ShapeFix_FreeBounds.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_FreeBounds.lxx
++ ShapeFix:source:ShapeFix_Shell.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Shell.lxx
++ ShapeFix:source:ShapeFix_Solid.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Solid.lxx
++ ShapeFix:source:ShapeFix_Shape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_Shape.lxx
++ ShapeFix:source:ShapeFix_IntersectionTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeFix/ShapeFix_IntersectionTool.lxx
+- ShapeFix:admfile:ShapeFix_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeFix/ShapeFix_src.Out
+- ShapeFix:admfile:ShapeFix_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeFix/ShapeFix_xcpp_src.Out

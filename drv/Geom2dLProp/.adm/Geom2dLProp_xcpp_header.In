@@ -1,0 +1,8 @@
++V Geom2dLProp:msentity:Geom2dLProp .
++V Geom2dLProp:msentity:Geom2dLProp_Curve2dTool .
++V Geom2dLProp:msentity:Geom2dLProp_CLProps2d .
++V Geom2dLProp:msentity:Geom2dLProp_CurAndInf2d .
++V Geom2dLProp:msentity:Geom2dLProp_FuncCurExt .
++V Geom2dLProp:msentity:Geom2dLProp_FuncCurNul .
++V Geom2dLProp:msentity:Geom2dLProp_NumericCurInf2d .
+- Geom2dLProp:admfile:Geom2dLProp_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dLProp/Geom2dLProp_xcpp_fill.Out

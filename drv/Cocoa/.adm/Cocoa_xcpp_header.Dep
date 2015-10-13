@@ -1,0 +1,3 @@
++ Cocoa:dbadmfile:Cocoa_xcpp_header.In Cocoa:admfile:Cocoa_xcpp_fill.Out
++ Cocoa:dbadmfile:Cocoa_xcpp_header.Out Cocoa:admfile:Cocoa_xcpp_fill.Out
++ Cocoa:dbadmfile:Cocoa_xcpp_header.Dep Cocoa:admfile:Cocoa_xcpp_fill.Out

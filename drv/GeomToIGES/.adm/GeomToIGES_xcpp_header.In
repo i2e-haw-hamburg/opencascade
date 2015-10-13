@@ -1,0 +1,7 @@
++V GeomToIGES:msentity:GeomToIGES .
++V GeomToIGES:msentity:GeomToIGES_GeomCurve .
++V GeomToIGES:msentity:GeomToIGES_GeomEntity .
++V GeomToIGES:msentity:GeomToIGES_GeomPoint .
++V GeomToIGES:msentity:GeomToIGES_GeomSurface .
++V GeomToIGES:msentity:GeomToIGES_GeomVector .
+- GeomToIGES:admfile:GeomToIGES_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/GeomToIGES/GeomToIGES_xcpp_fill.Out

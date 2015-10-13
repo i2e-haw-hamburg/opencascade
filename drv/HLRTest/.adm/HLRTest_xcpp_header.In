@@ -1,0 +1,7 @@
++V HLRTest:msentity:HLRTest .
++V HLRTest:msentity:HLRTest_ShapeData .
++V HLRTest:msentity:HLRTest_DrawableEdgeTool .
++V HLRTest:msentity:HLRTest_DrawablePolyEdgeTool .
++V HLRTest:msentity:HLRTest_Projector .
++V HLRTest:msentity:HLRTest_OutLiner .
+- HLRTest:admfile:HLRTest_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/HLRTest/HLRTest_xcpp_fill.Out

@@ -1,0 +1,14 @@
++M XCAFDrivers:pubinclude:XCAFDrivers.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XCAFDrivers.hxx
++M XCAFDrivers:privinclude:XCAFDrivers.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers.jxx
++M XCAFDrivers:privinclude:XCAFDrivers.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers.ixx
++M XCAFDrivers:pubinclude:Handle_XCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XCAFDrivers_DocumentRetrievalDriver.hxx
++M XCAFDrivers:pubinclude:XCAFDrivers_DocumentRetrievalDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XCAFDrivers_DocumentRetrievalDriver.hxx
++M XCAFDrivers:privinclude:XCAFDrivers_DocumentRetrievalDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers_DocumentRetrievalDriver.jxx
++M XCAFDrivers:privinclude:XCAFDrivers_DocumentRetrievalDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers_DocumentRetrievalDriver.ixx
++M XCAFDrivers:pubinclude:Handle_XCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_XCAFDrivers_DocumentStorageDriver.hxx
++M XCAFDrivers:pubinclude:XCAFDrivers_DocumentStorageDriver.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/XCAFDrivers_DocumentStorageDriver.hxx
++M XCAFDrivers:privinclude:XCAFDrivers_DocumentStorageDriver.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers_DocumentStorageDriver.jxx
++M XCAFDrivers:privinclude:XCAFDrivers_DocumentStorageDriver.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/XCAFDrivers_DocumentStorageDriver.ixx
++M XCAFDrivers:dbadmfile:XCAFDrivers_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/.adm/XCAFDrivers_xcpp_header.In
++M XCAFDrivers:dbadmfile:XCAFDrivers_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/.adm/XCAFDrivers_xcpp_header.Out
++M XCAFDrivers:dbadmfile:XCAFDrivers_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/XCAFDrivers/.adm/XCAFDrivers_xcpp_header.Dep

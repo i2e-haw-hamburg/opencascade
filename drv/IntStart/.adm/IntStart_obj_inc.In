@@ -1,0 +1,10 @@
++ IntStart:source:IntStart_Segment.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_Segment.gxx
++ IntStart:source:IntStart_Segment.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_Segment.lxx
++ IntStart:source:IntStart_PathPoint.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_PathPoint.gxx
++ IntStart:source:IntStart_PathPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_PathPoint.lxx
++ IntStart:source:IntStart_SearchOnBoundaries.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_SearchOnBoundaries.gxx
++ IntStart:source:IntStart_SearchOnBoundaries.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_SearchOnBoundaries.lxx
++ IntStart:source:IntStart_SearchInside.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_SearchInside.gxx
++ IntStart:source:IntStart_SearchInside.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntStart/IntStart_SearchInside.lxx
+- IntStart:admfile:IntStart_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntStart/IntStart_src.Out
+- IntStart:admfile:IntStart_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntStart/IntStart_xcpp_src.Out

@@ -1,0 +1,6 @@
++M TObjDRAW:pubinclude:TObjDRAW.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TObjDRAW.hxx
++M TObjDRAW:privinclude:TObjDRAW.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TObjDRAW/TObjDRAW.jxx
++M TObjDRAW:privinclude:TObjDRAW.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TObjDRAW/TObjDRAW.ixx
++M TObjDRAW:dbadmfile:TObjDRAW_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TObjDRAW/.adm/TObjDRAW_xcpp_header.In
++M TObjDRAW:dbadmfile:TObjDRAW_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TObjDRAW/.adm/TObjDRAW_xcpp_header.Out
++M TObjDRAW:dbadmfile:TObjDRAW_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TObjDRAW/.adm/TObjDRAW_xcpp_header.Dep

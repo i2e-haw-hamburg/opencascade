@@ -1,0 +1,15 @@
++ IntTools:source:IntTools_EdgeEdge.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_EdgeEdge.lxx
++ IntTools:source:IntTools_MarkedRangeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_MarkedRangeSet.lxx
++ IntTools:source:IntTools_BaseRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_BaseRangeSample.lxx
++ IntTools:source:IntTools_CurveRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_CurveRangeSample.lxx
++ IntTools:source:IntTools_SurfaceRangeSample.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_SurfaceRangeSample.lxx
++ IntTools:source:IntTools_CurveRangeLocalizeData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_CurveRangeLocalizeData.lxx
++ IntTools:source:IntTools_SurfaceRangeLocalizeData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_SurfaceRangeLocalizeData.lxx
++ IntTools:source:IntTools_BeanFaceIntersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_BeanFaceIntersector.lxx
++ IntTools:source:IntTools_Curve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_Curve.lxx
++ IntTools:source:IntTools_CArray1.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_CArray1.gxx
++ IntTools:source:IntTools_CArray1.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_CArray1.lxx
++ IntTools:source:IntTools_CurveRangeSampleMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_CurveRangeSampleMapHasher.lxx
++ IntTools:source:IntTools_SurfaceRangeSampleMapHasher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntTools/IntTools_SurfaceRangeSampleMapHasher.lxx
+- IntTools:admfile:IntTools_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntTools/IntTools_src.Out
+- IntTools:admfile:IntTools_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntTools/IntTools_xcpp_src.Out

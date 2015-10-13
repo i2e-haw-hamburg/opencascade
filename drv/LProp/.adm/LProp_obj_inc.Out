@@ -1,0 +1,5 @@
++M LProp:pubinclude:LProp_CLProps.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp_CLProps.gxx
++M LProp:pubinclude:LProp_SLProps.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/LProp_SLProps.gxx
++M LProp:dbadmfile:LProp_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp/.adm/LProp_obj_inc.In
++M LProp:dbadmfile:LProp_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp/.adm/LProp_obj_inc.Out
++M LProp:dbadmfile:LProp_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/LProp/.adm/LProp_obj_inc.Dep

@@ -1,0 +1,8 @@
++ Expr:source:Expr_Operators.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_Operators.hxx
++ Expr:source:Expr_NamedConstant.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_NamedConstant.lxx
++ Expr:source:Expr_NamedUnknown.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_NamedUnknown.lxx
++ Expr:source:Expr_UnaryExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_UnaryExpression.lxx
++ Expr:source:Expr_BinaryExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_BinaryExpression.lxx
++ Expr:source:Expr_PolyExpression.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Expr/Expr_PolyExpression.lxx
+- Expr:admfile:Expr_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Expr/Expr_src.Out
+- Expr:admfile:Expr_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Expr/Expr_xcpp_src.Out

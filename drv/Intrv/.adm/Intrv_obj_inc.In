@@ -1,0 +1,4 @@
++ Intrv:source:Intrv_Interval.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intrv/Intrv_Interval.lxx
++ Intrv:source:Intrv_Intervals.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Intrv/Intrv_Intervals.lxx
+- Intrv:admfile:Intrv_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Intrv/Intrv_src.Out
+- Intrv:admfile:Intrv_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Intrv/Intrv_xcpp_src.Out

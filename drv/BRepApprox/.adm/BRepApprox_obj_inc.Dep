@@ -1,0 +1,7 @@
++ BRepApprox:pubinclude:BRepApprox_SurfaceTool.lxx BRepApprox:source:BRepApprox_SurfaceTool.lxx
++ BRepApprox:dbadmfile:BRepApprox_obj_inc.In BRepApprox:admfile:BRepApprox_src.Out
++ * BRepApprox:admfile:BRepApprox_xcpp_src.Out
++ BRepApprox:dbadmfile:BRepApprox_obj_inc.Out BRepApprox:admfile:BRepApprox_src.Out
++ * BRepApprox:admfile:BRepApprox_xcpp_src.Out
++ BRepApprox:dbadmfile:BRepApprox_obj_inc.Dep BRepApprox:admfile:BRepApprox_src.Out
++ * BRepApprox:admfile:BRepApprox_xcpp_src.Out

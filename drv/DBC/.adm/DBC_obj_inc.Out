@@ -1,0 +1,10 @@
++M DBC:pubinclude:DBC_BaseArray_objs.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_BaseArray_objs.hxx
++M DBC:pubinclude:DBC_DBVArray.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_DBVArray.hxx
++M DBC:pubinclude:DBC_BaseArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_BaseArray.lxx
++M DBC:pubinclude:DBC_VArray.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_VArray.gxx
++M DBC:pubinclude:DBC_VArrayNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_VArrayNode.gxx
++M DBC:pubinclude:DBC_VArrayTNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_VArrayTNode.gxx
++M DBC:pubinclude:DBC_VArrayTNode.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DBC_VArrayTNode.lxx
++M DBC:dbadmfile:DBC_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DBC/.adm/DBC_obj_inc.In
++M DBC:dbadmfile:DBC_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DBC/.adm/DBC_obj_inc.Out
++M DBC:dbadmfile:DBC_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DBC/.adm/DBC_obj_inc.Dep

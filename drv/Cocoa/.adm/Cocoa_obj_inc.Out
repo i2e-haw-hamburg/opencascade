@@ -1,0 +1,5 @@
++M Cocoa:pubinclude:Cocoa_LocalPool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Cocoa_LocalPool.hxx
++M Cocoa:pubinclude:Cocoa_Window.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Cocoa_Window.hxx
++M Cocoa:dbadmfile:Cocoa_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Cocoa/.adm/Cocoa_obj_inc.In
++M Cocoa:dbadmfile:Cocoa_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Cocoa/.adm/Cocoa_obj_inc.Out
++M Cocoa:dbadmfile:Cocoa_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Cocoa/.adm/Cocoa_obj_inc.Dep

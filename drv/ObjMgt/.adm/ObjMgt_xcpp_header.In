@@ -1,0 +1,7 @@
++V ObjMgt:msentity:ObjMgt .
++V ObjMgt:msentity:ObjMgt_ExternShareable .
++V ObjMgt:msentity:ObjMgt_ExternRef .
++V ObjMgt:msentity:ObjMgt_PSeqOfExtRef .
++V ObjMgt:msentity:ObjMgt_SeqNodeOfPSeqOfExtRef .
++V ObjMgt:msentity:ObjMgt_SeqExplorerOfPSeqOfExtRef .
+- ObjMgt:admfile:ObjMgt_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ObjMgt/ObjMgt_xcpp_fill.Out

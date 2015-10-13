@@ -1,0 +1,6 @@
++M BRepExtrema:pubinclude:Handle_BRepExtrema_UnCompatibleShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_BRepExtrema_UnCompatibleShape.hxx
++M BRepExtrema:pubinclude:BRepExtrema_UnCompatibleShape.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepExtrema_UnCompatibleShape.hxx
++M BRepExtrema:derivated:BRepExtrema_UnCompatibleShape_0.cxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepExtrema/BRepExtrema_UnCompatibleShape_0.cxx
++M BRepExtrema:dbadmfile:BRepExtrema_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepExtrema/.adm/BRepExtrema_xcpp_header.In
++M BRepExtrema:dbadmfile:BRepExtrema_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepExtrema/.adm/BRepExtrema_xcpp_header.Out
++M BRepExtrema:dbadmfile:BRepExtrema_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepExtrema/.adm/BRepExtrema_xcpp_header.Dep

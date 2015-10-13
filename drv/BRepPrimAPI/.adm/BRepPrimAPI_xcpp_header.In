@@ -1,0 +1,14 @@
++V BRepPrimAPI:msentity:BRepPrimAPI .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeHalfSpace .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeBox .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeWedge .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeOneAxis .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeCylinder .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeCone .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeSphere .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeTorus .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeRevolution .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeSweep .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakePrism .
++V BRepPrimAPI:msentity:BRepPrimAPI_MakeRevol .
+- BRepPrimAPI:admfile:BRepPrimAPI_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepPrimAPI/BRepPrimAPI_xcpp_fill.Out

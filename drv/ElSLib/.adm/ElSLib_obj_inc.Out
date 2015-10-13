@@ -1,0 +1,4 @@
++M ElSLib:pubinclude:ElSLib.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ElSLib.lxx
++M ElSLib:dbadmfile:ElSLib_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElSLib/.adm/ElSLib_obj_inc.In
++M ElSLib:dbadmfile:ElSLib_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElSLib/.adm/ElSLib_obj_inc.Out
++M ElSLib:dbadmfile:ElSLib_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ElSLib/.adm/ElSLib_obj_inc.Dep

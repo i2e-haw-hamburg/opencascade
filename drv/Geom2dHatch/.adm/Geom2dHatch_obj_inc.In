@@ -1,0 +1,4 @@
++ Geom2dHatch:source:Geom2dHatch_Intersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Geom2dHatch/Geom2dHatch_Intersector.lxx
++ Geom2dHatch:source:Geom2dHatch_Hatcher.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Geom2dHatch/Geom2dHatch_Hatcher.lxx
+- Geom2dHatch:admfile:Geom2dHatch_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dHatch/Geom2dHatch_src.Out
+- Geom2dHatch:admfile:Geom2dHatch_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dHatch/Geom2dHatch_xcpp_src.Out

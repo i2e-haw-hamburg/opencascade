@@ -1,0 +1,6 @@
++ QADraw:dbadmfile:QADraw_obj_inc.In QADraw:admfile:QADraw_src.Out
++ * QADraw:admfile:QADraw_xcpp_src.Out
++ QADraw:dbadmfile:QADraw_obj_inc.Out QADraw:admfile:QADraw_src.Out
++ * QADraw:admfile:QADraw_xcpp_src.Out
++ QADraw:dbadmfile:QADraw_obj_inc.Dep QADraw:admfile:QADraw_src.Out
++ * QADraw:admfile:QADraw_xcpp_src.Out

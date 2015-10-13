@@ -1,0 +1,17 @@
++ LocOpe:source:LocOpe_SplitShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_SplitShape.lxx
++ LocOpe:source:LocOpe_WiresOnShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_WiresOnShape.lxx
++ LocOpe:source:LocOpe_Spliter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_Spliter.lxx
++ LocOpe:source:LocOpe_Generator.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_Generator.lxx
++ LocOpe:source:LocOpe_Pipe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_Pipe.lxx
++ LocOpe:source:LocOpe_LinearForm.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_LinearForm.lxx
++ LocOpe:source:LocOpe_Gluer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_Gluer.lxx
++ LocOpe:source:LocOpe_FindEdges.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_FindEdges.lxx
++ LocOpe:source:LocOpe_FindEdgesInFace.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_FindEdgesInFace.lxx
++ LocOpe:source:LocOpe_PntFace.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_PntFace.lxx
++ LocOpe:source:LocOpe_CurveShapeIntersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_CurveShapeIntersector.lxx
++ LocOpe:source:LocOpe_CSIntersector.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_CSIntersector.lxx
++ LocOpe:source:LocOpe_BuildShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_BuildShape.lxx
++ LocOpe:source:LocOpe_SplitDrafts.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_SplitDrafts.lxx
++ LocOpe:source:LocOpe_HBuilder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/LocOpe/LocOpe_HBuilder.lxx
+- LocOpe:admfile:LocOpe_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LocOpe/LocOpe_src.Out
+- LocOpe:admfile:LocOpe_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/LocOpe/LocOpe_xcpp_src.Out

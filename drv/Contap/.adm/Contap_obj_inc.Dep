@@ -1,0 +1,13 @@
++ Contap:pubinclude:Contap_Point.lxx Contap:source:Contap_Point.lxx
++ Contap:pubinclude:Contap_Line.lxx Contap:source:Contap_Line.lxx
++ Contap:pubinclude:Contap_SurfFunction.lxx Contap:source:Contap_SurfFunction.lxx
++ Contap:pubinclude:Contap_ArcFunction.lxx Contap:source:Contap_ArcFunction.lxx
++ Contap:pubinclude:Contap_Contour.lxx Contap:source:Contap_Contour.lxx
++ Contap:pubinclude:Contap_ContAna.lxx Contap:source:Contap_ContAna.lxx
++ Contap:pubinclude:Contap_HCurve2dTool.lxx Contap:source:Contap_HCurve2dTool.lxx
++ Contap:dbadmfile:Contap_obj_inc.In Contap:admfile:Contap_src.Out
++ * Contap:admfile:Contap_xcpp_src.Out
++ Contap:dbadmfile:Contap_obj_inc.Out Contap:admfile:Contap_src.Out
++ * Contap:admfile:Contap_xcpp_src.Out
++ Contap:dbadmfile:Contap_obj_inc.Dep Contap:admfile:Contap_src.Out
++ * Contap:admfile:Contap_xcpp_src.Out

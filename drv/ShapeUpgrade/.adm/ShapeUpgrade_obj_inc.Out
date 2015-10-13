@@ -1,0 +1,13 @@
++M ShapeUpgrade:pubinclude:ShapeUpgrade_Tool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_Tool.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_EdgeDivide.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_EdgeDivide.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_FaceDivideArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_FaceDivideArea.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_ShapeDivideArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_ShapeDivideArea.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_ShapeConvertToBezier.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_ShapeConvertToBezier.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_ConvertCurve3dToBezier.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_ConvertCurve3dToBezier.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_ConvertSurfaceToBezierBasis.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_ConvertSurfaceToBezierBasis.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_SplitSurfaceArea.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_SplitSurfaceArea.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_RemoveLocations.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_RemoveLocations.lxx
++M ShapeUpgrade:pubinclude:ShapeUpgrade_RemoveInternalWires.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/ShapeUpgrade_RemoveInternalWires.lxx
++M ShapeUpgrade:dbadmfile:ShapeUpgrade_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeUpgrade/.adm/ShapeUpgrade_obj_inc.In
++M ShapeUpgrade:dbadmfile:ShapeUpgrade_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeUpgrade/.adm/ShapeUpgrade_obj_inc.Out
++M ShapeUpgrade:dbadmfile:ShapeUpgrade_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/ShapeUpgrade/.adm/ShapeUpgrade_obj_inc.Dep

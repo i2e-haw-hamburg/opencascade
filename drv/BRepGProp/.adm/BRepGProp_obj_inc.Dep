@@ -1,0 +1,12 @@
++ BRepGProp:pubinclude:BRepGProp_Gauss.hxx BRepGProp:source:BRepGProp_Gauss.hxx
++ BRepGProp:pubinclude:BRepGProp_Face.lxx BRepGProp:source:BRepGProp_Face.lxx
++ BRepGProp:pubinclude:BRepGProp_Domain.lxx BRepGProp:source:BRepGProp_Domain.lxx
++ BRepGProp:pubinclude:BRepGProp_VinertGK.lxx BRepGProp:source:BRepGProp_VinertGK.lxx
++ BRepGProp:pubinclude:BRepGProp_UFunction.lxx BRepGProp:source:BRepGProp_UFunction.lxx
++ BRepGProp:pubinclude:BRepGProp_TFunction.lxx BRepGProp:source:BRepGProp_TFunction.lxx
++ BRepGProp:dbadmfile:BRepGProp_obj_inc.In BRepGProp:admfile:BRepGProp_src.Out
++ * BRepGProp:admfile:BRepGProp_xcpp_src.Out
++ BRepGProp:dbadmfile:BRepGProp_obj_inc.Out BRepGProp:admfile:BRepGProp_src.Out
++ * BRepGProp:admfile:BRepGProp_xcpp_src.Out
++ BRepGProp:dbadmfile:BRepGProp_obj_inc.Dep BRepGProp:admfile:BRepGProp_src.Out
++ * BRepGProp:admfile:BRepGProp_xcpp_src.Out

@@ -1,0 +1,12 @@
++M BRepBlend:pubinclude:BRepBlend_PointOnRst.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_PointOnRst.lxx
++M BRepBlend:pubinclude:BRepBlend_Extremity.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_Extremity.lxx
++M BRepBlend:pubinclude:BRepBlend_Line.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_Line.lxx
++M BRepBlend:pubinclude:BRepBlend_HCurveTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_HCurveTool.lxx
++M BRepBlend:pubinclude:BRepBlend_HCurve2dTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_HCurve2dTool.lxx
++M BRepBlend:pubinclude:BRepBlend_BlendTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_BlendTool.lxx
++M BRepBlend:pubinclude:BRepBlend_AppSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_AppSurface.lxx
++M BRepBlend:pubinclude:BRepBlend_SurfRstLineBuilder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_SurfRstLineBuilder.lxx
++M BRepBlend:pubinclude:BRepBlend_RstRstLineBuilder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepBlend_RstRstLineBuilder.lxx
++M BRepBlend:dbadmfile:BRepBlend_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBlend/.adm/BRepBlend_obj_inc.In
++M BRepBlend:dbadmfile:BRepBlend_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBlend/.adm/BRepBlend_obj_inc.Out
++M BRepBlend:dbadmfile:BRepBlend_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepBlend/.adm/BRepBlend_obj_inc.Dep

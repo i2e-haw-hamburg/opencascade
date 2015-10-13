@@ -1,0 +1,9 @@
++M Intf:pubinclude:Intf_Polygon2d.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_Polygon2d.lxx
++M Intf:pubinclude:Intf_SectionPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_SectionPoint.lxx
++M Intf:pubinclude:Intf_SectionLine.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_SectionLine.lxx
++M Intf:pubinclude:Intf_TangentZone.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_TangentZone.lxx
++M Intf:pubinclude:Intf_Interference.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_Interference.lxx
++M Intf:pubinclude:Intf_InterferencePolygonPolyhedron.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Intf_InterferencePolygonPolyhedron.gxx
++M Intf:dbadmfile:Intf_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intf/.adm/Intf_obj_inc.In
++M Intf:dbadmfile:Intf_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intf/.adm/Intf_obj_inc.Out
++M Intf:dbadmfile:Intf_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Intf/.adm/Intf_obj_inc.Dep

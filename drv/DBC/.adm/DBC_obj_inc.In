@@ -1,0 +1,9 @@
++ DBC:source:DBC_BaseArray_objs.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_BaseArray_objs.hxx
++ DBC:source:DBC_DBVArray.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_DBVArray.hxx
++ DBC:source:DBC_BaseArray.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_BaseArray.lxx
++ DBC:source:DBC_VArray.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_VArray.gxx
++ DBC:source:DBC_VArrayNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_VArrayNode.gxx
++ DBC:source:DBC_VArrayTNode.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_VArrayTNode.gxx
++ DBC:source:DBC_VArrayTNode.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/DBC/DBC_VArrayTNode.lxx
+- DBC:admfile:DBC_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DBC/DBC_src.Out
+- DBC:admfile:DBC_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/DBC/DBC_xcpp_src.Out

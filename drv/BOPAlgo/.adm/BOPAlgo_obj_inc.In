@@ -1,0 +1,8 @@
++ BOPAlgo:source:BOPAlgo_ListOfCheckResult.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_ListOfCheckResult.hxx
++ BOPAlgo:source:BOPAlgo_WireEdgeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_WireEdgeSet.lxx
++ BOPAlgo:source:BOPAlgo_WireSplitter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_WireSplitter.lxx
++ BOPAlgo:source:BOPAlgo_SectionAttribute.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_SectionAttribute.lxx
++ BOPAlgo:source:BOPAlgo_ArgumentAnalyzer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_ArgumentAnalyzer.lxx
++ BOPAlgo:source:BOPAlgo_MakerVolume.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BOPAlgo/BOPAlgo_MakerVolume.lxx
+- BOPAlgo:admfile:BOPAlgo_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BOPAlgo/BOPAlgo_src.Out
+- BOPAlgo:admfile:BOPAlgo_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BOPAlgo/BOPAlgo_xcpp_src.Out

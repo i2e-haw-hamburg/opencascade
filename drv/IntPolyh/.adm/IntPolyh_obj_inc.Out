@@ -1,0 +1,11 @@
++M IntPolyh:pubinclude:IntPolyh_Array.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_Array.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfSectionLines.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfSectionLines.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfCouples.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfCouples.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfEdges.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfEdges.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfPoints.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfPoints.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfStartPoints.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfStartPoints.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfTangentZones.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfTangentZones.hxx
++M IntPolyh:pubinclude:IntPolyh_ArrayOfTriangles.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntPolyh_ArrayOfTriangles.hxx
++M IntPolyh:dbadmfile:IntPolyh_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntPolyh/.adm/IntPolyh_obj_inc.In
++M IntPolyh:dbadmfile:IntPolyh_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntPolyh/.adm/IntPolyh_obj_inc.Out
++M IntPolyh:dbadmfile:IntPolyh_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntPolyh/.adm/IntPolyh_obj_inc.Dep

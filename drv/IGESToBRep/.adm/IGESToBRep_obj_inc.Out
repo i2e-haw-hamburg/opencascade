@@ -1,0 +1,6 @@
++M IGESToBRep:pubinclude:IGESToBRep_CurveAndSurface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESToBRep_CurveAndSurface.lxx
++M IGESToBRep:pubinclude:IGESToBRep_IGESBoundary.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESToBRep_IGESBoundary.lxx
++M IGESToBRep:pubinclude:IGESToBRep_AlgoContainer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IGESToBRep_AlgoContainer.lxx
++M IGESToBRep:dbadmfile:IGESToBRep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESToBRep/.adm/IGESToBRep_obj_inc.In
++M IGESToBRep:dbadmfile:IGESToBRep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESToBRep/.adm/IGESToBRep_obj_inc.Out
++M IGESToBRep:dbadmfile:IGESToBRep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IGESToBRep/.adm/IGESToBRep_obj_inc.Dep

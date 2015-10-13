@@ -1,0 +1,14 @@
++ IntSurf:source:IntSurf_Allocator.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_Allocator.hxx
++ IntSurf:source:IntSurf_SequenceOfPntOn2S.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_SequenceOfPntOn2S.hxx
++ IntSurf:source:IntSurf_PntOn2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_PntOn2S.lxx
++ IntSurf:source:IntSurf_Couple.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_Couple.lxx
++ IntSurf:source:IntSurf_LineOn2S.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_LineOn2S.lxx
++ IntSurf:source:IntSurf_Quadric.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_Quadric.lxx
++ IntSurf:source:IntSurf_QuadricTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_QuadricTool.lxx
++ IntSurf:source:IntSurf_PathPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_PathPoint.lxx
++ IntSurf:source:IntSurf_PathPointTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_PathPointTool.lxx
++ IntSurf:source:IntSurf_InteriorPoint.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_InteriorPoint.lxx
++ IntSurf:source:IntSurf_InteriorPointTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_InteriorPointTool.lxx
++ IntSurf:source:IntSurf_Transition.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IntSurf/IntSurf_Transition.lxx
+- IntSurf:admfile:IntSurf_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntSurf/IntSurf_src.Out
+- IntSurf:admfile:IntSurf_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntSurf/IntSurf_xcpp_src.Out

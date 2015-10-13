@@ -1,0 +1,6 @@
++ QANewDBRepNaming:pubinclude:QANewDBRepNaming.hxx QANewDBRepNaming:msentity:QANewDBRepNaming
++ QANewDBRepNaming:privinclude:QANewDBRepNaming.jxx QANewDBRepNaming:msentity:QANewDBRepNaming
++ QANewDBRepNaming:privinclude:QANewDBRepNaming.ixx QANewDBRepNaming:msentity:QANewDBRepNaming
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_xcpp_header.In QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_fill.Out
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_xcpp_header.Out QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_fill.Out
++ QANewDBRepNaming:dbadmfile:QANewDBRepNaming_xcpp_header.Dep QANewDBRepNaming:admfile:QANewDBRepNaming_xcpp_fill.Out

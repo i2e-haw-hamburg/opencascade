@@ -1,0 +1,6 @@
++ Transfer:source:Transfer_Mapper.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Transfer/Transfer_Mapper.gxx
++ Transfer:source:Transfer_TransferProcess.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Transfer/Transfer_TransferProcess.gxx
++ Transfer:source:Transfer_Iterator.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Transfer/Transfer_Iterator.gxx
++ Transfer:source:Transfer_Actor.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Transfer/Transfer_Actor.gxx
+- Transfer:admfile:Transfer_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Transfer/Transfer_src.Out
+- Transfer:admfile:Transfer_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Transfer/Transfer_xcpp_src.Out

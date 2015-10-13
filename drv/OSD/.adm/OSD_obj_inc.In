@@ -1,0 +1,15 @@
++ OSD:source:OSD_Function.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_Function.hxx
++ OSD:source:OSD_ErrorList.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_ErrorList.hxx
++ OSD:source:OSD_WNT.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_WNT.hxx
++ OSD:source:OSD_WNT_1.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_WNT_1.hxx
++ OSD:source:OSD_WNT_BREAK.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_WNT_BREAK.hxx
++ OSD:source:OSD_ThreadFunction.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_ThreadFunction.hxx
++ OSD:source:OSD_PThread.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_PThread.hxx
++ OSD:source:OSD_PerfMeter.h /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_PerfMeter.h
++ OSD:source:OSD_PerfMeter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_PerfMeter.hxx
++ OSD:source:OSD_MAllocHook.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_MAllocHook.hxx
++ OSD:source:OSD_MemInfo.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_MemInfo.hxx
++ OSD:source:OSD_Parallel.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_Parallel.hxx
++ OSD:source:OSD_OpenFile.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/OSD/OSD_OpenFile.hxx
+- OSD:admfile:OSD_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/OSD/OSD_src.Out
+- OSD:admfile:OSD_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/OSD/OSD_xcpp_src.Out

@@ -1,0 +1,6 @@
++V SelectBasics:msentity:SelectBasics .
++V SelectBasics:msentity:SelectBasics_EntityOwner .
++V SelectBasics:msentity:SelectBasics_SensitiveEntity .
++V SelectBasics:msentity:SelectBasics_PickResult .
++V SelectBasics:msentity:SelectBasics_SelectingVolumeManager .
+- SelectBasics:admfile:SelectBasics_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/SelectBasics/SelectBasics_xcpp_fill.Out

@@ -1,0 +1,4 @@
++ BRepClass:source:BRepClass_Edge.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepClass/BRepClass_Edge.lxx
++ BRepClass:source:BRepClass_FaceExplorer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepClass/BRepClass_FaceExplorer.lxx
+- BRepClass:admfile:BRepClass_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepClass/BRepClass_src.Out
+- BRepClass:admfile:BRepClass_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepClass/BRepClass_xcpp_src.Out

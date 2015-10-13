@@ -1,0 +1,5 @@
++M DDF:pubinclude:DDF_AttributeBrowser.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DDF_AttributeBrowser.hxx
++M DDF:pubinclude:DDF_IOStream.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/DDF_IOStream.hxx
++M DDF:dbadmfile:DDF_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DDF/.adm/DDF_obj_inc.In
++M DDF:dbadmfile:DDF_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DDF/.adm/DDF_obj_inc.Out
++M DDF:dbadmfile:DDF_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/DDF/.adm/DDF_obj_inc.Dep

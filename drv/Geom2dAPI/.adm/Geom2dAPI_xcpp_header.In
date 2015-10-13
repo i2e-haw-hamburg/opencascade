@@ -1,0 +1,7 @@
++V Geom2dAPI:msentity:Geom2dAPI .
++V Geom2dAPI:msentity:Geom2dAPI_ProjectPointOnCurve .
++V Geom2dAPI:msentity:Geom2dAPI_ExtremaCurveCurve .
++V Geom2dAPI:msentity:Geom2dAPI_PointsToBSpline .
++V Geom2dAPI:msentity:Geom2dAPI_Interpolate .
++V Geom2dAPI:msentity:Geom2dAPI_InterCurveCurve .
+- Geom2dAPI:admfile:Geom2dAPI_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dAPI/Geom2dAPI_xcpp_fill.Out

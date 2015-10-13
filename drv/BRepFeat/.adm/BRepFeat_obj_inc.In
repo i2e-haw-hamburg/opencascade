@@ -1,0 +1,13 @@
++ BRepFeat:source:BRepFeat_MakeCylindricalHole.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakeCylindricalHole.lxx
++ BRepFeat:source:BRepFeat_SplitShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_SplitShape.lxx
++ BRepFeat:source:BRepFeat_Form.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_Form.lxx
++ BRepFeat:source:BRepFeat_RibSlot.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_RibSlot.lxx
++ BRepFeat:source:BRepFeat_MakePrism.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakePrism.lxx
++ BRepFeat:source:BRepFeat_MakeRevol.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakeRevol.lxx
++ BRepFeat:source:BRepFeat_MakePipe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakePipe.lxx
++ BRepFeat:source:BRepFeat_Gluer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_Gluer.lxx
++ BRepFeat:source:BRepFeat_MakeDPrism.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakeDPrism.lxx
++ BRepFeat:source:BRepFeat_MakeLinearForm.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakeLinearForm.lxx
++ BRepFeat:source:BRepFeat_MakeRevolutionForm.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/BRepFeat/BRepFeat_MakeRevolutionForm.lxx
+- BRepFeat:admfile:BRepFeat_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepFeat/BRepFeat_src.Out
+- BRepFeat:admfile:BRepFeat_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepFeat/BRepFeat_xcpp_src.Out

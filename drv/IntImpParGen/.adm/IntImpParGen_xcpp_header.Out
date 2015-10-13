@@ -1,0 +1,9 @@
++M IntImpParGen:pubinclude:IntImpParGen.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImpParGen.hxx
++M IntImpParGen:privinclude:IntImpParGen.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/IntImpParGen.jxx
++M IntImpParGen:privinclude:IntImpParGen.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/IntImpParGen.ixx
++M IntImpParGen:pubinclude:IntImpParGen_ImpTool.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/IntImpParGen_ImpTool.hxx
++M IntImpParGen:privinclude:IntImpParGen_ImpTool.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/IntImpParGen_ImpTool.jxx
++M IntImpParGen:privinclude:IntImpParGen_ImpTool.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/IntImpParGen_ImpTool.ixx
++M IntImpParGen:dbadmfile:IntImpParGen_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/.adm/IntImpParGen_xcpp_header.In
++M IntImpParGen:dbadmfile:IntImpParGen_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/.adm/IntImpParGen_xcpp_header.Out
++M IntImpParGen:dbadmfile:IntImpParGen_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/IntImpParGen/.adm/IntImpParGen_xcpp_header.Dep

@@ -1,0 +1,7 @@
++ InterfaceGraphic:source:InterfaceGraphic.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic.hxx
++ InterfaceGraphic:source:InterfaceGraphic_Aspect.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic_Aspect.hxx
++ InterfaceGraphic:source:InterfaceGraphic_Graphic3d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic_Graphic3d.hxx
++ InterfaceGraphic:source:InterfaceGraphic_Visual3d.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic_Visual3d.hxx
++ InterfaceGraphic:source:InterfaceGraphic_telem.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic_telem.hxx
++ InterfaceGraphic:source:InterfaceGraphic_tgl_all.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/InterfaceGraphic/InterfaceGraphic_tgl_all.hxx
+- InterfaceGraphic:admfile:InterfaceGraphic_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/InterfaceGraphic/InterfaceGraphic_src.Out

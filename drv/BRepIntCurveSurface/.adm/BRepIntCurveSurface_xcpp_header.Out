@@ -1,0 +1,6 @@
++M BRepIntCurveSurface:pubinclude:BRepIntCurveSurface_Inter.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepIntCurveSurface_Inter.hxx
++M BRepIntCurveSurface:privinclude:BRepIntCurveSurface_Inter.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepIntCurveSurface/BRepIntCurveSurface_Inter.jxx
++M BRepIntCurveSurface:privinclude:BRepIntCurveSurface_Inter.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepIntCurveSurface/BRepIntCurveSurface_Inter.ixx
++M BRepIntCurveSurface:dbadmfile:BRepIntCurveSurface_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepIntCurveSurface/.adm/BRepIntCurveSurface_xcpp_header.In
++M BRepIntCurveSurface:dbadmfile:BRepIntCurveSurface_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepIntCurveSurface/.adm/BRepIntCurveSurface_xcpp_header.Out
++M BRepIntCurveSurface:dbadmfile:BRepIntCurveSurface_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepIntCurveSurface/.adm/BRepIntCurveSurface_xcpp_header.Dep

@@ -1,0 +1,13 @@
++V BRepPrim:msentity:BRepPrim .
++V BRepPrim:msentity:BRepPrim_Builder .
++V BRepPrim:msentity:BRepPrim_OneAxis .
++V BRepPrim:msentity:BRepPrim_Revolution .
++V BRepPrim:msentity:BRepPrim_Cylinder .
++V BRepPrim:msentity:BRepPrim_Cone .
++V BRepPrim:msentity:BRepPrim_Sphere .
++V BRepPrim:msentity:BRepPrim_Torus .
++V BRepPrim:msentity:BRepPrim_GWedge .
++V BRepPrim:msentity:BRepPrim_Wedge .
++V BRepPrim:msentity:BRepPrim_FaceBuilder .
++V BRepPrim:msentity:BRepPrim_Direction .
+- BRepPrim:admfile:BRepPrim_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/BRepPrim/BRepPrim_xcpp_fill.Out

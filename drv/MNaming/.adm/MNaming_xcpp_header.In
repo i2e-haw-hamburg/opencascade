@@ -1,0 +1,8 @@
++V MNaming:msentity:MNaming .
++V MNaming:msentity:MNaming_NamedShapeRetrievalDriver .
++V MNaming:msentity:MNaming_NamingRetrievalDriver .
++V MNaming:msentity:MNaming_NamingRetrievalDriver_1 .
++V MNaming:msentity:MNaming_NamingRetrievalDriver_2 .
++V MNaming:msentity:MNaming_NamedShapeStorageDriver .
++V MNaming:msentity:MNaming_NamingStorageDriver .
+- MNaming:admfile:MNaming_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/MNaming/MNaming_xcpp_fill.Out

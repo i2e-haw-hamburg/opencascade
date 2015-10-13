@@ -1,0 +1,11 @@
++ Font:pubinclude:Font_BRepFont.hxx Font:source:Font_BRepFont.hxx
++ Font:pubinclude:Font_FTFont.hxx Font:source:Font_FTFont.hxx
++ Font:pubinclude:Font_FTLibrary.hxx Font:source:Font_FTLibrary.hxx
++ Font:pubinclude:Font_NListOfSystemFont.hxx Font:source:Font_NListOfSystemFont.hxx
++ Font:pubinclude:Font_NameOfFont.hxx Font:source:Font_NameOfFont.hxx
++ Font:dbadmfile:Font_obj_inc.In Font:admfile:Font_src.Out
++ * Font:admfile:Font_xcpp_src.Out
++ Font:dbadmfile:Font_obj_inc.Out Font:admfile:Font_src.Out
++ * Font:admfile:Font_xcpp_src.Out
++ Font:dbadmfile:Font_obj_inc.Dep Font:admfile:Font_src.Out
++ * Font:admfile:Font_xcpp_src.Out

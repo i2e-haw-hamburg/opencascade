@@ -1,0 +1,4 @@
++V XmlMPrsStd:msentity:XmlMPrsStd .
++V XmlMPrsStd:msentity:XmlMPrsStd_PositionDriver .
++V XmlMPrsStd:msentity:XmlMPrsStd_AISPresentationDriver .
+- XmlMPrsStd:admfile:XmlMPrsStd_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlMPrsStd/XmlMPrsStd_xcpp_fill.Out

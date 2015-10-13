@@ -1,0 +1,6 @@
++M GeomliteTest:pubinclude:GeomliteTest.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/GeomliteTest.hxx
++M GeomliteTest:privinclude:GeomliteTest.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomliteTest/GeomliteTest.jxx
++M GeomliteTest:privinclude:GeomliteTest.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomliteTest/GeomliteTest.ixx
++M GeomliteTest:dbadmfile:GeomliteTest_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomliteTest/.adm/GeomliteTest_xcpp_header.In
++M GeomliteTest:dbadmfile:GeomliteTest_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomliteTest/.adm/GeomliteTest_xcpp_header.Out
++M GeomliteTest:dbadmfile:GeomliteTest_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/GeomliteTest/.adm/GeomliteTest_xcpp_header.Dep

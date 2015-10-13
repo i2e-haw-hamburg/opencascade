@@ -1,0 +1,12 @@
++M Font:pubinclude:Handle_Font_SystemFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Font_SystemFont.hxx
++M Font:pubinclude:Font_SystemFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_SystemFont.hxx
++M Font:privinclude:Font_SystemFont.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/Font_SystemFont.jxx
++M Font:privinclude:Font_SystemFont.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/Font_SystemFont.ixx
++M Font:pubinclude:Handle_Font_FontMgr.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Handle_Font_FontMgr.hxx
++M Font:pubinclude:Font_FontMgr.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_FontMgr.hxx
++M Font:privinclude:Font_FontMgr.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/Font_FontMgr.jxx
++M Font:privinclude:Font_FontMgr.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/Font_FontMgr.ixx
++M Font:pubinclude:Font_FontAspect.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Font_FontAspect.hxx
++M Font:dbadmfile:Font_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_xcpp_header.In
++M Font:dbadmfile:Font_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_xcpp_header.Out
++M Font:dbadmfile:Font_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Font/.adm/Font_xcpp_header.Dep

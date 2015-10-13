@@ -1,0 +1,7 @@
+dbadmfile Xw_xcpp_header.In
+dbadmfile Xw_xcpp_header.Out
+dbadmfile Xw_xcpp_header.Dep
+pubinclude Xw_Window.hxx
+dbadmfile Xw_obj_inc.In
+dbadmfile Xw_obj_inc.Out
+dbadmfile Xw_obj_inc.Dep

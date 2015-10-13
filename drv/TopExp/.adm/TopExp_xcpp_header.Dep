@@ -1,0 +1,10 @@
++ TopExp:pubinclude:TopExp.hxx TopExp:msentity:TopExp
++ TopExp:privinclude:TopExp.jxx TopExp:msentity:TopExp
++ TopExp:privinclude:TopExp.ixx TopExp:msentity:TopExp
++ TopExp:pubinclude:TopExp_Explorer.hxx TopExp:msentity:TopExp_Explorer
++ TopExp:privinclude:TopExp_Explorer.jxx TopExp:msentity:TopExp_Explorer
++ TopExp:privinclude:TopExp_Explorer.ixx TopExp:msentity:TopExp_Explorer
++ TopExp:pubinclude:TopExp_Stack.hxx TopExp:msentity:TopExp_Stack
++ TopExp:dbadmfile:TopExp_xcpp_header.In TopExp:admfile:TopExp_xcpp_fill.Out
++ TopExp:dbadmfile:TopExp_xcpp_header.Out TopExp:admfile:TopExp_xcpp_fill.Out
++ TopExp:dbadmfile:TopExp_xcpp_header.Dep TopExp:admfile:TopExp_xcpp_fill.Out

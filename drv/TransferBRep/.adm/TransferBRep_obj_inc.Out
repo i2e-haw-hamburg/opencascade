@@ -1,0 +1,4 @@
++M TransferBRep:pubinclude:TransferBRep_TransferResultInfo.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/TransferBRep_TransferResultInfo.lxx
++M TransferBRep:dbadmfile:TransferBRep_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TransferBRep/.adm/TransferBRep_obj_inc.In
++M TransferBRep:dbadmfile:TransferBRep_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TransferBRep/.adm/TransferBRep_obj_inc.Out
++M TransferBRep:dbadmfile:TransferBRep_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/TransferBRep/.adm/TransferBRep_obj_inc.Dep

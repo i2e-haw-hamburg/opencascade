@@ -1,0 +1,14 @@
++ QABugs:pubinclude:QABugs.hxx QABugs:msentity:QABugs
++ QABugs:privinclude:QABugs.jxx QABugs:msentity:QABugs
++ QABugs:privinclude:QABugs.ixx QABugs:msentity:QABugs
++ QABugs:pubinclude:Handle_QABugs_MyText.hxx QABugs:msentity:QABugs_MyText
++ QABugs:pubinclude:QABugs_MyText.hxx QABugs:msentity:QABugs_MyText
++ QABugs:privinclude:QABugs_MyText.jxx QABugs:msentity:QABugs_MyText
++ QABugs:privinclude:QABugs_MyText.ixx QABugs:msentity:QABugs_MyText
++ QABugs:pubinclude:Handle_QABugs_PresentableObject.hxx QABugs:msentity:QABugs_PresentableObject
++ QABugs:pubinclude:QABugs_PresentableObject.hxx QABugs:msentity:QABugs_PresentableObject
++ QABugs:privinclude:QABugs_PresentableObject.jxx QABugs:msentity:QABugs_PresentableObject
++ QABugs:privinclude:QABugs_PresentableObject.ixx QABugs:msentity:QABugs_PresentableObject
++ QABugs:dbadmfile:QABugs_xcpp_header.In QABugs:admfile:QABugs_xcpp_fill.Out
++ QABugs:dbadmfile:QABugs_xcpp_header.Out QABugs:admfile:QABugs_xcpp_fill.Out
++ QABugs:dbadmfile:QABugs_xcpp_header.Dep QABugs:admfile:QABugs_xcpp_fill.Out

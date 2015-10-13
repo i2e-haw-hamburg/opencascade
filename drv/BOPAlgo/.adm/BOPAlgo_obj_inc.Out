@@ -1,0 +1,9 @@
++M BOPAlgo:pubinclude:BOPAlgo_ListOfCheckResult.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_ListOfCheckResult.hxx
++M BOPAlgo:pubinclude:BOPAlgo_WireEdgeSet.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_WireEdgeSet.lxx
++M BOPAlgo:pubinclude:BOPAlgo_WireSplitter.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_WireSplitter.lxx
++M BOPAlgo:pubinclude:BOPAlgo_SectionAttribute.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_SectionAttribute.lxx
++M BOPAlgo:pubinclude:BOPAlgo_ArgumentAnalyzer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_ArgumentAnalyzer.lxx
++M BOPAlgo:pubinclude:BOPAlgo_MakerVolume.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BOPAlgo_MakerVolume.lxx
++M BOPAlgo:dbadmfile:BOPAlgo_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPAlgo/.adm/BOPAlgo_obj_inc.In
++M BOPAlgo:dbadmfile:BOPAlgo_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPAlgo/.adm/BOPAlgo_obj_inc.Out
++M BOPAlgo:dbadmfile:BOPAlgo_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BOPAlgo/.adm/BOPAlgo_obj_inc.Dep

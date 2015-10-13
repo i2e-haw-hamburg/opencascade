@@ -1,0 +1,14 @@
++M BRepFeat:pubinclude:BRepFeat_MakeCylindricalHole.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakeCylindricalHole.lxx
++M BRepFeat:pubinclude:BRepFeat_SplitShape.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_SplitShape.lxx
++M BRepFeat:pubinclude:BRepFeat_Form.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_Form.lxx
++M BRepFeat:pubinclude:BRepFeat_RibSlot.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_RibSlot.lxx
++M BRepFeat:pubinclude:BRepFeat_MakePrism.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakePrism.lxx
++M BRepFeat:pubinclude:BRepFeat_MakeRevol.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakeRevol.lxx
++M BRepFeat:pubinclude:BRepFeat_MakePipe.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakePipe.lxx
++M BRepFeat:pubinclude:BRepFeat_Gluer.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_Gluer.lxx
++M BRepFeat:pubinclude:BRepFeat_MakeDPrism.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakeDPrism.lxx
++M BRepFeat:pubinclude:BRepFeat_MakeLinearForm.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakeLinearForm.lxx
++M BRepFeat:pubinclude:BRepFeat_MakeRevolutionForm.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepFeat_MakeRevolutionForm.lxx
++M BRepFeat:dbadmfile:BRepFeat_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFeat/.adm/BRepFeat_obj_inc.In
++M BRepFeat:dbadmfile:BRepFeat_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFeat/.adm/BRepFeat_obj_inc.Out
++M BRepFeat:dbadmfile:BRepFeat_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepFeat/.adm/BRepFeat_obj_inc.Dep

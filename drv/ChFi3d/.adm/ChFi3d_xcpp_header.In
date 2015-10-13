@@ -1,0 +1,7 @@
++V ChFi3d:msentity:ChFi3d .
++V ChFi3d:msentity:ChFi3d_Builder .
++V ChFi3d:msentity:ChFi3d_ChBuilder .
++V ChFi3d:msentity:ChFi3d_FilBuilder .
++V ChFi3d:msentity:ChFi3d_SearchSing .
++V ChFi3d:msentity:ChFi3d_FilletShape .
+- ChFi3d:admfile:ChFi3d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ChFi3d/ChFi3d_xcpp_fill.Out

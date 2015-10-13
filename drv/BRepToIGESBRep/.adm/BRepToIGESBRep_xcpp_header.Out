@@ -1,0 +1,6 @@
++M BRepToIGESBRep:pubinclude:BRepToIGESBRep_Entity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/BRepToIGESBRep_Entity.hxx
++M BRepToIGESBRep:privinclude:BRepToIGESBRep_Entity.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGESBRep/BRepToIGESBRep_Entity.jxx
++M BRepToIGESBRep:privinclude:BRepToIGESBRep_Entity.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGESBRep/BRepToIGESBRep_Entity.ixx
++M BRepToIGESBRep:dbadmfile:BRepToIGESBRep_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGESBRep/.adm/BRepToIGESBRep_xcpp_header.In
++M BRepToIGESBRep:dbadmfile:BRepToIGESBRep_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGESBRep/.adm/BRepToIGESBRep_xcpp_header.Out
++M BRepToIGESBRep:dbadmfile:BRepToIGESBRep_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/BRepToIGESBRep/.adm/BRepToIGESBRep_xcpp_header.Dep

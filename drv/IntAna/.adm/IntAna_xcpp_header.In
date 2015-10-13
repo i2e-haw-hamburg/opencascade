@@ -1,0 +1,13 @@
++V IntAna:msentity:IntAna .
++V IntAna:msentity:IntAna_QuadQuadGeo .
++V IntAna:msentity:IntAna_IntQuadQuad .
++V IntAna:msentity:IntAna_Int3Pln .
++V IntAna:msentity:IntAna_IntLinTorus .
++V IntAna:msentity:IntAna_IntConicQuad .
++V IntAna:msentity:IntAna_Curve .
++V IntAna:msentity:IntAna_Quadric .
++V IntAna:msentity:IntAna_ListOfCurve .
++V IntAna:msentity:IntAna_ListNodeOfListOfCurve .
++V IntAna:msentity:IntAna_ListIteratorOfListOfCurve .
++V IntAna:msentity:IntAna_ResultType .
+- IntAna:admfile:IntAna_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntAna/IntAna_xcpp_fill.Out

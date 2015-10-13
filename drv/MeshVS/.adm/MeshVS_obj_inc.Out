@@ -1,0 +1,17 @@
++M MeshVS:pubinclude:MeshVS_Buffer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_Buffer.hxx
++M MeshVS:pubinclude:MeshVS_EntityType.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_EntityType.hxx
++M MeshVS:pubinclude:MeshVS_DisplayModeFlags.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_DisplayModeFlags.hxx
++M MeshVS:pubinclude:MeshVS_DummySensitiveEntity.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_DummySensitiveEntity.hxx
++M MeshVS:pubinclude:MeshVS_BuilderPriority.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_BuilderPriority.hxx
++M MeshVS:pubinclude:MeshVS_MeshPrsBuilder.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_MeshPrsBuilder.lxx
++M MeshVS:pubinclude:MeshVS_TwoColors.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_TwoColors.hxx
++M MeshVS:pubinclude:MeshVS_TwoNodes.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_TwoNodes.hxx
++M MeshVS:pubinclude:MeshVS_SelectionModeFlags.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SelectionModeFlags.hxx
++M MeshVS:pubinclude:MeshVS_SensitiveFace.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SensitiveFace.hxx
++M MeshVS:pubinclude:MeshVS_SensitiveMesh.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SensitiveMesh.hxx
++M MeshVS:pubinclude:MeshVS_SensitiveSegment.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SensitiveSegment.hxx
++M MeshVS:pubinclude:MeshVS_SensitivePolyhedron.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SensitivePolyhedron.hxx
++M MeshVS:pubinclude:MeshVS_SymmetricPairHasher.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/MeshVS_SymmetricPairHasher.hxx
++M MeshVS:dbadmfile:MeshVS_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MeshVS/.adm/MeshVS_obj_inc.In
++M MeshVS:dbadmfile:MeshVS_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MeshVS/.adm/MeshVS_obj_inc.Out
++M MeshVS:dbadmfile:MeshVS_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/MeshVS/.adm/MeshVS_obj_inc.Dep

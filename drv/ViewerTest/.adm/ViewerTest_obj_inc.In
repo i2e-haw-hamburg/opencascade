@@ -1,0 +1,5 @@
++ ViewerTest:source:ViewerTest_AutoUpdater.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ViewerTest/ViewerTest_AutoUpdater.hxx
++ ViewerTest:source:ViewerTest.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ViewerTest/ViewerTest.hxx
++ ViewerTest:source:ViewerTest_EventManager.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ViewerTest/ViewerTest_EventManager.lxx
+- ViewerTest:admfile:ViewerTest_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ViewerTest/ViewerTest_src.Out
+- ViewerTest:admfile:ViewerTest_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ViewerTest/ViewerTest_xcpp_src.Out

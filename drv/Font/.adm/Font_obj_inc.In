@@ -1,0 +1,7 @@
++ Font:source:Font_BRepFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Font/Font_BRepFont.hxx
++ Font:source:Font_FTFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Font/Font_FTFont.hxx
++ Font:source:Font_FTLibrary.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Font/Font_FTLibrary.hxx
++ Font:source:Font_NListOfSystemFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Font/Font_NListOfSystemFont.hxx
++ Font:source:Font_NameOfFont.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Font/Font_NameOfFont.hxx
+- Font:admfile:Font_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Font/Font_src.Out
+- Font:admfile:Font_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Font/Font_xcpp_src.Out

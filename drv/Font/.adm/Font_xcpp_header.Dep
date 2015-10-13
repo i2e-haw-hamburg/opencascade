@@ -1,0 +1,12 @@
++ Font:pubinclude:Handle_Font_SystemFont.hxx Font:msentity:Font_SystemFont
++ Font:pubinclude:Font_SystemFont.hxx Font:msentity:Font_SystemFont
++ Font:privinclude:Font_SystemFont.jxx Font:msentity:Font_SystemFont
++ Font:privinclude:Font_SystemFont.ixx Font:msentity:Font_SystemFont
++ Font:pubinclude:Handle_Font_FontMgr.hxx Font:msentity:Font_FontMgr
++ Font:pubinclude:Font_FontMgr.hxx Font:msentity:Font_FontMgr
++ Font:privinclude:Font_FontMgr.jxx Font:msentity:Font_FontMgr
++ Font:privinclude:Font_FontMgr.ixx Font:msentity:Font_FontMgr
++ Font:pubinclude:Font_FontAspect.hxx Font:msentity:Font_FontAspect
++ Font:dbadmfile:Font_xcpp_header.In Font:admfile:Font_xcpp_fill.Out
++ Font:dbadmfile:Font_xcpp_header.Out Font:admfile:Font_xcpp_fill.Out
++ Font:dbadmfile:Font_xcpp_header.Dep Font:admfile:Font_xcpp_fill.Out

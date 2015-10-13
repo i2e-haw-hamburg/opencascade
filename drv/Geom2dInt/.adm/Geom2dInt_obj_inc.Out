@@ -1,0 +1,4 @@
++M Geom2dInt:pubinclude:Geom2dInt_Geom2dCurveTool.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/Geom2dInt_Geom2dCurveTool.lxx
++M Geom2dInt:dbadmfile:Geom2dInt_obj_inc.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dInt/.adm/Geom2dInt_obj_inc.In
++M Geom2dInt:dbadmfile:Geom2dInt_obj_inc.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dInt/.adm/Geom2dInt_obj_inc.Out
++M Geom2dInt:dbadmfile:Geom2dInt_obj_inc.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/Geom2dInt/.adm/Geom2dInt_obj_inc.Dep

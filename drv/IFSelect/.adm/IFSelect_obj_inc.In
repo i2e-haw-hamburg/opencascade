@@ -1,0 +1,5 @@
++ IFSelect:source:IFSelect_ActFunc.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IFSelect/IFSelect_ActFunc.hxx
++ IFSelect:source:IFSelect_FileModifier.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IFSelect/IFSelect_FileModifier.gxx
++ IFSelect:source:IFSelect_ModelModifier.gxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IFSelect/IFSelect_ModelModifier.gxx
+- IFSelect:admfile:IFSelect_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IFSelect/IFSelect_src.Out
+- IFSelect:admfile:IFSelect_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IFSelect/IFSelect_xcpp_src.Out

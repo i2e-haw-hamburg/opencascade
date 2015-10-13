@@ -1,0 +1,4 @@
++ IGESData:source:IGESData_Dump.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IGESData/IGESData_Dump.hxx
++ IGESData:source:IGESData_ParamCursor.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/IGESData/IGESData_ParamCursor.lxx
+- IGESData:admfile:IGESData_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IGESData/IGESData_src.Out
+- IGESData:admfile:IGESData_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IGESData/IGESData_xcpp_src.Out

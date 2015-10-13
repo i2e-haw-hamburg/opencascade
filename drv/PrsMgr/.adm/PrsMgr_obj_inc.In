@@ -1,0 +1,7 @@
++ PrsMgr:source:PrsMgr_ListOfPresentations.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PrsMgr/PrsMgr_ListOfPresentations.hxx
++ PrsMgr:source:PrsMgr_ListOfPresentableObjects.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PrsMgr/PrsMgr_ListOfPresentableObjects.hxx
++ PrsMgr:source:PrsMgr_PresentationManager.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PrsMgr/PrsMgr_PresentationManager.lxx
++ PrsMgr:source:PrsMgr_Presentation.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PrsMgr/PrsMgr_Presentation.lxx
++ PrsMgr:source:PrsMgr_PresentableObject.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/PrsMgr/PrsMgr_PresentableObject.lxx
+- PrsMgr:admfile:PrsMgr_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PrsMgr/PrsMgr_src.Out
+- PrsMgr:admfile:PrsMgr_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/PrsMgr/PrsMgr_xcpp_src.Out

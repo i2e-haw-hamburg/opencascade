@@ -1,0 +1,13 @@
++M StlAPI:pubinclude:StlAPI.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StlAPI.hxx
++M StlAPI:privinclude:StlAPI.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI.jxx
++M StlAPI:privinclude:StlAPI.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI.ixx
++M StlAPI:pubinclude:StlAPI_Writer.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StlAPI_Writer.hxx
++M StlAPI:privinclude:StlAPI_Writer.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI_Writer.jxx
++M StlAPI:privinclude:StlAPI_Writer.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI_Writer.ixx
++M StlAPI:pubinclude:StlAPI_Reader.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StlAPI_Reader.hxx
++M StlAPI:privinclude:StlAPI_Reader.jxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI_Reader.jxx
++M StlAPI:privinclude:StlAPI_Reader.ixx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/StlAPI_Reader.ixx
++M StlAPI:pubinclude:StlAPI_ErrorStatus.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/inc/StlAPI_ErrorStatus.hxx
++M StlAPI:dbadmfile:StlAPI_xcpp_header.In /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/.adm/StlAPI_xcpp_header.In
++M StlAPI:dbadmfile:StlAPI_xcpp_header.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/.adm/StlAPI_xcpp_header.Out
++M StlAPI:dbadmfile:StlAPI_xcpp_header.Dep /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/drv/StlAPI/.adm/StlAPI_xcpp_header.Dep

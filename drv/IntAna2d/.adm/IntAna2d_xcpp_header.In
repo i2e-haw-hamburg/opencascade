@@ -1,0 +1,5 @@
++V IntAna2d:msentity:IntAna2d .
++V IntAna2d:msentity:IntAna2d_Conic .
++V IntAna2d:msentity:IntAna2d_AnaIntersection .
++V IntAna2d:msentity:IntAna2d_IntPoint .
+- IntAna2d:admfile:IntAna2d_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/IntAna2d/IntAna2d_xcpp_fill.Out

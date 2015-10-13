@@ -1,0 +1,5 @@
++ Geom2dAPI:source:Geom2dAPI_ProjectPointOnCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Geom2dAPI/Geom2dAPI_ProjectPointOnCurve.lxx
++ Geom2dAPI:source:Geom2dAPI_ExtremaCurveCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Geom2dAPI/Geom2dAPI_ExtremaCurveCurve.lxx
++ Geom2dAPI:source:Geom2dAPI_InterCurveCurve.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/Geom2dAPI/Geom2dAPI_InterCurveCurve.lxx
+- Geom2dAPI:admfile:Geom2dAPI_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dAPI/Geom2dAPI_src.Out
+- Geom2dAPI:admfile:Geom2dAPI_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/Geom2dAPI/Geom2dAPI_xcpp_src.Out

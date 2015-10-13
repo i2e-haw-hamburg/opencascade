@@ -1,0 +1,17 @@
+pubinclude QABugs.hxx
+privinclude QABugs.jxx
+privinclude QABugs.ixx
+pubinclude Handle_QABugs_MyText.hxx
+pubinclude QABugs_MyText.hxx
+privinclude QABugs_MyText.jxx
+privinclude QABugs_MyText.ixx
+pubinclude Handle_QABugs_PresentableObject.hxx
+pubinclude QABugs_PresentableObject.hxx
+privinclude QABugs_PresentableObject.jxx
+privinclude QABugs_PresentableObject.ixx
+dbadmfile QABugs_xcpp_header.In
+dbadmfile QABugs_xcpp_header.Out
+dbadmfile QABugs_xcpp_header.Dep
+dbadmfile QABugs_obj_inc.In
+dbadmfile QABugs_obj_inc.Out
+dbadmfile QABugs_obj_inc.Dep

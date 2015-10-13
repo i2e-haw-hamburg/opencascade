@@ -1,0 +1,10 @@
++ ShapeAnalysis:source:ShapeAnalysis_BoxBndTree.hxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_BoxBndTree.hxx
++ ShapeAnalysis:source:ShapeAnalysis_Surface.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_Surface.lxx
++ ShapeAnalysis:source:ShapeAnalysis_Wire.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_Wire.lxx
++ ShapeAnalysis:source:ShapeAnalysis_CheckSmallFace.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_CheckSmallFace.lxx
++ ShapeAnalysis:source:ShapeAnalysis_ShapeContents.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_ShapeContents.lxx
++ ShapeAnalysis:source:ShapeAnalysis_FreeBounds.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_FreeBounds.lxx
++ ShapeAnalysis:source:ShapeAnalysis_FreeBoundData.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_FreeBoundData.lxx
++ ShapeAnalysis:source:ShapeAnalysis_FreeBoundsProperties.lxx /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/src/ShapeAnalysis/ShapeAnalysis_FreeBoundsProperties.lxx
+- ShapeAnalysis:admfile:ShapeAnalysis_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeAnalysis/ShapeAnalysis_src.Out
+- ShapeAnalysis:admfile:ShapeAnalysis_xcpp_src.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/ShapeAnalysis/ShapeAnalysis_xcpp_src.Out

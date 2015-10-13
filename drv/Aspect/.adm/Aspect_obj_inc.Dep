@@ -1,0 +1,17 @@
++ Aspect:pubinclude:Aspect_CLayer2d.hxx Aspect:source:Aspect_CLayer2d.hxx
++ Aspect:pubinclude:Aspect_Handle.hxx Aspect:source:Aspect_Handle.hxx
++ Aspect:pubinclude:Aspect_XWD.hxx Aspect:source:Aspect_XWD.hxx
++ Aspect:pubinclude:Aspect_Units.hxx Aspect:source:Aspect_Units.hxx
++ Aspect:pubinclude:Aspect_RenderingContext.hxx Aspect:source:Aspect_RenderingContext.hxx
++ Aspect:pubinclude:Aspect_GraphicCallbackProc.hxx Aspect:source:Aspect_GraphicCallbackProc.hxx
++ Aspect:pubinclude:Aspect_Display.hxx Aspect:source:Aspect_Display.hxx
++ Aspect:pubinclude:Aspect_Drawable.hxx Aspect:source:Aspect_Drawable.hxx
++ Aspect:pubinclude:Aspect_PolygonOffsetMode.hxx Aspect:source:Aspect_PolygonOffsetMode.hxx
++ Aspect:pubinclude:Aspect_Convert.hxx Aspect:source:Aspect_Convert.hxx
++ Aspect:pubinclude:Aspect_DisplayConnection.hxx Aspect:source:Aspect_DisplayConnection.hxx
++ Aspect:dbadmfile:Aspect_obj_inc.In Aspect:admfile:Aspect_src.Out
++ * Aspect:admfile:Aspect_xcpp_src.Out
++ Aspect:dbadmfile:Aspect_obj_inc.Out Aspect:admfile:Aspect_src.Out
++ * Aspect:admfile:Aspect_xcpp_src.Out
++ Aspect:dbadmfile:Aspect_obj_inc.Dep Aspect:admfile:Aspect_src.Out
++ * Aspect:admfile:Aspect_xcpp_src.Out

@@ -1,0 +1,4 @@
++V STEPEdit:msentity:STEPEdit .
++V STEPEdit:msentity:STEPEdit_EditContext .
++V STEPEdit:msentity:STEPEdit_EditSDR .
+- STEPEdit:admfile:STEPEdit_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/STEPEdit/STEPEdit_xcpp_fill.Out

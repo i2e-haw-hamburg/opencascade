@@ -1,0 +1,10 @@
++V XmlObjMgt:msentity:XmlObjMgt .
++V XmlObjMgt:msentity:XmlObjMgt_Persistent .
++V XmlObjMgt:msentity:XmlObjMgt_GP .
++V XmlObjMgt:msentity:XmlObjMgt_Array1 .
++V XmlObjMgt:msentity:XmlObjMgt_SRelocationTable .
++V XmlObjMgt:msentity:XmlObjMgt_RRelocationTable .
++V XmlObjMgt:msentity:XmlObjMgt_DOMString .
++V XmlObjMgt:msentity:XmlObjMgt_Document .
++V XmlObjMgt:msentity:XmlObjMgt_Element .
+- XmlObjMgt:admfile:XmlObjMgt_xcpp_fill.Out /misc/dn61/LocalWOK/wok_entities/LOC/dev/CR0-OCCT691-7-CR0-OCCT691-occt-64/.adm/XmlObjMgt/XmlObjMgt_xcpp_fill.Out
